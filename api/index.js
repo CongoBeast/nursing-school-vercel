@@ -39,6 +39,10 @@ app.use(cors(corsOptions));
 app.options("*", cors(corsOptions));
 app.set("trust proxy", 1);
 
+app.get("/", (req, res) => {
+  res.json({ status: "ok", message: "Nursing School API is running" });
+});
+
 const uri = process.env.MONGODB_URI;
 
 let cachedClient = null;
@@ -130,14 +134,6 @@ async function createNotification(userId, username, notificationType, message) {
     console.error("Error creating notification:", error);
   }
 }
-
-app.get("/", (req, res) => {
-  res.json({ status: "ok", message: "Nursing School API is running" });
-});
-
-app.get("/api", (req, res) => {
-  res.json({ status: "ok", message: "Nursing School API is running" });
-});
 
 app.post("/api/register", async (req, res) => {
   try {
@@ -714,17 +710,6 @@ app.post("/api/move-student-housing", async (req, res) => {
   }
 });
 
-app.get("/api/get-housing", async (req, res) => {
-  try {
-    const housingCollection = await getCollection("housing");
-    const housing = await housingCollection.find({}).toArray();
-    res.json(housing);
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ message: "Failed to fetch housing" });
-  }
-});
-
 app.post("/api/deactivate-student-housing", async (req, res) => {
   try {
     const usersCollection = await getCollection("users");
@@ -784,11 +769,86 @@ app.post("/api/deactivate-student-housing", async (req, res) => {
   }
 });
 
+app.get("/api/get-housing", async (req, res) => {
+  try {
+    const housingCollection = await getCollection("housing");
+    const housing = await housingCollection.find({}).toArray();
+    res.json(housing);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Failed to fetch housing" });
+  }
+});
+
+app.get("/api/get-room-occupancy", async (req, res) => {
+  try {
+    const usersCollection = await getCollection("users");
+    const housingCollection = await getCollection("housing");
+
+    const rooms = await housingCollection.find({}).toArray();
+
+    const students = await usersCollection
+      .find({ userType: "student" })
+      .toArray();
+
+    const studentMap = {};
+    students.forEach((student) => {
+      studentMap[student._id.toString()] = {
+        studentId: student.studentId,
+        username: student.username,
+        gender: student.gender,
+        photo: student.photo || student.avatar,
+      };
+    });
+
+    const roomsWithDetails = rooms.map((room) => ({
+      house: room.house,
+      roomNumber: room.roomNumber,
+      status: room.status,
+      capacity: 2,
+      occupancy: room.residents.length,
+      residents: room.residents.map(
+        (residentId) =>
+          studentMap[residentId] || {
+            studentId: "Unknown",
+            username: "Unknown",
+          },
+      ),
+    }));
+
+    const adlamRooms = roomsWithDetails.filter(
+      (r) => r.house === "Adlam House",
+    );
+    const nurseRooms = roomsWithDetails.filter((r) => r.house === "Nurse Home");
+
+    res.json({
+      adlamHouse: {
+        totalRooms: 119,
+        rooms: adlamRooms,
+        occupied: adlamRooms.filter((r) => r.occupancy > 0).length,
+        available: adlamRooms.filter((r) => r.occupancy === 0).length,
+        full: adlamRooms.filter((r) => r.occupancy >= 2).length,
+      },
+      nurseHome: {
+        totalRooms: 122,
+        rooms: nurseRooms,
+        occupied: nurseRooms.filter((r) => r.occupancy > 0).length,
+        available: nurseRooms.filter((r) => r.occupancy === 0).length,
+        full: nurseRooms.filter((r) => r.occupancy >= 2).length,
+      },
+    });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Failed to fetch room occupancy" });
+  }
+});
+
 app.post("/api/add-fault-report", upload.single("image"), async (req, res) => {
   try {
-    const { house, roomNumber, category, description, reportedBy, status } = req.body;
+    const { house, roomNumber, item, details, discoveryDate, reportedBy } =
+      req.body;
 
-    if (!house || !roomNumber || !category || !reportedBy) {
+    if (!house || !roomNumber || !item || !discoveryDate || !reportedBy) {
       return res.status(400).json({ message: "Missing required fields" });
     }
 
@@ -811,18 +871,27 @@ app.post("/api/add-fault-report", upload.single("image"), async (req, res) => {
       faultReportId,
       house,
       roomNumber,
-      category,
-      description: description || "",
+      item,
+      details: details || "",
+      discoveryDate,
       reportedBy,
       imageUrl,
-      status: status || "Pending",
+      status: "Pending",
       createdAt: new Date(),
     });
 
     await sendReportNotificationEmail(
       "fault",
-      { faultReportId, house, roomNumber, category, description, reportedBy, status },
-      imageUrl
+      {
+        faultReportId,
+        house,
+        roomNumber,
+        item,
+        details,
+        discoveryDate,
+        reportedBy,
+      },
+      imageUrl,
     );
 
     res.json({ success: true, faultReportId: result.insertedId });
@@ -962,20 +1031,6 @@ app.get("/api/get-rental-records/:studentId", async (req, res) => {
   } catch (error) {
     console.error(error);
     res.status(500).json({ message: "Failed to fetch rental records" });
-  }
-});
-
-app.get("/api/check-rental-status/:studentId/:month", async (req, res) => {
-  try {
-    const { studentId, month } = req.params;
-    const rentalRecordsCollection = await getCollection("rental_records");
-
-    const record = await rentalRecordsCollection.findOne({ studentId, month });
-
-    res.json({ hasPaid: !!record, record: record || null });
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ message: "Failed to check rental status" });
   }
 });
 
@@ -1254,6 +1309,20 @@ app.get("/api/get-employee-timesheet/:username", async (req, res) => {
   }
 });
 
+app.get("/api/check-rental-status/:studentId/:month", async (req, res) => {
+  try {
+    const { studentId, month } = req.params;
+    const rentalRecordsCollection = await getCollection("rental_records");
+
+    const record = await rentalRecordsCollection.findOne({ studentId, month });
+
+    res.json({ hasPaid: !!record, record: record || null });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Failed to check rental status" });
+  }
+});
+
 app.post("/api/add-facility-report", upload.single("image"), async (req, res) => {
   try {
     const {
@@ -1300,8 +1369,17 @@ app.post("/api/add-facility-report", upload.single("image"), async (req, res) =>
 
     await sendReportNotificationEmail(
       "facility",
-      { facilityReportId, dorm, facilityType, title, description, discoveryDate, reportedBy, status },
-      imageUrl
+      {
+        facilityReportId,
+        dorm,
+        facilityType,
+        title,
+        description,
+        discoveryDate,
+        reportedBy,
+        status,
+      },
+      imageUrl,
     );
 
     res.json({ success: true, facilityReportId: result.insertedId });
@@ -1392,6 +1470,8 @@ app.put("/api/mark-notification-read/:notificationId", async (req, res) => {
 
 app.post("/api/add-maintenance-notice", async (req, res) => {
   try {
+    console.log("Received maintenance notice data:", JSON.stringify(req.body));
+
     const houseName = req.body.houseName || req.body.house;
     const problemTitle = req.body.problemTitle || req.body.title;
     const maintenanceDate = req.body.maintenanceDate || req.body.plannedDate;
@@ -1584,6 +1664,8 @@ app.get("/api/get-maintenance-notices-by-fault/:faultReportId", async (req, res)
 });
 
 app.post("/api/reset-password", async (req, res) => {
+  console.log("Password reset request received");
+
   try {
     const usersCollection = await getCollection("users");
     const { id, email, newPassword, confirmPassword } = req.body;
@@ -1891,28 +1973,76 @@ async function sendWelcomeEmail(email, username) {
       <html>
       <head>
         <style>
-          body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px; }
-          .header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
-          .header h1 { margin: 0; font-size: 24px; }
-          .content { background: #f9f9f9; padding: 30px; border-radius: 0 0 10px 10px; }
-          .welcome-message { background: white; padding: 20px; border-radius: 8px; margin-bottom: 20px; border-left: 4px solid #667eea; }
-          .info-box { background: white; padding: 15px; border-radius: 8px; margin: 15px 0; }
-          .footer { text-align: center; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; color: #666; font-size: 14px; }
-          .button { display: inline-block; padding: 12px 30px; background: #667eea; color: white; text-decoration: none; border-radius: 5px; margin: 15px 0; }
+          body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+          }
+          .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+            border-radius: 10px 10px 0 0;
+          }
+          .header h1 {
+            margin: 0;
+            font-size: 24px;
+          }
+          .content {
+            background: #f9f9f9;
+            padding: 30px;
+            border-radius: 0 0 10px 10px;
+          }
+          .welcome-message {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border-left: 4px solid #667eea;
+          }
+          .info-box {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+          }
+          .footer {
+            text-align: center;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            color: #666;
+            font-size: 14px;
+          }
+          .button {
+            display: inline-block;
+            padding: 12px 30px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 15px 0;
+          }
         </style>
       </head>
       <body>
         <div class="header">
-          <h1>Welcome to Parirenyatwa Nursing School</h1>
+          <h1>\u{1F393} Welcome to Parirenyatwa Nursing School</h1>
           <p style="margin: 5px 0 0 0;">Information Management System</p>
         </div>
+
         <div class="content">
           <div class="welcome-message">
             <h2 style="color: #667eea; margin-top: 0;">Hello ${username}!</h2>
             <p>We're excited to welcome you to the Parirenyatwa Nursing School Information System. Your account has been successfully created!</p>
           </div>
+
           <div class="info-box">
-            <h3 style="color: #333; margin-top: 0;">What's Next?</h3>
+            <h3 style="color: #333; margin-top: 0;">\u2705 What's Next?</h3>
             <ul style="color: #666;">
               <li>Log in to your account using your username and password</li>
               <li>Complete your profile information</li>
@@ -1920,22 +2050,36 @@ async function sendWelcomeEmail(email, username) {
               <li>Check notices and upcoming events</li>
             </ul>
           </div>
+
           <div class="info-box">
-            <h3 style="color: #333; margin-top: 0;">Account Security</h3>
-            <p style="color: #666; margin: 0;">Please keep your login credentials secure and do not share them with anyone. If you need to reset your password, you can do so from the login page.</p>
+            <h3 style="color: #333; margin-top: 0;">\u{1F510} Account Security</h3>
+            <p style="color: #666; margin: 0;">
+              Please keep your login credentials secure and do not share them with anyone. 
+              If you need to reset your password, you can do so from the login page.
+            </p>
           </div>
+
           <div style="text-align: center; margin: 25px 0;">
-            <a href="https://pari-nursing-school.org" class="button">Access Your Account</a>
+            <a href="https://pari-nursing-school.org" class="button">
+              Access Your Account
+            </a>
           </div>
+
           <div class="info-box">
-            <h3 style="color: #333; margin-top: 0;">Need Help?</h3>
-            <p style="color: #666; margin: 0;">If you have any questions or need assistance, please contact our support team or reach out to your program administrator.</p>
+            <h3 style="color: #333; margin-top: 0;">\u{1F4DE} Need Help?</h3>
+            <p style="color: #666; margin: 0;">
+              If you have any questions or need assistance, please contact our support team 
+              or reach out to your program administrator.
+            </p>
           </div>
         </div>
+
         <div class="footer">
           <p><strong>Parirenyatwa Nursing School</strong></p>
           <p style="margin: 5px 0;">Excellence in Nursing Education</p>
-          <p style="margin: 5px 0; font-size: 12px;">This is an automated message. Please do not reply to this email.</p>
+          <p style="margin: 5px 0; font-size: 12px;">
+            This is an automated message. Please do not reply to this email.
+          </p>
         </div>
       </body>
       </html>
@@ -1955,18 +2099,21 @@ async function sendHousingEmail(email, username, action, details) {
     assigned: {
       subject: "Room Assignment - Parirenyatwa Nursing School",
       color: "#10B981",
+      icon: "\u{1F3E0}",
       heading: "Room Assignment Confirmation",
       message: "You have been successfully assigned to a room.",
     },
     moved: {
       subject: "Room Transfer - Parirenyatwa Nursing School",
       color: "#2563EB",
+      icon: "\u{1F504}",
       heading: "Room Transfer Confirmation",
       message: "Your room assignment has been updated.",
     },
     deactivated: {
       subject: "Room Deactivation - Parirenyatwa Nursing School",
       color: "#EF4444",
+      icon: "\u{1F4E6}",
       heading: "Room Deactivation Notice",
       message: "Your room assignment has been deactivated.",
     },
@@ -1980,7 +2127,7 @@ async function sendHousingEmail(email, username, action, details) {
       <tr>
         <td style="padding: 10px; font-weight: bold; color: #374151; background: #F9FAFB; border: 1px solid #E5E7EB; width: 40%">${key}</td>
         <td style="padding: 10px; color: #6B7280; border: 1px solid #E5E7EB;">${value}</td>
-      </tr>`
+      </tr>`,
     )
     .join("");
 
@@ -1998,22 +2145,30 @@ async function sendHousingEmail(email, username, action, details) {
       </head>
       <body>
         <div style="background: linear-gradient(135deg, ${config.color}, ${config.color}cc); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0;">
-          <h1 style="margin: 0; font-size: 24px;">${config.heading}</h1>
+          <h1 style="margin: 0; font-size: 24px;">${config.icon} ${config.heading}</h1>
           <p style="margin: 8px 0 0 0; opacity: 0.9;">Parirenyatwa Nursing School</p>
         </div>
+
         <div style="background: #f9f9f9; padding: 30px; border-radius: 0 0 10px 10px;">
           <div style="background: white; padding: 20px; border-radius: 8px; margin-bottom: 20px; border-left: 4px solid ${config.color};">
             <h2 style="color: ${config.color}; margin-top: 0;">Hello ${username}!</h2>
             <p style="color: #4B5563; margin: 0;">${config.message}</p>
           </div>
+
           <div style="background: white; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-            <h3 style="color: #111827; margin-top: 0;">Assignment Details</h3>
-            <table style="width: 100%; border-collapse: collapse;">${detailsHTML}</table>
+            <h3 style="color: #111827; margin-top: 0;">\u{1F4CB} Assignment Details</h3>
+            <table style="width: 100%; border-collapse: collapse;">
+              ${detailsHTML}
+            </table>
           </div>
+
           <div style="background: white; padding: 15px; border-radius: 8px; border-left: 4px solid #F59E0B;">
-            <p style="color: #92400E; margin: 0; font-size: 0.9rem;">If you believe this is an error or have any concerns, please contact your warden or the allocation office immediately.</p>
+            <p style="color: #92400E; margin: 0; font-size: 0.9rem;">
+              \u26A0\uFE0F If you believe this is an error or have any concerns, please contact your warden or the allocation office immediately.
+            </p>
           </div>
         </div>
+
         <div style="text-align: center; margin-top: 20px; padding-top: 20px; border-top: 1px solid #ddd; color: #9CA3AF; font-size: 13px;">
           <p><strong style="color: #374151;">Parirenyatwa Nursing School</strong></p>
           <p style="margin: 4px 0;">Excellence in Nursing Education</p>
@@ -2028,7 +2183,109 @@ async function sendHousingEmail(email, username, action, details) {
     await transporter.sendMail(mailOptions);
     console.log(`Housing ${action} email sent to ${email}`);
   } catch (error) {
-    console.error("Error sending housing email:", error.message);
+    console.error(`Error sending housing email:`, error.message);
+  }
+}
+
+async function sendReportNotificationEmail(reportType, reportData, imageUrl) {
+  const isFaultReport = reportType === "fault";
+
+  const config = {
+    subject: isFaultReport
+      ? `New Fault Report ${reportData.faultReportId} - ${reportData.house}`
+      : `New Facility Report ${reportData.facilityReportId} - ${reportData.dorm}`,
+    icon: isFaultReport ? "\u{1F527}" : "\u{1F3D7}\uFE0F",
+    heading: isFaultReport
+      ? "Fault Report Submitted"
+      : "Facility Damage Report Submitted",
+    color: isFaultReport ? "#F59E0B" : "#EF4444",
+  };
+
+  const detailsHTML = isFaultReport
+    ? `
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;width:40%">Report ID</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.faultReportId}</td></tr>
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;">House</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.house}</td></tr>
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;">Room Number</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.roomNumber}</td></tr>
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;">Item</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.item}</td></tr>
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;">Details</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.details || "N/A"}</td></tr>
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;">Discovery Date</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.discoveryDate}</td></tr>
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;">Reported By</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.reportedBy}</td></tr>
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;">Status</td><td style="padding:10px;border:1px solid #E5E7EB;">Pending</td></tr>
+    `
+    : `
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;width:40%">Report ID</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.facilityReportId}</td></tr>
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;">Dorm</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.dorm}</td></tr>
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;">Facility Type</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.facilityType}</td></tr>
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;">Title</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.title}</td></tr>
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;">Description</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.description || "N/A"}</td></tr>
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;">Discovery Date</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.discoveryDate}</td></tr>
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;">Reported By</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.reportedBy}</td></tr>
+      <tr><td style="padding:10px;font-weight:bold;background:#F9FAFB;border:1px solid #E5E7EB;">Status</td><td style="padding:10px;border:1px solid #E5E7EB;">${reportData.status || "Pending"}</td></tr>
+    `;
+
+  const imageHTML = imageUrl
+    ? `
+      <div style="background:white;padding:20px;border-radius:8px;margin-bottom:20px;">
+        <h3 style="color:#111827;margin-top:0;">\u{1F4F7} Attached Image</h3>
+        <img src="${imageUrl}" alt="Report Image" style="max-width:100%;border-radius:8px;border:1px solid #E5E7EB;" />
+      </div>
+    `
+    : "";
+
+  const mailOptions = {
+    from: `"Parirenyatwa Nursing School" <admin@pari-nursing-school.org>`,
+    to: process.env.REPORT_NOTIFICATION_EMAIL,
+    subject: config.subject,
+    html: `
+      <!DOCTYPE html>
+      <html>
+      <head>
+        <style>
+          body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px; }
+        </style>
+      </head>
+      <body>
+        <div style="background:linear-gradient(135deg, ${config.color}, ${config.color}cc);color:white;padding:30px;text-align:center;border-radius:10px 10px 0 0;">
+          <h1 style="margin:0;font-size:24px;">${config.icon} ${config.heading}</h1>
+          <p style="margin:8px 0 0 0;opacity:0.9;">Parirenyatwa Nursing School</p>
+        </div>
+
+        <div style="background:#f9f9f9;padding:30px;border-radius:0 0 10px 10px;">
+          <div style="background:white;padding:20px;border-radius:8px;margin-bottom:20px;border-left:4px solid ${config.color};">
+            <p style="color:#4B5563;margin:0;">A new ${isFaultReport ? "fault" : "facility damage"} report has been submitted and requires your attention.</p>
+          </div>
+
+          <div style="background:white;padding:20px;border-radius:8px;margin-bottom:20px;">
+            <h3 style="color:#111827;margin-top:0;">\u{1F4CB} Report Details</h3>
+            <table style="width:100%;border-collapse:collapse;">
+              ${detailsHTML}
+            </table>
+          </div>
+
+          ${imageHTML}
+
+          <div style="background:white;padding:15px;border-radius:8px;border-left:4px solid #F59E0B;">
+            <p style="color:#92400E;margin:0;font-size:0.9rem;">
+              \u26A0\uFE0F Please review and assign a maintenance team as soon as possible.
+            </p>
+          </div>
+        </div>
+
+        <div style="text-align:center;margin-top:20px;padding-top:20px;border-top:1px solid #ddd;color:#9CA3AF;font-size:13px;">
+          <p><strong style="color:#374151;">Parirenyatwa Nursing School</strong></p>
+          <p style="margin:4px 0;">Excellence in Nursing Education</p>
+          <p style="margin:4px 0;font-size:11px;">This is an automated message. Please do not reply to this email.</p>
+        </div>
+      </body>
+      </html>
+    `,
+  };
+
+  try {
+    await transporter.sendMail(mailOptions);
+    console.log(`Report notification email sent for ${reportType} report`);
+  } catch (error) {
+    console.error(`Error sending report notification email:`, error.message);
   }
 }
 
@@ -2040,20 +2297,61 @@ async function sendPasswordResetEmail(email, username) {
     html: `
       <!DOCTYPE html>
       <html>
-      <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px;">
-        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0;">
-          <h1 style="margin: 0; font-size: 24px;">Password Reset Confirmation</h1>
-          <p style="margin: 5px 0 0 0;">Parirenyatwa Nursing School</p>
+      <head>
+        <style>
+          body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px; }
+        </style>
+      </head>
+      <body>
+        <div style="background: linear-gradient(135deg, #3B82F6, #1D4ED8); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0;">
+          <h1 style="margin: 0; font-size: 24px;">\u{1F510} Password Reset Confirmation</h1>
+          <p style="margin: 8px 0 0 0; opacity: 0.9;">Parirenyatwa Nursing School</p>
         </div>
+
         <div style="background: #f9f9f9; padding: 30px; border-radius: 0 0 10px 10px;">
-          <div style="background: white; padding: 20px; border-radius: 8px; border-left: 4px solid #10B981;">
-            <h2 style="color: #10B981; margin-top: 0;">Hello ${username}!</h2>
-            <p style="color: #4B5563;">Your password has been successfully reset. You can now log in with your new password.</p>
-            <p style="color: #92400E; font-size: 0.9rem;">If you did not request this change, please contact support immediately.</p>
+          <div style="background: white; padding: 20px; border-radius: 8px; margin-bottom: 20px; border-left: 4px solid #3B82F6;">
+            <h2 style="color: #3B82F6; margin-top: 0;">Hello ${username}!</h2>
+            <p style="color: #4B5563; margin: 0;">Your password has been successfully reset. You can now log in using your new password.</p>
+          </div>
+
+          <div style="background: white; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+            <h3 style="color: #111827; margin-top: 0;">\u{1F4CB} Reset Details</h3>
+            <table style="width: 100%; border-collapse: collapse;">
+              <tr>
+                <td style="padding: 10px; font-weight: bold; background: #F9FAFB; border: 1px solid #E5E7EB; width: 40%">Username</td>
+                <td style="padding: 10px; border: 1px solid #E5E7EB;">${username}</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px; font-weight: bold; background: #F9FAFB; border: 1px solid #E5E7EB;">Date & Time</td>
+                <td style="padding: 10px; border: 1px solid #E5E7EB;">${new Date().toLocaleString(
+                  "en-US",
+                  {
+                    year: "numeric",
+                    month: "long",
+                    day: "numeric",
+                    hour: "2-digit",
+                    minute: "2-digit",
+                    hour12: true,
+                  },
+                )}</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px; font-weight: bold; background: #F9FAFB; border: 1px solid #E5E7EB;">Status</td>
+                <td style="padding: 10px; border: 1px solid #E5E7EB; color: #10B981; font-weight: bold;">\u2705 Successful</td>
+              </tr>
+            </table>
+          </div>
+
+          <div style="background: white; padding: 15px; border-radius: 8px; border-left: 4px solid #F59E0B;">
+            <p style="color: #92400E; margin: 0; font-size: 0.9rem;">
+              \u26A0\uFE0F If you did not request this password reset, please contact your administrator or warden immediately as your account may be compromised.
+            </p>
           </div>
         </div>
+
         <div style="text-align: center; margin-top: 20px; padding-top: 20px; border-top: 1px solid #ddd; color: #9CA3AF; font-size: 13px;">
           <p><strong style="color: #374151;">Parirenyatwa Nursing School</strong></p>
+          <p style="margin: 4px 0;">Excellence in Nursing Education</p>
           <p style="margin: 4px 0; font-size: 11px;">This is an automated message. Please do not reply to this email.</p>
         </div>
       </body>
@@ -2063,95 +2361,34 @@ async function sendPasswordResetEmail(email, username) {
 
   try {
     await transporter.sendMail(mailOptions);
-    console.log(`Password reset email sent to ${email}`);
+    console.log(`Password reset confirmation email sent to ${email}`);
   } catch (error) {
     console.error("Error sending password reset email:", error.message);
   }
 }
 
-async function sendReportNotificationEmail(reportType, reportData, imageUrl) {
-  const isFaultReport = reportType === "fault";
-
-  const config = {
-    subject: isFaultReport
-      ? `New Fault Report ${reportData.faultReportId} - ${reportData.house}`
-      : `New Facility Report ${reportData.facilityReportId} - ${reportData.dorm}`,
-    heading: isFaultReport
-      ? "Fault Report Submitted"
-      : "Facility Damage Report Submitted",
-    color: isFaultReport ? "#F59E0B" : "#EF4444",
-  };
-
-  const detailEntries = isFaultReport
-    ? [
-        ["Report ID", reportData.faultReportId],
-        ["House", reportData.house],
-        ["Room", reportData.roomNumber],
-        ["Category", reportData.category],
-        ["Description", reportData.description],
-        ["Reported By", reportData.reportedBy],
-        ["Status", reportData.status || "Pending"],
-      ]
-    : [
-        ["Report ID", reportData.facilityReportId],
-        ["Dorm", reportData.dorm],
-        ["Facility Type", reportData.facilityType],
-        ["Title", reportData.title],
-        ["Description", reportData.description],
-        ["Discovery Date", reportData.discoveryDate],
-        ["Reported By", reportData.reportedBy],
-        ["Status", reportData.status || "Pending"],
-      ];
-
-  const detailsHTML = detailEntries
-    .filter(([, v]) => v)
-    .map(
-      ([key, value]) => `
-      <tr>
-        <td style="padding: 10px; font-weight: bold; color: #374151; background: #F9FAFB; border: 1px solid #E5E7EB; width: 40%">${key}</td>
-        <td style="padding: 10px; color: #6B7280; border: 1px solid #E5E7EB;">${value}</td>
-      </tr>`
-    )
-    .join("");
-
-  const imageHTML = imageUrl
-    ? `<div style="background: white; padding: 15px; border-radius: 8px; margin-top: 15px; text-align: center;">
-        <h3 style="color: #111827; margin-top: 0;">Attached Image</h3>
-        <img src="${imageUrl}" alt="Report Image" style="max-width: 100%; border-radius: 8px;" />
-      </div>`
-    : "";
-
-  const mailOptions = {
-    from: `"Parirenyatwa Nursing School" <admin@pari-nursing-school.org>`,
-    to: process.env.EMAIL_USER,
-    subject: config.subject,
-    html: `
-      <!DOCTYPE html>
-      <html>
-      <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px;">
-        <div style="background: linear-gradient(135deg, ${config.color}, ${config.color}cc); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0;">
-          <h1 style="margin: 0; font-size: 24px;">${config.heading}</h1>
-          <p style="margin: 8px 0 0 0; opacity: 0.9;">Parirenyatwa Nursing School</p>
-        </div>
-        <div style="background: #f9f9f9; padding: 30px; border-radius: 0 0 10px 10px;">
-          <div style="background: white; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-            <h3 style="color: #111827; margin-top: 0;">Report Details</h3>
-            <table style="width: 100%; border-collapse: collapse;">${detailsHTML}</table>
-          </div>
-          ${imageHTML}
-        </div>
-      </body>
-      </html>
-    `,
-  };
-
+app.get("/api/check-super-user/:id", async (req, res) => {
   try {
-    await transporter.sendMail(mailOptions);
-    console.log("Report notification email sent");
+    const usersCollection = await getCollection("users");
+    const { id } = req.params;
+
+    const user = await usersCollection.findOne({
+      $or: [{ studentId: id }, { staffId: id }],
+    });
+
+    if (!user) {
+      return res.status(404).json({ isSuper: false });
+    }
+
+    res.json({ isSuper: user.super === "true" });
   } catch (error) {
-    console.error("Error sending report notification email:", error.message);
+    res.status(500).json({ isSuper: false });
   }
-}
+});
+
+app.get("/api/home", (req, res) => {
+  res.status(200).json("Welcome, your app is working well");
+});
 
 seedHousingCollection().catch(console.error);
 
