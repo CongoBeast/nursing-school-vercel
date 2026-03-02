@@ -62,7 +62,7 @@ async function connectToDatabase() {
     await cachedClient.connect();
   }
 
-  cachedDb = cachedClient.db("nursing-school-prod");
+  cachedDb = cachedClient.db("nursing-school");
   return cachedDb;
 }
 
