@@ -104,8 +104,8 @@ async function seedHousingCollection() {
 
 async function seedRoomInventory() {
   try {
-    const inventoryCollection = db.collection("room_inventory");
-
+    // const inventoryCollection = db.collection("room_inventory");
+    const inventoryCollection = await getCollection("room_inventory");
     // Check if already populated
     const count = await inventoryCollection.countDocuments();
     if (count > 0) {
@@ -2031,7 +2031,7 @@ app.put("/api/update-maintenance-report/:id", upload.single("image"), async (req
 app.get("/api/get-room-inventory/:roomNumber", async (req, res) => {
   try {
     const { roomNumber } = req.params;
-    const inventoryCollection = db.collection("room_inventory");
+    const inventoryCollection = await getCollection("room_inventory");
 
     const room = await inventoryCollection.findOne({
       roomNumber: roomNumber.toLowerCase(),
@@ -2060,16 +2060,14 @@ app.put("/api/update-room-inventory-item", async (req, res) => {
     if (!roomNumber || !item || !status) {
       return res.status(400).json({ message: "Missing required fields" });
     }
-
     if (!validItems.includes(item)) {
-      return res.status(400).json({ message: `Invalid item. Must be one of: ${validItems.join(", ")}` });
+      return res.status(400).json({ message: `Invalid item` });
     }
-
     if (!validStatuses.includes(status)) {
-      return res.status(400).json({ message: `Invalid status. Must be one of: ${validStatuses.join(", ")}` });
+      return res.status(400).json({ message: `Invalid status` });
     }
 
-    const inventoryCollection = db.collection("room_inventory");
+    const inventoryCollection = await getCollection("room_inventory");
 
     const result = await inventoryCollection.updateOne(
       { roomNumber: roomNumber.toLowerCase() },
@@ -2086,35 +2084,34 @@ app.put("/api/update-room-inventory-item", async (req, res) => {
       return res.status(404).json({ message: "Room not found" });
     }
 
-    res.json({ success: true, message: `${item} status updated to ${status}` });
+    res.json({ success: true, message: `${item} updated to ${status}` });
   } catch (error) {
     console.error(error);
     res.status(500).json({ message: "Failed to update inventory item" });
   }
 });
 
-// GET housing data for a room (residents) by roomNumber (uppercase, e.g. "A04")
-// This already exists via get-room-occupancy but we need a single-room lookup
+// GET housing data + hydrated residents for a single room (uppercase, e.g. "A04")
 app.get("/api/get-room-housing/:roomNumber", async (req, res) => {
   try {
     const { roomNumber } = req.params;
-    const housingCollection = db.collection("housing");
+    const housingCollection = await getCollection("housing");
+    const usersCollection = await getCollection("users");
 
-    // housing collection stores uppercase room numbers (A04, N12 etc)
-    const upperRoom = roomNumber.toUpperCase();
-
-    const room = await housingCollection.findOne({ roomNumber: upperRoom });
+    const room = await housingCollection.findOne({
+      roomNumber: roomNumber.toUpperCase(),
+    });
 
     if (!room) {
-      return res.status(404).json({ message: "Room not found in housing" });
+      return res.status(404).json({ message: "Room not found" });
     }
 
-    // Hydrate residents with user data
     const residentDetails = await Promise.all(
       room.residents.map(async (residentId) => {
         try {
-          const { ObjectId } = require("mongodb");
-          const user = await usersCollection.findOne({ _id: new ObjectId(residentId) });
+          const user = await usersCollection.findOne({
+            _id: new ObjectId(residentId),
+          });
           if (!user) return null;
           const { hashedPassword, ...safe } = user;
           return safe;
@@ -2124,24 +2121,19 @@ app.get("/api/get-room-housing/:roomNumber", async (req, res) => {
       })
     );
 
-    res.json({
-      ...room,
-      residentDetails: residentDetails.filter(Boolean),
-    });
+    res.json({ ...room, residentDetails: residentDetails.filter(Boolean) });
   } catch (error) {
     console.error(error);
     res.status(500).json({ message: "Failed to fetch room housing data" });
   }
 });
 
-// GET student_housing_records history for a specific room
-// student_housing_records stores uppercase room numbers
+// GET student_housing_records history for a specific room (uppercase, e.g. "A04")
 app.get("/api/get-room-history/:roomNumber", async (req, res) => {
   try {
     const { roomNumber } = req.params;
-    const housingRecordsCollection = db.collection("student_housing_records");
+    const housingRecordsCollection = await getCollection("student_housing_records");
 
-    // Records store roomNumber as uppercase (A04) but also newRoom/oldRoom
     const upperRoom = roomNumber.toUpperCase();
 
     const history = await housingRecordsCollection
