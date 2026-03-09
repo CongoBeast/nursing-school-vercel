@@ -102,6 +102,70 @@ async function seedHousingCollection() {
   }
 }
 
+async function seedRoomInventory() {
+  try {
+    const inventoryCollection = db.collection("room_inventory");
+
+    // Check if already populated
+    const count = await inventoryCollection.countDocuments();
+    if (count > 0) {
+      console.log("ℹ️ Room inventory already populated. Skipping seed.");
+      return;
+    }
+
+    const now = new Date();
+    const items = ["wardrobe", "book_shelf", "sink"];
+    const rooms = [];
+
+    // Adlam House — 119 rooms (a01 to a119)
+    for (let i = 1; i <= 119; i++) {
+      const roomNumber = `a${i.toString().padStart(2, "0")}`;
+      const inventory = {};
+      items.forEach((item) => {
+        inventory[item] = {
+          status: "normal",
+          lastUpdated: now,
+        };
+      });
+
+      rooms.push({
+        house: "Adlam House",
+        roomNumber,
+        inventory,
+        createdAt: now,
+        updatedAt: now,
+      });
+    }
+
+    // Nurse Home — 122 rooms (n01 to n122)
+    for (let i = 1; i <= 122; i++) {
+      const roomNumber = `n${i.toString().padStart(2, "0")}`;
+      const inventory = {};
+      items.forEach((item) => {
+        inventory[item] = {
+          status: "normal",
+          lastUpdated: now,
+        };
+      });
+
+      rooms.push({
+        house: "Nurse Home",
+        roomNumber,
+        inventory,
+        createdAt: now,
+        updatedAt: now,
+      });
+    }
+
+    const result = await inventoryCollection.insertMany(rooms);
+    console.log(
+      `✅ Room inventory seeded: ${result.insertedCount} rooms (${119 + 122} total).`
+    );
+  } catch (error) {
+    console.error("❌ Error seeding room inventory:", error);
+  }
+}
+
 const generateToken = (userId) => {
   return jwt.sign({ sub: userId }, JWT_SECRET, { expiresIn: "1h" });
 };
@@ -2391,5 +2455,6 @@ app.get("/api/home", (req, res) => {
 });
 
 seedHousingCollection().catch(console.error);
+seedRoomInventory().catch(console.error);
 
 module.exports = app;
