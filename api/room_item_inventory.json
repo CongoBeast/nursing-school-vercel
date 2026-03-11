@@ -1,0 +1,9425 @@
+[
+  {
+    "barcode": "DAHXAJI0Y6DPB",
+    "house": "Adlam House",
+    "roomNumber": "A01",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHHSAHXTHV3A",
+    "house": "Adlam House",
+    "roomNumber": "A01",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH3ZMF8MDD4V",
+    "house": "Adlam House",
+    "roomNumber": "A01",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH30T9NT3W5U",
+    "house": "Adlam House",
+    "roomNumber": "A01",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHZBIKCIDKWN",
+    "house": "Adlam House",
+    "roomNumber": "A01",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHNHJ7XVG0FN",
+    "house": "Adlam House",
+    "roomNumber": "A01",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH9XUY41IBLJ",
+    "house": "Adlam House",
+    "roomNumber": "A02",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHH75LXO6QJI",
+    "house": "Adlam House",
+    "roomNumber": "A02",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHUJV6OH9SDB",
+    "house": "Adlam House",
+    "roomNumber": "A02",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHDW2PCN9T84",
+    "house": "Adlam House",
+    "roomNumber": "A02",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHAZYTJXEPQ8",
+    "house": "Adlam House",
+    "roomNumber": "A02",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH5JSG65KXVF",
+    "house": "Adlam House",
+    "roomNumber": "A02",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH1T2TALA753",
+    "house": "Adlam House",
+    "roomNumber": "A03",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHLC58DRC11E",
+    "house": "Adlam House",
+    "roomNumber": "A03",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHRTJ5PHT0HL",
+    "house": "Adlam House",
+    "roomNumber": "A03",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH9XPSEIMVIH",
+    "house": "Adlam House",
+    "roomNumber": "A03",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHCWI64CIYHE",
+    "house": "Adlam House",
+    "roomNumber": "A03",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH7UR23GDPPQ",
+    "house": "Adlam House",
+    "roomNumber": "A03",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH0Y9DOM5IGQ",
+    "house": "Adlam House",
+    "roomNumber": "A04",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHPKI7P5TB94",
+    "house": "Adlam House",
+    "roomNumber": "A04",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH874FRHOCN9",
+    "house": "Adlam House",
+    "roomNumber": "A04",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHJ2QP89UZFK",
+    "house": "Adlam House",
+    "roomNumber": "A04",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH8UT0CVS4F8",
+    "house": "Adlam House",
+    "roomNumber": "A04",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHCGVYIE6IVW",
+    "house": "Adlam House",
+    "roomNumber": "A04",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHPVS7HZIOYK",
+    "house": "Adlam House",
+    "roomNumber": "A05",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHL1CQ99CHJ7",
+    "house": "Adlam House",
+    "roomNumber": "A05",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH55NF4ZW9XA",
+    "house": "Adlam House",
+    "roomNumber": "A05",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH3KX7EEDTJV",
+    "house": "Adlam House",
+    "roomNumber": "A05",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHZHWJR64DPJ",
+    "house": "Adlam House",
+    "roomNumber": "A05",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHA1WJ0TPAC5",
+    "house": "Adlam House",
+    "roomNumber": "A05",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH6T4UFEL624",
+    "house": "Adlam House",
+    "roomNumber": "A06",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH6HID25OWF7",
+    "house": "Adlam House",
+    "roomNumber": "A06",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH5935A0L725",
+    "house": "Adlam House",
+    "roomNumber": "A06",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH3J2D54I3QK",
+    "house": "Adlam House",
+    "roomNumber": "A06",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH2IAGL58KXO",
+    "house": "Adlam House",
+    "roomNumber": "A06",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH9T7E8G8JDP",
+    "house": "Adlam House",
+    "roomNumber": "A06",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH0LVSNUJZA7",
+    "house": "Adlam House",
+    "roomNumber": "A07",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHTZ0YNCXLL4",
+    "house": "Adlam House",
+    "roomNumber": "A07",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHZKLOOKEP7Y",
+    "house": "Adlam House",
+    "roomNumber": "A07",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH6WKTAKPUXQ",
+    "house": "Adlam House",
+    "roomNumber": "A07",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHPHR62GDSWM",
+    "house": "Adlam House",
+    "roomNumber": "A07",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH31YIHAIR4C",
+    "house": "Adlam House",
+    "roomNumber": "A07",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHOWGZRIXA11",
+    "house": "Adlam House",
+    "roomNumber": "A08",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHDPG8SBI4Q2",
+    "house": "Adlam House",
+    "roomNumber": "A08",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHY9V86WZS3T",
+    "house": "Adlam House",
+    "roomNumber": "A08",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH60RJIW1SWJ",
+    "house": "Adlam House",
+    "roomNumber": "A08",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHCKJLTEIYZC",
+    "house": "Adlam House",
+    "roomNumber": "A08",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHOTOHP6VZ41",
+    "house": "Adlam House",
+    "roomNumber": "A08",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHNAM148P0TV",
+    "house": "Adlam House",
+    "roomNumber": "A09",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHHHPBMYOFQE",
+    "house": "Adlam House",
+    "roomNumber": "A09",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHWAOUAXEQBN",
+    "house": "Adlam House",
+    "roomNumber": "A09",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHHL1N13JCAT",
+    "house": "Adlam House",
+    "roomNumber": "A09",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH9MX2X18HAF",
+    "house": "Adlam House",
+    "roomNumber": "A09",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHEYUHZ1GV0E",
+    "house": "Adlam House",
+    "roomNumber": "A09",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH38DALY8OZC",
+    "house": "Adlam House",
+    "roomNumber": "A10",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHYWD14VE92M",
+    "house": "Adlam House",
+    "roomNumber": "A10",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHPNSM43D8W3",
+    "house": "Adlam House",
+    "roomNumber": "A10",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHZP08J3TRP0",
+    "house": "Adlam House",
+    "roomNumber": "A10",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHJ43D5IQVNB",
+    "house": "Adlam House",
+    "roomNumber": "A10",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH4GH2M5ZJA8",
+    "house": "Adlam House",
+    "roomNumber": "A10",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHDZR1YXR2DH",
+    "house": "Adlam House",
+    "roomNumber": "A11",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHYLURTP0LZJ",
+    "house": "Adlam House",
+    "roomNumber": "A11",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHJEGET1GHR0",
+    "house": "Adlam House",
+    "roomNumber": "A11",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH9SKDGIGATJ",
+    "house": "Adlam House",
+    "roomNumber": "A11",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH9TZE5R5UQP",
+    "house": "Adlam House",
+    "roomNumber": "A11",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHGB7R3OCWBF",
+    "house": "Adlam House",
+    "roomNumber": "A11",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHUK9E1V2ISQ",
+    "house": "Adlam House",
+    "roomNumber": "A12",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHP49KWV08HH",
+    "house": "Adlam House",
+    "roomNumber": "A12",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHXFGCAQVKIZ",
+    "house": "Adlam House",
+    "roomNumber": "A12",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHZQY72WX7PT",
+    "house": "Adlam House",
+    "roomNumber": "A12",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHX63CFL0UKE",
+    "house": "Adlam House",
+    "roomNumber": "A12",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHYZ7SRCBPLJ",
+    "house": "Adlam House",
+    "roomNumber": "A12",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHD84U89YJB1",
+    "house": "Adlam House",
+    "roomNumber": "A13",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHQX6GVWRDML",
+    "house": "Adlam House",
+    "roomNumber": "A13",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHY4LYK83TQL",
+    "house": "Adlam House",
+    "roomNumber": "A13",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHL8OS9XTOGN",
+    "house": "Adlam House",
+    "roomNumber": "A13",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH1W1HT7PZE9",
+    "house": "Adlam House",
+    "roomNumber": "A13",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHVIFTTD96QE",
+    "house": "Adlam House",
+    "roomNumber": "A13",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH3RZSJ49ITN",
+    "house": "Adlam House",
+    "roomNumber": "A14",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH7S55J2O7S3",
+    "house": "Adlam House",
+    "roomNumber": "A14",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHKKV9RFTMTT",
+    "house": "Adlam House",
+    "roomNumber": "A14",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHQLGZUI1B0Z",
+    "house": "Adlam House",
+    "roomNumber": "A14",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH3NX39RBSV5",
+    "house": "Adlam House",
+    "roomNumber": "A14",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH5PSQ0OXFQ8",
+    "house": "Adlam House",
+    "roomNumber": "A14",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHMYX444NLZ1",
+    "house": "Adlam House",
+    "roomNumber": "A15",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH5BCW790PDW",
+    "house": "Adlam House",
+    "roomNumber": "A15",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH5PY6B2KNFT",
+    "house": "Adlam House",
+    "roomNumber": "A15",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHU2GC5WI6FQ",
+    "house": "Adlam House",
+    "roomNumber": "A15",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHJJA26YFPMV",
+    "house": "Adlam House",
+    "roomNumber": "A15",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHXPJ4HNRIUU",
+    "house": "Adlam House",
+    "roomNumber": "A15",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH9K9XJUY0BV",
+    "house": "Adlam House",
+    "roomNumber": "A16",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHR6K2VMWWYZ",
+    "house": "Adlam House",
+    "roomNumber": "A16",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHX4W6XLPU0D",
+    "house": "Adlam House",
+    "roomNumber": "A16",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHK0GET8T63J",
+    "house": "Adlam House",
+    "roomNumber": "A16",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH3R30ME8F84",
+    "house": "Adlam House",
+    "roomNumber": "A16",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH0982N2ATQY",
+    "house": "Adlam House",
+    "roomNumber": "A16",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHYV37DIA5U6",
+    "house": "Adlam House",
+    "roomNumber": "A17",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHHC36KOF8KR",
+    "house": "Adlam House",
+    "roomNumber": "A17",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHD5EQY08P0F",
+    "house": "Adlam House",
+    "roomNumber": "A17",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHODRO8BNP84",
+    "house": "Adlam House",
+    "roomNumber": "A17",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHDYT9MOGE4Q",
+    "house": "Adlam House",
+    "roomNumber": "A17",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHXXVA2IEUC1",
+    "house": "Adlam House",
+    "roomNumber": "A17",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHHH5LF6A4FE",
+    "house": "Adlam House",
+    "roomNumber": "A18",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHJGXAA2ILGB",
+    "house": "Adlam House",
+    "roomNumber": "A18",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH0S0R2SDS8B",
+    "house": "Adlam House",
+    "roomNumber": "A18",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH25SQ8CROYR",
+    "house": "Adlam House",
+    "roomNumber": "A18",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH6CCVCJWTL9",
+    "house": "Adlam House",
+    "roomNumber": "A18",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHTQVDZ4X1ZH",
+    "house": "Adlam House",
+    "roomNumber": "A18",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHQIMQODPXNF",
+    "house": "Adlam House",
+    "roomNumber": "A19",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH7C3DD03UVU",
+    "house": "Adlam House",
+    "roomNumber": "A19",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHLEMX15Z8VM",
+    "house": "Adlam House",
+    "roomNumber": "A19",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHUHXID4N1U3",
+    "house": "Adlam House",
+    "roomNumber": "A19",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH493WXA73JG",
+    "house": "Adlam House",
+    "roomNumber": "A19",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHZLMA5UOFWB",
+    "house": "Adlam House",
+    "roomNumber": "A19",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH0HPMNZ1UDB",
+    "house": "Adlam House",
+    "roomNumber": "A20",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHFWYJXRPJ1E",
+    "house": "Adlam House",
+    "roomNumber": "A20",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHPKYRYBOVAK",
+    "house": "Adlam House",
+    "roomNumber": "A20",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHHEJLA0GNZS",
+    "house": "Adlam House",
+    "roomNumber": "A20",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH43C5BA75UU",
+    "house": "Adlam House",
+    "roomNumber": "A20",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHZPEAL2W37D",
+    "house": "Adlam House",
+    "roomNumber": "A20",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH4IVSOLMLGS",
+    "house": "Adlam House",
+    "roomNumber": "A21",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHES6M033IFH",
+    "house": "Adlam House",
+    "roomNumber": "A21",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHV1XG1R11Q7",
+    "house": "Adlam House",
+    "roomNumber": "A21",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHUWW5WFCPKJ",
+    "house": "Adlam House",
+    "roomNumber": "A21",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHCSLQC3C54W",
+    "house": "Adlam House",
+    "roomNumber": "A21",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHSQT26Q3XLR",
+    "house": "Adlam House",
+    "roomNumber": "A21",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHFCD6MZSGIP",
+    "house": "Adlam House",
+    "roomNumber": "A22",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHPSFNKOMV2X",
+    "house": "Adlam House",
+    "roomNumber": "A22",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHCDYK0X65MU",
+    "house": "Adlam House",
+    "roomNumber": "A22",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHFM8ZOV7LN2",
+    "house": "Adlam House",
+    "roomNumber": "A22",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH3Y30YSXPNN",
+    "house": "Adlam House",
+    "roomNumber": "A22",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHGH8RIEC4D1",
+    "house": "Adlam House",
+    "roomNumber": "A22",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH45BM1ENF31",
+    "house": "Adlam House",
+    "roomNumber": "A23",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH3FPOYIPK0Q",
+    "house": "Adlam House",
+    "roomNumber": "A23",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHTL3Q4N89QK",
+    "house": "Adlam House",
+    "roomNumber": "A23",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHNS832EJX5T",
+    "house": "Adlam House",
+    "roomNumber": "A23",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHD44K1J6FP8",
+    "house": "Adlam House",
+    "roomNumber": "A23",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHHQMABSI9NB",
+    "house": "Adlam House",
+    "roomNumber": "A23",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH74X2EK3ZEZ",
+    "house": "Adlam House",
+    "roomNumber": "A24",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHQACJ4T0SEK",
+    "house": "Adlam House",
+    "roomNumber": "A24",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHKBP2QD6VAS",
+    "house": "Adlam House",
+    "roomNumber": "A24",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHIFPWIOXD9C",
+    "house": "Adlam House",
+    "roomNumber": "A24",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHSS9TOQW9JA",
+    "house": "Adlam House",
+    "roomNumber": "A24",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH2M0W10LBT3",
+    "house": "Adlam House",
+    "roomNumber": "A24",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHG2QZW3C1QK",
+    "house": "Adlam House",
+    "roomNumber": "A25",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHBHB7S9TJ1G",
+    "house": "Adlam House",
+    "roomNumber": "A25",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHM25LEN606N",
+    "house": "Adlam House",
+    "roomNumber": "A25",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH9RR7S20CV3",
+    "house": "Adlam House",
+    "roomNumber": "A25",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHTLCXLVPYMB",
+    "house": "Adlam House",
+    "roomNumber": "A25",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH5M9J98CWN2",
+    "house": "Adlam House",
+    "roomNumber": "A25",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHY8FV2BC2NN",
+    "house": "Adlam House",
+    "roomNumber": "A26",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHUVY8N1UTOX",
+    "house": "Adlam House",
+    "roomNumber": "A26",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHIE0RNUJJQ9",
+    "house": "Adlam House",
+    "roomNumber": "A26",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHK6RE4Q6QDY",
+    "house": "Adlam House",
+    "roomNumber": "A26",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH4LMCT64Z7W",
+    "house": "Adlam House",
+    "roomNumber": "A26",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH2SEHE2ATN2",
+    "house": "Adlam House",
+    "roomNumber": "A26",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHTWDL9ZS13C",
+    "house": "Adlam House",
+    "roomNumber": "A27",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH9XQYM52XG8",
+    "house": "Adlam House",
+    "roomNumber": "A27",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHP6BEFFLZM7",
+    "house": "Adlam House",
+    "roomNumber": "A27",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH64JWTEKTSG",
+    "house": "Adlam House",
+    "roomNumber": "A27",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH7FXZV4U3BB",
+    "house": "Adlam House",
+    "roomNumber": "A27",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHXUX1OXRWK8",
+    "house": "Adlam House",
+    "roomNumber": "A27",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHR2YKCCPRHV",
+    "house": "Adlam House",
+    "roomNumber": "A28",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHLZ049ENULQ",
+    "house": "Adlam House",
+    "roomNumber": "A28",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHJIDKNWI5FL",
+    "house": "Adlam House",
+    "roomNumber": "A28",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHUL1RSRLA8S",
+    "house": "Adlam House",
+    "roomNumber": "A28",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH8HMBR5XQT4",
+    "house": "Adlam House",
+    "roomNumber": "A28",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHP501NOUHTC",
+    "house": "Adlam House",
+    "roomNumber": "A28",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHS1K9YE9O2M",
+    "house": "Adlam House",
+    "roomNumber": "A29",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH71HSSBELRQ",
+    "house": "Adlam House",
+    "roomNumber": "A29",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHVSLWF90KM3",
+    "house": "Adlam House",
+    "roomNumber": "A29",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHTZK3NY9V20",
+    "house": "Adlam House",
+    "roomNumber": "A29",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHYAR821UZVG",
+    "house": "Adlam House",
+    "roomNumber": "A29",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHWW4FYB8DAL",
+    "house": "Adlam House",
+    "roomNumber": "A29",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHFYO1750CEH",
+    "house": "Adlam House",
+    "roomNumber": "A30",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHLXSLG6MM1Z",
+    "house": "Adlam House",
+    "roomNumber": "A30",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHXYVGIUI9KK",
+    "house": "Adlam House",
+    "roomNumber": "A30",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHHZLM72JEYN",
+    "house": "Adlam House",
+    "roomNumber": "A30",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH9382KKZMPJ",
+    "house": "Adlam House",
+    "roomNumber": "A30",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHRHT7ZEWVIY",
+    "house": "Adlam House",
+    "roomNumber": "A30",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHTWBOZD1AT7",
+    "house": "Adlam House",
+    "roomNumber": "A31",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHO75RH8LX6D",
+    "house": "Adlam House",
+    "roomNumber": "A31",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHUT076G5G79",
+    "house": "Adlam House",
+    "roomNumber": "A31",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHOR7875AUD9",
+    "house": "Adlam House",
+    "roomNumber": "A31",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHK9TR74QGEF",
+    "house": "Adlam House",
+    "roomNumber": "A31",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHQJG02U1G46",
+    "house": "Adlam House",
+    "roomNumber": "A31",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH3SDYGFLIJI",
+    "house": "Adlam House",
+    "roomNumber": "A32",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH18K0AXYCEL",
+    "house": "Adlam House",
+    "roomNumber": "A32",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHOS6ZLE6KWH",
+    "house": "Adlam House",
+    "roomNumber": "A32",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHEF0VOTQTXH",
+    "house": "Adlam House",
+    "roomNumber": "A32",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHI15CQZCUCT",
+    "house": "Adlam House",
+    "roomNumber": "A32",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHSUFLSEHUDS",
+    "house": "Adlam House",
+    "roomNumber": "A32",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH3QSQCQ30O3",
+    "house": "Adlam House",
+    "roomNumber": "A33",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH0UBMC97C7B",
+    "house": "Adlam House",
+    "roomNumber": "A33",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHO119XP9N56",
+    "house": "Adlam House",
+    "roomNumber": "A33",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHNYXTXMGTT0",
+    "house": "Adlam House",
+    "roomNumber": "A33",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHIAAKYTT3IM",
+    "house": "Adlam House",
+    "roomNumber": "A33",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHJ70E3P15AH",
+    "house": "Adlam House",
+    "roomNumber": "A33",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHDBVZB0OIH5",
+    "house": "Adlam House",
+    "roomNumber": "A34",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHCSK30LVYLK",
+    "house": "Adlam House",
+    "roomNumber": "A34",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHFXHKC856WP",
+    "house": "Adlam House",
+    "roomNumber": "A34",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHR97Y2LOFN1",
+    "house": "Adlam House",
+    "roomNumber": "A34",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHR4KZ36U8UE",
+    "house": "Adlam House",
+    "roomNumber": "A34",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHIHX74D0GJY",
+    "house": "Adlam House",
+    "roomNumber": "A34",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHV5G10UR5L8",
+    "house": "Adlam House",
+    "roomNumber": "A35",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHA78E9RIVH6",
+    "house": "Adlam House",
+    "roomNumber": "A35",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHT1NTMJSRD9",
+    "house": "Adlam House",
+    "roomNumber": "A35",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHQ46NOUHFJ7",
+    "house": "Adlam House",
+    "roomNumber": "A35",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHUPFLN4RXYJ",
+    "house": "Adlam House",
+    "roomNumber": "A35",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH38XRG2GZR7",
+    "house": "Adlam House",
+    "roomNumber": "A35",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHTXCB48Y1O4",
+    "house": "Adlam House",
+    "roomNumber": "A36",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHIZASNWYWRR",
+    "house": "Adlam House",
+    "roomNumber": "A36",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHATATJ9A3Y3",
+    "house": "Adlam House",
+    "roomNumber": "A36",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH6DDFGS3JON",
+    "house": "Adlam House",
+    "roomNumber": "A36",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHOU9IY4X41D",
+    "house": "Adlam House",
+    "roomNumber": "A36",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHNTCAGRP2U4",
+    "house": "Adlam House",
+    "roomNumber": "A36",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHDTBH55RBC7",
+    "house": "Adlam House",
+    "roomNumber": "A37",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH6UB7L8V1ZO",
+    "house": "Adlam House",
+    "roomNumber": "A37",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHCFI4O6L1F9",
+    "house": "Adlam House",
+    "roomNumber": "A37",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH0S9BP4M18O",
+    "house": "Adlam House",
+    "roomNumber": "A37",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH1BJ9RM7PYX",
+    "house": "Adlam House",
+    "roomNumber": "A37",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHDW2ZCFZW0L",
+    "house": "Adlam House",
+    "roomNumber": "A37",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHDALMJEGQTO",
+    "house": "Adlam House",
+    "roomNumber": "A38",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHAMDVLNKND6",
+    "house": "Adlam House",
+    "roomNumber": "A38",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH69UGNEKRCP",
+    "house": "Adlam House",
+    "roomNumber": "A38",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHPRCJIWVHDK",
+    "house": "Adlam House",
+    "roomNumber": "A38",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH8LW2LM349E",
+    "house": "Adlam House",
+    "roomNumber": "A38",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHL8HL88KZRU",
+    "house": "Adlam House",
+    "roomNumber": "A38",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHIN3OEUVTYT",
+    "house": "Adlam House",
+    "roomNumber": "A39",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH8QZPKY32OR",
+    "house": "Adlam House",
+    "roomNumber": "A39",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHWIXZ2C9ROS",
+    "house": "Adlam House",
+    "roomNumber": "A39",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH7YT2M6TWD1",
+    "house": "Adlam House",
+    "roomNumber": "A39",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHXMXB9YO18P",
+    "house": "Adlam House",
+    "roomNumber": "A39",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHAJSSUUQO1V",
+    "house": "Adlam House",
+    "roomNumber": "A39",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHSMADO8E7FL",
+    "house": "Adlam House",
+    "roomNumber": "A40",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHQHRRPZLK3E",
+    "house": "Adlam House",
+    "roomNumber": "A40",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH4XYF9IGFU8",
+    "house": "Adlam House",
+    "roomNumber": "A40",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHIOGXPBWHVN",
+    "house": "Adlam House",
+    "roomNumber": "A40",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHZH13CD5GLQ",
+    "house": "Adlam House",
+    "roomNumber": "A40",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHJ5SXVWVM4W",
+    "house": "Adlam House",
+    "roomNumber": "A40",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH3ZKWDEEKGY",
+    "house": "Adlam House",
+    "roomNumber": "A41",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHSPENGWYX9T",
+    "house": "Adlam House",
+    "roomNumber": "A41",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHRFLQBMAE38",
+    "house": "Adlam House",
+    "roomNumber": "A41",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHSRYO4RCB1K",
+    "house": "Adlam House",
+    "roomNumber": "A41",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHJTGQ01TEE1",
+    "house": "Adlam House",
+    "roomNumber": "A41",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH3N3BZT9D31",
+    "house": "Adlam House",
+    "roomNumber": "A41",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHK9QM3P91I3",
+    "house": "Adlam House",
+    "roomNumber": "A42",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHVMZWFFHHCM",
+    "house": "Adlam House",
+    "roomNumber": "A42",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHKTLZKJ49YD",
+    "house": "Adlam House",
+    "roomNumber": "A42",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH82795E5IZ3",
+    "house": "Adlam House",
+    "roomNumber": "A42",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH1YRUJOQW5D",
+    "house": "Adlam House",
+    "roomNumber": "A42",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHSK7N8LA100",
+    "house": "Adlam House",
+    "roomNumber": "A42",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHQXMCTHPHJ3",
+    "house": "Adlam House",
+    "roomNumber": "A43",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHMUURMYBD2Q",
+    "house": "Adlam House",
+    "roomNumber": "A43",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHE4PA8HYEXF",
+    "house": "Adlam House",
+    "roomNumber": "A43",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH7JXJN6FOKZ",
+    "house": "Adlam House",
+    "roomNumber": "A43",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHIXZAREIYAZ",
+    "house": "Adlam House",
+    "roomNumber": "A43",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH39PECN0DL5",
+    "house": "Adlam House",
+    "roomNumber": "A43",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHE11E9FTAXP",
+    "house": "Adlam House",
+    "roomNumber": "A44",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH0WFOY4DD1V",
+    "house": "Adlam House",
+    "roomNumber": "A44",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHN8LFJDTVV2",
+    "house": "Adlam House",
+    "roomNumber": "A44",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHY4XKSS0KB6",
+    "house": "Adlam House",
+    "roomNumber": "A44",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH8RERVT997E",
+    "house": "Adlam House",
+    "roomNumber": "A44",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH4UNY181ACJ",
+    "house": "Adlam House",
+    "roomNumber": "A44",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHBC2SWSOZCT",
+    "house": "Adlam House",
+    "roomNumber": "A45",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHWJLSH3TOW4",
+    "house": "Adlam House",
+    "roomNumber": "A45",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHYCZ04CDPQV",
+    "house": "Adlam House",
+    "roomNumber": "A45",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHL00EZZF8S2",
+    "house": "Adlam House",
+    "roomNumber": "A45",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHZGE2J51B3J",
+    "house": "Adlam House",
+    "roomNumber": "A45",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHCZUCQMRUNJ",
+    "house": "Adlam House",
+    "roomNumber": "A45",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHDU0ISB5IQN",
+    "house": "Adlam House",
+    "roomNumber": "A46",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHF74T60PLOZ",
+    "house": "Adlam House",
+    "roomNumber": "A46",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHJCNS6G298C",
+    "house": "Adlam House",
+    "roomNumber": "A46",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHQK4LTAHUKW",
+    "house": "Adlam House",
+    "roomNumber": "A46",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHQVR1H61IAO",
+    "house": "Adlam House",
+    "roomNumber": "A46",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHIM458AX40D",
+    "house": "Adlam House",
+    "roomNumber": "A46",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHTIRC9ZD76S",
+    "house": "Adlam House",
+    "roomNumber": "A47",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHZN9DDE3CUP",
+    "house": "Adlam House",
+    "roomNumber": "A47",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH8IJL2Z0LJC",
+    "house": "Adlam House",
+    "roomNumber": "A47",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHH2VFFQOT8H",
+    "house": "Adlam House",
+    "roomNumber": "A47",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHLJEFY3ZB4L",
+    "house": "Adlam House",
+    "roomNumber": "A47",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHDIMSYJ9BOQ",
+    "house": "Adlam House",
+    "roomNumber": "A47",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH0IQ2FA39E3",
+    "house": "Adlam House",
+    "roomNumber": "A48",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHNWXUJ3AC6P",
+    "house": "Adlam House",
+    "roomNumber": "A48",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHE63LBQGU3O",
+    "house": "Adlam House",
+    "roomNumber": "A48",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHBYGHGK5BWI",
+    "house": "Adlam House",
+    "roomNumber": "A48",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHKOTCKEH5SW",
+    "house": "Adlam House",
+    "roomNumber": "A48",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH2292MTR6SN",
+    "house": "Adlam House",
+    "roomNumber": "A48",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHGLH62C9T19",
+    "house": "Adlam House",
+    "roomNumber": "A49",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH9DXJ37C9H4",
+    "house": "Adlam House",
+    "roomNumber": "A49",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH2M44GV3Z6B",
+    "house": "Adlam House",
+    "roomNumber": "A49",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHZ8UUG95RLR",
+    "house": "Adlam House",
+    "roomNumber": "A49",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHDIHSA7HEZ7",
+    "house": "Adlam House",
+    "roomNumber": "A49",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH4LAV71448N",
+    "house": "Adlam House",
+    "roomNumber": "A49",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH7ODKEF828X",
+    "house": "Adlam House",
+    "roomNumber": "A50",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHG8Y72IVGLY",
+    "house": "Adlam House",
+    "roomNumber": "A50",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHE088O98BV7",
+    "house": "Adlam House",
+    "roomNumber": "A50",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH8HU7F0I9G5",
+    "house": "Adlam House",
+    "roomNumber": "A50",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHDZX5QJICJD",
+    "house": "Adlam House",
+    "roomNumber": "A50",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHAN085RNTDR",
+    "house": "Adlam House",
+    "roomNumber": "A50",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH5XYFC4KL8C",
+    "house": "Adlam House",
+    "roomNumber": "A51",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHGN0T6DVWRB",
+    "house": "Adlam House",
+    "roomNumber": "A51",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH7F6FDHGZZ0",
+    "house": "Adlam House",
+    "roomNumber": "A51",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHJKIBU4FMPK",
+    "house": "Adlam House",
+    "roomNumber": "A51",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHXVHAGKC4LO",
+    "house": "Adlam House",
+    "roomNumber": "A51",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHRXDTG5NQJQ",
+    "house": "Adlam House",
+    "roomNumber": "A51",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHIJC1YDMT8V",
+    "house": "Adlam House",
+    "roomNumber": "A52",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHT43PT5R5RC",
+    "house": "Adlam House",
+    "roomNumber": "A52",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH6ZS62YWE1G",
+    "house": "Adlam House",
+    "roomNumber": "A52",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH983EP9P9W4",
+    "house": "Adlam House",
+    "roomNumber": "A52",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHJ66CNOLJQ5",
+    "house": "Adlam House",
+    "roomNumber": "A52",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH2WSPOFV177",
+    "house": "Adlam House",
+    "roomNumber": "A52",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHUDKTMONRVB",
+    "house": "Adlam House",
+    "roomNumber": "A53",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHJFVYB6LI07",
+    "house": "Adlam House",
+    "roomNumber": "A53",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH6A3KKRZD5E",
+    "house": "Adlam House",
+    "roomNumber": "A53",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH9P3JPXGH30",
+    "house": "Adlam House",
+    "roomNumber": "A54",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH153SFLSE45",
+    "house": "Adlam House",
+    "roomNumber": "A54",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHBG34IQ7ZJ3",
+    "house": "Adlam House",
+    "roomNumber": "A54",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHSWEBNVG5VM",
+    "house": "Adlam House",
+    "roomNumber": "A55",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHF60YKNFU84",
+    "house": "Adlam House",
+    "roomNumber": "A55",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHXYJOA21A6X",
+    "house": "Adlam House",
+    "roomNumber": "A55",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHVAJ2K8XPNM",
+    "house": "Adlam House",
+    "roomNumber": "A56",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHJQY3ODSX4N",
+    "house": "Adlam House",
+    "roomNumber": "A56",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHXVKDC9X5JZ",
+    "house": "Adlam House",
+    "roomNumber": "A56",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH6KF1622VXY",
+    "house": "Adlam House",
+    "roomNumber": "A57",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHZX9JPNBZUG",
+    "house": "Adlam House",
+    "roomNumber": "A57",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH0IT26YS445",
+    "house": "Adlam House",
+    "roomNumber": "A57",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHGDEJ31GYMD",
+    "house": "Adlam House",
+    "roomNumber": "A58",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHM0L2LJK4Q5",
+    "house": "Adlam House",
+    "roomNumber": "A58",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHV7C6S5NKB4",
+    "house": "Adlam House",
+    "roomNumber": "A58",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHEHOU6QLZ2R",
+    "house": "Adlam House",
+    "roomNumber": "A59",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHWGWAJ1G1R1",
+    "house": "Adlam House",
+    "roomNumber": "A59",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHDWWO8NBHNA",
+    "house": "Adlam House",
+    "roomNumber": "A59",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHL3GYWIYMEN",
+    "house": "Adlam House",
+    "roomNumber": "A60",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHVG3KK0VM59",
+    "house": "Adlam House",
+    "roomNumber": "A60",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHM6MG87OI0E",
+    "house": "Adlam House",
+    "roomNumber": "A60",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH0VGNXB5JTB",
+    "house": "Adlam House",
+    "roomNumber": "A61",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH9XXAYPNTRF",
+    "house": "Adlam House",
+    "roomNumber": "A61",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHZWKXXJVE3D",
+    "house": "Adlam House",
+    "roomNumber": "A61",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHZEEDHHJSHZ",
+    "house": "Adlam House",
+    "roomNumber": "A61",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHKBRH7LAY64",
+    "house": "Adlam House",
+    "roomNumber": "A61",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHYFDS0DJI9K",
+    "house": "Adlam House",
+    "roomNumber": "A61",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHQDGBK2L0D1",
+    "house": "Adlam House",
+    "roomNumber": "A62",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHB4XGMPW5D3",
+    "house": "Adlam House",
+    "roomNumber": "A62",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHGO8JN42X2E",
+    "house": "Adlam House",
+    "roomNumber": "A62",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHZC7FOV2YGN",
+    "house": "Adlam House",
+    "roomNumber": "A62",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHMBY49E7EOB",
+    "house": "Adlam House",
+    "roomNumber": "A62",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHJLZY1UU9YM",
+    "house": "Adlam House",
+    "roomNumber": "A62",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHSZDXIMYN4U",
+    "house": "Adlam House",
+    "roomNumber": "A63",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH9BXF445CRI",
+    "house": "Adlam House",
+    "roomNumber": "A63",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH8BIXOIQ2Q4",
+    "house": "Adlam House",
+    "roomNumber": "A63",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHQERXDOUADV",
+    "house": "Adlam House",
+    "roomNumber": "A63",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHWKSHY8NBIQ",
+    "house": "Adlam House",
+    "roomNumber": "A63",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHUWRXZE1HM3",
+    "house": "Adlam House",
+    "roomNumber": "A63",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH8KSZBFFZZD",
+    "house": "Adlam House",
+    "roomNumber": "A64",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHVG7OQ2ZDO7",
+    "house": "Adlam House",
+    "roomNumber": "A64",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH4V1QX8ERTB",
+    "house": "Adlam House",
+    "roomNumber": "A64",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH74RS7GU0EN",
+    "house": "Adlam House",
+    "roomNumber": "A64",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHV5SN961J88",
+    "house": "Adlam House",
+    "roomNumber": "A64",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHQEOZ0KZ4Z7",
+    "house": "Adlam House",
+    "roomNumber": "A64",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHWHWKMY9X8S",
+    "house": "Adlam House",
+    "roomNumber": "A65",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHYLEMRUYP04",
+    "house": "Adlam House",
+    "roomNumber": "A65",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHK43SAFYH1F",
+    "house": "Adlam House",
+    "roomNumber": "A65",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHKJ4YK1B3D5",
+    "house": "Adlam House",
+    "roomNumber": "A65",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH050UI22KX7",
+    "house": "Adlam House",
+    "roomNumber": "A65",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHN89LTAJW25",
+    "house": "Adlam House",
+    "roomNumber": "A65",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH36ZX1TV18K",
+    "house": "Adlam House",
+    "roomNumber": "A66",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHGYGGSNPUEV",
+    "house": "Adlam House",
+    "roomNumber": "A66",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHJLZFFLB7WX",
+    "house": "Adlam House",
+    "roomNumber": "A66",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHRUM2LHGCSO",
+    "house": "Adlam House",
+    "roomNumber": "A66",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHTDHHLMH1T9",
+    "house": "Adlam House",
+    "roomNumber": "A66",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH39AYQ6WW8Y",
+    "house": "Adlam House",
+    "roomNumber": "A66",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHL68NTK63N2",
+    "house": "Adlam House",
+    "roomNumber": "A67",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHQB6GS8G8TA",
+    "house": "Adlam House",
+    "roomNumber": "A67",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHCY15PDTZ91",
+    "house": "Adlam House",
+    "roomNumber": "A67",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHX70FQLDB2U",
+    "house": "Adlam House",
+    "roomNumber": "A67",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHUIJNWPAYTX",
+    "house": "Adlam House",
+    "roomNumber": "A67",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHW1VZC7D2KD",
+    "house": "Adlam House",
+    "roomNumber": "A67",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH1POXRTEO2T",
+    "house": "Adlam House",
+    "roomNumber": "A68",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH8FY620N8TT",
+    "house": "Adlam House",
+    "roomNumber": "A68",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHEAVT8K06MO",
+    "house": "Adlam House",
+    "roomNumber": "A68",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHXSFH4GG244",
+    "house": "Adlam House",
+    "roomNumber": "A68",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH79QTKCD0RL",
+    "house": "Adlam House",
+    "roomNumber": "A68",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHEXDW6LQWLV",
+    "house": "Adlam House",
+    "roomNumber": "A68",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHUNLPAIH0P4",
+    "house": "Adlam House",
+    "roomNumber": "A69",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHE05QMKTGV4",
+    "house": "Adlam House",
+    "roomNumber": "A69",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH4FTJ5CCASB",
+    "house": "Adlam House",
+    "roomNumber": "A69",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHUOV6TT9Q1N",
+    "house": "Adlam House",
+    "roomNumber": "A69",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHI10KQSOSX4",
+    "house": "Adlam House",
+    "roomNumber": "A69",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH3WFSQG8X80",
+    "house": "Adlam House",
+    "roomNumber": "A69",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHRMHRCNBH6N",
+    "house": "Adlam House",
+    "roomNumber": "A70",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHQQB9LZS34J",
+    "house": "Adlam House",
+    "roomNumber": "A70",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHTGXNX4SN6S",
+    "house": "Adlam House",
+    "roomNumber": "A70",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHM5RRVSFFCX",
+    "house": "Adlam House",
+    "roomNumber": "A70",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHHGNZEI3ZRR",
+    "house": "Adlam House",
+    "roomNumber": "A70",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHHF4ABUFWBU",
+    "house": "Adlam House",
+    "roomNumber": "A70",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHCJG8VUAZXK",
+    "house": "Adlam House",
+    "roomNumber": "A71",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHDQ95G3V23G",
+    "house": "Adlam House",
+    "roomNumber": "A71",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHXJ0MQVINDH",
+    "house": "Adlam House",
+    "roomNumber": "A71",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH4SPFDRWB2S",
+    "house": "Adlam House",
+    "roomNumber": "A71",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHEREV361XSN",
+    "house": "Adlam House",
+    "roomNumber": "A71",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHBTI22NV01Z",
+    "house": "Adlam House",
+    "roomNumber": "A71",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHDERI4K5OGZ",
+    "house": "Adlam House",
+    "roomNumber": "A72",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH2UEAXYLNFX",
+    "house": "Adlam House",
+    "roomNumber": "A72",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHJ4PNJY1O2R",
+    "house": "Adlam House",
+    "roomNumber": "A72",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHNTJLMZ04X0",
+    "house": "Adlam House",
+    "roomNumber": "A72",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHQZFHOMTZZF",
+    "house": "Adlam House",
+    "roomNumber": "A72",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH8ADF7PCHCB",
+    "house": "Adlam House",
+    "roomNumber": "A72",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHN9WSZV83XP",
+    "house": "Adlam House",
+    "roomNumber": "A73",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHHX2KBVSIGB",
+    "house": "Adlam House",
+    "roomNumber": "A73",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHIAF92MOVS0",
+    "house": "Adlam House",
+    "roomNumber": "A73",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHCDK36M8JVH",
+    "house": "Adlam House",
+    "roomNumber": "A73",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH7UJODCK828",
+    "house": "Adlam House",
+    "roomNumber": "A73",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH53UY8U118Q",
+    "house": "Adlam House",
+    "roomNumber": "A73",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHQVAECW9YIL",
+    "house": "Adlam House",
+    "roomNumber": "A74",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH8SA3IDY3C7",
+    "house": "Adlam House",
+    "roomNumber": "A74",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHRM6J8Y6RH0",
+    "house": "Adlam House",
+    "roomNumber": "A74",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH5HHIWFD7YX",
+    "house": "Adlam House",
+    "roomNumber": "A74",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHW1TBRWR965",
+    "house": "Adlam House",
+    "roomNumber": "A74",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHR96KHUB2RT",
+    "house": "Adlam House",
+    "roomNumber": "A74",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHSOYG9ZQYAH",
+    "house": "Adlam House",
+    "roomNumber": "A75",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHULWJTIQWNR",
+    "house": "Adlam House",
+    "roomNumber": "A75",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHHZN4KGEUID",
+    "house": "Adlam House",
+    "roomNumber": "A75",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHJIPNF8F3GR",
+    "house": "Adlam House",
+    "roomNumber": "A75",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH94SZ2KUUOY",
+    "house": "Adlam House",
+    "roomNumber": "A75",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHC3RWQMMU7J",
+    "house": "Adlam House",
+    "roomNumber": "A75",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHAE58HUXG2M",
+    "house": "Adlam House",
+    "roomNumber": "A76",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHYR06NKWFG3",
+    "house": "Adlam House",
+    "roomNumber": "A76",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHMWU4CFILKJ",
+    "house": "Adlam House",
+    "roomNumber": "A76",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHXJQ5NV8OGA",
+    "house": "Adlam House",
+    "roomNumber": "A76",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH0X7ZCGDC5T",
+    "house": "Adlam House",
+    "roomNumber": "A76",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHAO1CJFX5LI",
+    "house": "Adlam House",
+    "roomNumber": "A76",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHKWE4BX4LR9",
+    "house": "Adlam House",
+    "roomNumber": "A77",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHTJQ8ZGVWWU",
+    "house": "Adlam House",
+    "roomNumber": "A77",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHSXLMT2PNJK",
+    "house": "Adlam House",
+    "roomNumber": "A77",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHA34MQA78RA",
+    "house": "Adlam House",
+    "roomNumber": "A77",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHPKIANOUOF0",
+    "house": "Adlam House",
+    "roomNumber": "A77",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHONJPI163YK",
+    "house": "Adlam House",
+    "roomNumber": "A77",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH03O4GKWWJW",
+    "house": "Adlam House",
+    "roomNumber": "A78",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHGABTGDJZ0I",
+    "house": "Adlam House",
+    "roomNumber": "A78",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHFRML29Q2L4",
+    "house": "Adlam House",
+    "roomNumber": "A78",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH8C1CQG433E",
+    "house": "Adlam House",
+    "roomNumber": "A78",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH1I1P0BQ1S9",
+    "house": "Adlam House",
+    "roomNumber": "A78",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHRYLLWB7SJW",
+    "house": "Adlam House",
+    "roomNumber": "A78",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHH55HEWLGJE",
+    "house": "Adlam House",
+    "roomNumber": "A79",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH2AB2RVNDFD",
+    "house": "Adlam House",
+    "roomNumber": "A79",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHW79WCXZ2EI",
+    "house": "Adlam House",
+    "roomNumber": "A79",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH9212PGYME6",
+    "house": "Adlam House",
+    "roomNumber": "A79",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHRPKZGGM0J3",
+    "house": "Adlam House",
+    "roomNumber": "A79",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH6TCFKJNAWN",
+    "house": "Adlam House",
+    "roomNumber": "A79",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHGA41IZXTNS",
+    "house": "Adlam House",
+    "roomNumber": "A80",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHRTWLXDSC4E",
+    "house": "Adlam House",
+    "roomNumber": "A80",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH5HRDU4XSZJ",
+    "house": "Adlam House",
+    "roomNumber": "A80",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHNVC7HR6C2C",
+    "house": "Adlam House",
+    "roomNumber": "A80",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHU7ONZ3JBCK",
+    "house": "Adlam House",
+    "roomNumber": "A80",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH88D0TGSIWG",
+    "house": "Adlam House",
+    "roomNumber": "A80",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH0ODWMQX5GG",
+    "house": "Adlam House",
+    "roomNumber": "A81",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHOMF9PML9LN",
+    "house": "Adlam House",
+    "roomNumber": "A81",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH1P0VUH17J8",
+    "house": "Adlam House",
+    "roomNumber": "A81",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHQO09VS9KKH",
+    "house": "Adlam House",
+    "roomNumber": "A81",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH4A3YJTU7FB",
+    "house": "Adlam House",
+    "roomNumber": "A81",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHMENUI3DO70",
+    "house": "Adlam House",
+    "roomNumber": "A81",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH02G3YU6VK0",
+    "house": "Adlam House",
+    "roomNumber": "A82",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHUCC1M3O55I",
+    "house": "Adlam House",
+    "roomNumber": "A82",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHXVA1NKBTFS",
+    "house": "Adlam House",
+    "roomNumber": "A82",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHHB0OQVSHKO",
+    "house": "Adlam House",
+    "roomNumber": "A82",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHECUBODS1EE",
+    "house": "Adlam House",
+    "roomNumber": "A82",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHURXHW0IC1L",
+    "house": "Adlam House",
+    "roomNumber": "A82",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH7DYPMLVAK9",
+    "house": "Adlam House",
+    "roomNumber": "A83",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHW9PFB3HN14",
+    "house": "Adlam House",
+    "roomNumber": "A83",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHEB8753AYEQ",
+    "house": "Adlam House",
+    "roomNumber": "A83",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHAHTHSJR0FZ",
+    "house": "Adlam House",
+    "roomNumber": "A83",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHAUXBGK2WBX",
+    "house": "Adlam House",
+    "roomNumber": "A83",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHANJ4X5A5XI",
+    "house": "Adlam House",
+    "roomNumber": "A83",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHN9DL5TGSQ7",
+    "house": "Adlam House",
+    "roomNumber": "A84",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHAITMOFMMWI",
+    "house": "Adlam House",
+    "roomNumber": "A84",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH9S3W563BTK",
+    "house": "Adlam House",
+    "roomNumber": "A84",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHF6XDN8WWII",
+    "house": "Adlam House",
+    "roomNumber": "A84",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHF86LTHET25",
+    "house": "Adlam House",
+    "roomNumber": "A84",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHLZSE99F77L",
+    "house": "Adlam House",
+    "roomNumber": "A84",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHU8EL5015OO",
+    "house": "Adlam House",
+    "roomNumber": "A85",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHP767J2DG1W",
+    "house": "Adlam House",
+    "roomNumber": "A85",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHJUIIYMYRSV",
+    "house": "Adlam House",
+    "roomNumber": "A85",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHZN4REGB1AJ",
+    "house": "Adlam House",
+    "roomNumber": "A85",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHO091C795RL",
+    "house": "Adlam House",
+    "roomNumber": "A85",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHQIOB0NLW0V",
+    "house": "Adlam House",
+    "roomNumber": "A85",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHS52SQ3B9SO",
+    "house": "Adlam House",
+    "roomNumber": "A86",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH0USWBKOK3Q",
+    "house": "Adlam House",
+    "roomNumber": "A86",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHPWBSF3Q0E2",
+    "house": "Adlam House",
+    "roomNumber": "A86",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH7ZEOQGVZHQ",
+    "house": "Adlam House",
+    "roomNumber": "A86",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHJY62ZEEQNS",
+    "house": "Adlam House",
+    "roomNumber": "A86",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHN2S8NN16UX",
+    "house": "Adlam House",
+    "roomNumber": "A86",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHF5GZPL1QWE",
+    "house": "Adlam House",
+    "roomNumber": "A87",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHEHWJQ4TA5I",
+    "house": "Adlam House",
+    "roomNumber": "A87",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHVROCVITWU3",
+    "house": "Adlam House",
+    "roomNumber": "A87",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHBFXB4Y4K7B",
+    "house": "Adlam House",
+    "roomNumber": "A87",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHPGYVYV2GQU",
+    "house": "Adlam House",
+    "roomNumber": "A87",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH7DKNNCPTKE",
+    "house": "Adlam House",
+    "roomNumber": "A87",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHZJSSZWD0W9",
+    "house": "Adlam House",
+    "roomNumber": "A88",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHRY79KVLS9M",
+    "house": "Adlam House",
+    "roomNumber": "A88",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHEUSWRGVZ9A",
+    "house": "Adlam House",
+    "roomNumber": "A88",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHAWE429OMUW",
+    "house": "Adlam House",
+    "roomNumber": "A88",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHAHK2LSLAYM",
+    "house": "Adlam House",
+    "roomNumber": "A88",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH0WBGLMY62X",
+    "house": "Adlam House",
+    "roomNumber": "A88",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHRW6TM2O04K",
+    "house": "Adlam House",
+    "roomNumber": "A89",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH0LTHY25M8K",
+    "house": "Adlam House",
+    "roomNumber": "A89",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHB9W4UOV51Z",
+    "house": "Adlam House",
+    "roomNumber": "A89",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHLBORIQ8HKE",
+    "house": "Adlam House",
+    "roomNumber": "A89",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH226PARSG70",
+    "house": "Adlam House",
+    "roomNumber": "A89",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHS1F537YE0Q",
+    "house": "Adlam House",
+    "roomNumber": "A89",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHZSA7YVDQBS",
+    "house": "Adlam House",
+    "roomNumber": "A90",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHXLUL6LGJLP",
+    "house": "Adlam House",
+    "roomNumber": "A90",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHEFJAWSHMLF",
+    "house": "Adlam House",
+    "roomNumber": "A90",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHZKICWMPEQY",
+    "house": "Adlam House",
+    "roomNumber": "A91",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHDBPGVV4ZWL",
+    "house": "Adlam House",
+    "roomNumber": "A91",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH3ZYT91QE37",
+    "house": "Adlam House",
+    "roomNumber": "A91",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHQQYZQII4W6",
+    "house": "Adlam House",
+    "roomNumber": "A92",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHOZX25QBRMQ",
+    "house": "Adlam House",
+    "roomNumber": "A92",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHG1VED32LX2",
+    "house": "Adlam House",
+    "roomNumber": "A92",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHTOOWT9NM3V",
+    "house": "Adlam House",
+    "roomNumber": "A93",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH2P2TIXC7UR",
+    "house": "Adlam House",
+    "roomNumber": "A93",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHVQT3G8CD31",
+    "house": "Adlam House",
+    "roomNumber": "A93",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHNRXD356WAF",
+    "house": "Adlam House",
+    "roomNumber": "A94",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHFTOUHYLU6K",
+    "house": "Adlam House",
+    "roomNumber": "A94",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH7P9MDA9OEK",
+    "house": "Adlam House",
+    "roomNumber": "A94",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHNTBZ3M55IZ",
+    "house": "Adlam House",
+    "roomNumber": "A95",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHOLNNTXRGN7",
+    "house": "Adlam House",
+    "roomNumber": "A95",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH4F9YECAZRP",
+    "house": "Adlam House",
+    "roomNumber": "A95",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH9DXOQ2VPGS",
+    "house": "Adlam House",
+    "roomNumber": "A96",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHTQMGVU4ISO",
+    "house": "Adlam House",
+    "roomNumber": "A96",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHTN9UZERYF0",
+    "house": "Adlam House",
+    "roomNumber": "A96",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH992QC6DR08",
+    "house": "Adlam House",
+    "roomNumber": "A97",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHCW2LBM2QSQ",
+    "house": "Adlam House",
+    "roomNumber": "A97",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH0P82KB700U",
+    "house": "Adlam House",
+    "roomNumber": "A97",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHCRGB93WKCS",
+    "house": "Adlam House",
+    "roomNumber": "A98",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH4KEK4AEGVF",
+    "house": "Adlam House",
+    "roomNumber": "A98",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHQ3JZR25MDF",
+    "house": "Adlam House",
+    "roomNumber": "A98",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH7FR91IPWH0",
+    "house": "Adlam House",
+    "roomNumber": "A98",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHMX1EGOK01T",
+    "house": "Adlam House",
+    "roomNumber": "A98",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHNZRF5A7QY8",
+    "house": "Adlam House",
+    "roomNumber": "A98",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHYB7W8P74MJ",
+    "house": "Adlam House",
+    "roomNumber": "A99",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHDXO100VHMY",
+    "house": "Adlam House",
+    "roomNumber": "A99",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHGTY3ADDQHK",
+    "house": "Adlam House",
+    "roomNumber": "A99",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHGAD7X48WZE",
+    "house": "Adlam House",
+    "roomNumber": "A99",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH4EX6U86ZJQ",
+    "house": "Adlam House",
+    "roomNumber": "A99",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH7W7JP61LFC",
+    "house": "Adlam House",
+    "roomNumber": "A99",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH1NLC8JPR7V",
+    "house": "Adlam House",
+    "roomNumber": "A100",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHGRF1HX6ZDC",
+    "house": "Adlam House",
+    "roomNumber": "A100",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHUJQ6FX7XJZ",
+    "house": "Adlam House",
+    "roomNumber": "A100",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH6US7RP422T",
+    "house": "Adlam House",
+    "roomNumber": "A100",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHA83RU7MYOW",
+    "house": "Adlam House",
+    "roomNumber": "A100",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH8DT8CQ1XGB",
+    "house": "Adlam House",
+    "roomNumber": "A100",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHNGZ6WMDW0F",
+    "house": "Adlam House",
+    "roomNumber": "A101",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHGZVRCTLT4Q",
+    "house": "Adlam House",
+    "roomNumber": "A101",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH9BC2BE3YQY",
+    "house": "Adlam House",
+    "roomNumber": "A101",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH5FU7BFXQ7B",
+    "house": "Adlam House",
+    "roomNumber": "A101",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHZEGBL2QGV3",
+    "house": "Adlam House",
+    "roomNumber": "A101",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHDR2H2P39YL",
+    "house": "Adlam House",
+    "roomNumber": "A101",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH9UE421VMEF",
+    "house": "Adlam House",
+    "roomNumber": "A102",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHOZTP7BD4W1",
+    "house": "Adlam House",
+    "roomNumber": "A102",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHARAGDX5O31",
+    "house": "Adlam House",
+    "roomNumber": "A102",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHYHXSO7VBGR",
+    "house": "Adlam House",
+    "roomNumber": "A102",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH8W2MAIETDN",
+    "house": "Adlam House",
+    "roomNumber": "A102",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH1TH1XJG2Y8",
+    "house": "Adlam House",
+    "roomNumber": "A102",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHRGYBXKPM21",
+    "house": "Adlam House",
+    "roomNumber": "A103",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHB07G2RE6ZV",
+    "house": "Adlam House",
+    "roomNumber": "A103",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHLHYL2LD05N",
+    "house": "Adlam House",
+    "roomNumber": "A103",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHHQR6F7QNEZ",
+    "house": "Adlam House",
+    "roomNumber": "A103",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHW9HEYCE4QG",
+    "house": "Adlam House",
+    "roomNumber": "A103",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHM5V2WWG84D",
+    "house": "Adlam House",
+    "roomNumber": "A103",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH4R9V4K00IL",
+    "house": "Adlam House",
+    "roomNumber": "A104",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHU6VFUA9BQ1",
+    "house": "Adlam House",
+    "roomNumber": "A104",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHBTR23QIUA0",
+    "house": "Adlam House",
+    "roomNumber": "A104",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH8EKXDRKZ40",
+    "house": "Adlam House",
+    "roomNumber": "A104",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHAQ15O2NQW4",
+    "house": "Adlam House",
+    "roomNumber": "A104",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHC6LBPJ8T22",
+    "house": "Adlam House",
+    "roomNumber": "A104",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHC50B8Y5DNW",
+    "house": "Adlam House",
+    "roomNumber": "A105",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHNGUCZH9IER",
+    "house": "Adlam House",
+    "roomNumber": "A105",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH7U8H0IMJYJ",
+    "house": "Adlam House",
+    "roomNumber": "A105",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHCMRSEZYTKW",
+    "house": "Adlam House",
+    "roomNumber": "A105",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH2837C6QC6K",
+    "house": "Adlam House",
+    "roomNumber": "A105",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH8DJZR5SWK8",
+    "house": "Adlam House",
+    "roomNumber": "A105",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHTEMPXKC5I8",
+    "house": "Adlam House",
+    "roomNumber": "A106",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHXOMXLVZ4QK",
+    "house": "Adlam House",
+    "roomNumber": "A106",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHE2GJR81BMQ",
+    "house": "Adlam House",
+    "roomNumber": "A106",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHF7ZK94YXFI",
+    "house": "Adlam House",
+    "roomNumber": "A106",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHBLEJGUBLMN",
+    "house": "Adlam House",
+    "roomNumber": "A106",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHTFK7ORFQLA",
+    "house": "Adlam House",
+    "roomNumber": "A106",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH09LZRK79UF",
+    "house": "Adlam House",
+    "roomNumber": "A107",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHU6PY06FTLO",
+    "house": "Adlam House",
+    "roomNumber": "A107",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH4QDBXVH7KA",
+    "house": "Adlam House",
+    "roomNumber": "A107",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHTQYDSHLV76",
+    "house": "Adlam House",
+    "roomNumber": "A107",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHMF4NNKM95D",
+    "house": "Adlam House",
+    "roomNumber": "A107",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH0P92K38P6F",
+    "house": "Adlam House",
+    "roomNumber": "A107",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHVDHR59C81D",
+    "house": "Adlam House",
+    "roomNumber": "A108",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHO6OUZ1EGNT",
+    "house": "Adlam House",
+    "roomNumber": "A108",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHB34KUQAAJ8",
+    "house": "Adlam House",
+    "roomNumber": "A108",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH4RX6PRYIEJ",
+    "house": "Adlam House",
+    "roomNumber": "A108",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH9C0UU5WRYE",
+    "house": "Adlam House",
+    "roomNumber": "A108",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHSU4FCL5EFJ",
+    "house": "Adlam House",
+    "roomNumber": "A108",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHP6MKT7S1GD",
+    "house": "Adlam House",
+    "roomNumber": "A109",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH1T53YKYYDU",
+    "house": "Adlam House",
+    "roomNumber": "A109",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH3ASNRM6DFH",
+    "house": "Adlam House",
+    "roomNumber": "A109",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHG6W3STT1EQ",
+    "house": "Adlam House",
+    "roomNumber": "A109",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHC37RLN36V1",
+    "house": "Adlam House",
+    "roomNumber": "A109",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHMZB3I4FIEE",
+    "house": "Adlam House",
+    "roomNumber": "A109",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHCY2C11BD2S",
+    "house": "Adlam House",
+    "roomNumber": "A110",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHCEJCY127H6",
+    "house": "Adlam House",
+    "roomNumber": "A110",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHGMD478MFS0",
+    "house": "Adlam House",
+    "roomNumber": "A110",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHIUDUAHGK6T",
+    "house": "Adlam House",
+    "roomNumber": "A110",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH9DHSZNVP8G",
+    "house": "Adlam House",
+    "roomNumber": "A110",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHMNHIE9EDE1",
+    "house": "Adlam House",
+    "roomNumber": "A110",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHZUBLEKVL9P",
+    "house": "Adlam House",
+    "roomNumber": "A111",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHTK4GC4RYG9",
+    "house": "Adlam House",
+    "roomNumber": "A111",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHRDPXDFOVD7",
+    "house": "Adlam House",
+    "roomNumber": "A111",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH9C9MV9E40K",
+    "house": "Adlam House",
+    "roomNumber": "A111",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHZUJ2XORVOR",
+    "house": "Adlam House",
+    "roomNumber": "A111",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHK1DJRWEDBC",
+    "house": "Adlam House",
+    "roomNumber": "A111",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHY8NYFWDC11",
+    "house": "Adlam House",
+    "roomNumber": "A112",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH2HXRJM4T8B",
+    "house": "Adlam House",
+    "roomNumber": "A112",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHP6NLNQBU4K",
+    "house": "Adlam House",
+    "roomNumber": "A112",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHZREZRDYXYU",
+    "house": "Adlam House",
+    "roomNumber": "A112",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHR4SOR8WM9L",
+    "house": "Adlam House",
+    "roomNumber": "A112",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHBB4M0A6MDM",
+    "house": "Adlam House",
+    "roomNumber": "A112",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHMMXIXV6CKM",
+    "house": "Adlam House",
+    "roomNumber": "A113",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHALQ5U6JZV9",
+    "house": "Adlam House",
+    "roomNumber": "A113",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHNOU3DYMS1M",
+    "house": "Adlam House",
+    "roomNumber": "A113",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHWNPR424TKB",
+    "house": "Adlam House",
+    "roomNumber": "A113",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH9OI0D4DMC2",
+    "house": "Adlam House",
+    "roomNumber": "A113",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHRH2XK2PTHO",
+    "house": "Adlam House",
+    "roomNumber": "A113",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHWQ1GAZ5UH8",
+    "house": "Adlam House",
+    "roomNumber": "A114",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH0Q7TW1PUWS",
+    "house": "Adlam House",
+    "roomNumber": "A114",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHNFFYKPL3CH",
+    "house": "Adlam House",
+    "roomNumber": "A114",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHO3XJVOEGI3",
+    "house": "Adlam House",
+    "roomNumber": "A114",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHQUPXBFEJ2X",
+    "house": "Adlam House",
+    "roomNumber": "A114",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHG48RA4DV56",
+    "house": "Adlam House",
+    "roomNumber": "A114",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHONXD70FE07",
+    "house": "Adlam House",
+    "roomNumber": "A115",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHS387J5IE3L",
+    "house": "Adlam House",
+    "roomNumber": "A115",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHVO0IPFG8PJ",
+    "house": "Adlam House",
+    "roomNumber": "A115",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHVRN8LPY857",
+    "house": "Adlam House",
+    "roomNumber": "A115",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHNZ3A8V4X7Y",
+    "house": "Adlam House",
+    "roomNumber": "A115",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH2ITL8N3E54",
+    "house": "Adlam House",
+    "roomNumber": "A115",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHN6O9JD3IH6",
+    "house": "Adlam House",
+    "roomNumber": "A116",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH6W51OB537Q",
+    "house": "Adlam House",
+    "roomNumber": "A116",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHO4Z533ZSMV",
+    "house": "Adlam House",
+    "roomNumber": "A116",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH30QABXW2EO",
+    "house": "Adlam House",
+    "roomNumber": "A116",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHWLCFS8314Y",
+    "house": "Adlam House",
+    "roomNumber": "A116",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH2LR0JY32HO",
+    "house": "Adlam House",
+    "roomNumber": "A116",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHG585I87XW6",
+    "house": "Adlam House",
+    "roomNumber": "A117",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH9HZGOPJDN8",
+    "house": "Adlam House",
+    "roomNumber": "A117",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHEZP7QYEZG5",
+    "house": "Adlam House",
+    "roomNumber": "A117",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH2KRE4V9KYP",
+    "house": "Adlam House",
+    "roomNumber": "A117",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHOFKJW6NYQA",
+    "house": "Adlam House",
+    "roomNumber": "A117",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHELYYZZ0JDC",
+    "house": "Adlam House",
+    "roomNumber": "A117",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHLI6978V0BJ",
+    "house": "Adlam House",
+    "roomNumber": "A118",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHWKON8UUJS7",
+    "house": "Adlam House",
+    "roomNumber": "A118",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH5ELTFEBE54",
+    "house": "Adlam House",
+    "roomNumber": "A118",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAH07K5W1JL6L",
+    "house": "Adlam House",
+    "roomNumber": "A118",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH91F4X2BFIB",
+    "house": "Adlam House",
+    "roomNumber": "A118",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHJZP97BMZRR",
+    "house": "Adlam House",
+    "roomNumber": "A118",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAH45ED5GGSJ6",
+    "house": "Adlam House",
+    "roomNumber": "A119",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DAHVV8SUOC1Y5",
+    "house": "Adlam House",
+    "roomNumber": "A119",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHAYYOV84FC3",
+    "house": "Adlam House",
+    "roomNumber": "A119",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CAHXQ8VA8X8L0",
+    "house": "Adlam House",
+    "roomNumber": "A119",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAH08UHBXLBC8",
+    "house": "Adlam House",
+    "roomNumber": "A119",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BAHNOG85D4F2K",
+    "house": "Adlam House",
+    "roomNumber": "A119",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH1XERP3LYEX",
+    "house": "Nurse Home",
+    "roomNumber": "N01",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH3SR5RUP13W",
+    "house": "Nurse Home",
+    "roomNumber": "N01",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHPPBMQIYFRW",
+    "house": "Nurse Home",
+    "roomNumber": "N01",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHSKP6RFE64S",
+    "house": "Nurse Home",
+    "roomNumber": "N02",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHKBCBDPDXUJ",
+    "house": "Nurse Home",
+    "roomNumber": "N02",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHJCSEXGGOC5",
+    "house": "Nurse Home",
+    "roomNumber": "N02",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHKVQYWJ85GG",
+    "house": "Nurse Home",
+    "roomNumber": "N03",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH0V5DTAEGRY",
+    "house": "Nurse Home",
+    "roomNumber": "N03",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH58VRW9MYYO",
+    "house": "Nurse Home",
+    "roomNumber": "N03",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHKEAEA84HXX",
+    "house": "Nurse Home",
+    "roomNumber": "N04",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHPW2GKQRAFF",
+    "house": "Nurse Home",
+    "roomNumber": "N04",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHZ8Q4VHU4BA",
+    "house": "Nurse Home",
+    "roomNumber": "N04",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHWZ940VTKRR",
+    "house": "Nurse Home",
+    "roomNumber": "N05",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHVWY3RZTPLC",
+    "house": "Nurse Home",
+    "roomNumber": "N05",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH6PRR7MZAKG",
+    "house": "Nurse Home",
+    "roomNumber": "N05",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHMIH6MV4XEK",
+    "house": "Nurse Home",
+    "roomNumber": "N06",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHZ83Y0224WK",
+    "house": "Nurse Home",
+    "roomNumber": "N06",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH0YEHVDO9KH",
+    "house": "Nurse Home",
+    "roomNumber": "N06",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHBA5MF36BCP",
+    "house": "Nurse Home",
+    "roomNumber": "N07",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHWEIJMMB5JF",
+    "house": "Nurse Home",
+    "roomNumber": "N07",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHYSYZ7PQ4DD",
+    "house": "Nurse Home",
+    "roomNumber": "N07",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHV283BDW56F",
+    "house": "Nurse Home",
+    "roomNumber": "N08",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHKPS0DXME4P",
+    "house": "Nurse Home",
+    "roomNumber": "N08",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHO1I3MSDN1M",
+    "house": "Nurse Home",
+    "roomNumber": "N08",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHXF1PI2OOQ4",
+    "house": "Nurse Home",
+    "roomNumber": "N09",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH2NBFA37DL9",
+    "house": "Nurse Home",
+    "roomNumber": "N09",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHFC1XX6CWZX",
+    "house": "Nurse Home",
+    "roomNumber": "N09",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHSKOYTK06AK",
+    "house": "Nurse Home",
+    "roomNumber": "N10",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHT7ZQHT2XZ5",
+    "house": "Nurse Home",
+    "roomNumber": "N10",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH2OHKBM00E9",
+    "house": "Nurse Home",
+    "roomNumber": "N10",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHKDTS1FB2VI",
+    "house": "Nurse Home",
+    "roomNumber": "N11",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH109DCNWMBX",
+    "house": "Nurse Home",
+    "roomNumber": "N11",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHEK0Q929U6W",
+    "house": "Nurse Home",
+    "roomNumber": "N11",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHTVMK2ZYZSI",
+    "house": "Nurse Home",
+    "roomNumber": "N12",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHLU3NDZ3CC5",
+    "house": "Nurse Home",
+    "roomNumber": "N12",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHRQNSVSOJRP",
+    "house": "Nurse Home",
+    "roomNumber": "N12",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHP7R93FEZEZ",
+    "house": "Nurse Home",
+    "roomNumber": "N13",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH5EHR07N8VO",
+    "house": "Nurse Home",
+    "roomNumber": "N13",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHEUBFN9KR2F",
+    "house": "Nurse Home",
+    "roomNumber": "N13",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHVB66H3REM5",
+    "house": "Nurse Home",
+    "roomNumber": "N14",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHPUU62RZV1S",
+    "house": "Nurse Home",
+    "roomNumber": "N14",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHQQQ5L2XOIO",
+    "house": "Nurse Home",
+    "roomNumber": "N14",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHT860X5ZU2Z",
+    "house": "Nurse Home",
+    "roomNumber": "N15",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHUEUGWUBUGR",
+    "house": "Nurse Home",
+    "roomNumber": "N15",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH6E7GA2IZ5P",
+    "house": "Nurse Home",
+    "roomNumber": "N15",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH3VOB5APO4L",
+    "house": "Nurse Home",
+    "roomNumber": "N16",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHJEDGFJDLOG",
+    "house": "Nurse Home",
+    "roomNumber": "N16",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHWLACOLOLN3",
+    "house": "Nurse Home",
+    "roomNumber": "N16",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHEH1VR1NECQ",
+    "house": "Nurse Home",
+    "roomNumber": "N17",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHOROI5J8YIT",
+    "house": "Nurse Home",
+    "roomNumber": "N17",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH2KODWH8N92",
+    "house": "Nurse Home",
+    "roomNumber": "N17",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHTP6QAQ3K8A",
+    "house": "Nurse Home",
+    "roomNumber": "N18",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH7RV4NMWVSB",
+    "house": "Nurse Home",
+    "roomNumber": "N18",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH0UKOEFUKPV",
+    "house": "Nurse Home",
+    "roomNumber": "N18",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH8LYMJ1QI9M",
+    "house": "Nurse Home",
+    "roomNumber": "N19",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHQVAYXAR6YO",
+    "house": "Nurse Home",
+    "roomNumber": "N19",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH6Z1T2XCB3Y",
+    "house": "Nurse Home",
+    "roomNumber": "N19",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHYM33MG1ZAQ",
+    "house": "Nurse Home",
+    "roomNumber": "N20",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH7QHAK7MDWK",
+    "house": "Nurse Home",
+    "roomNumber": "N20",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHZIRNK6ZHH3",
+    "house": "Nurse Home",
+    "roomNumber": "N20",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHO5URTXUYUC",
+    "house": "Nurse Home",
+    "roomNumber": "N21",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHECJUIS2GY9",
+    "house": "Nurse Home",
+    "roomNumber": "N21",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHYTJUQ7X7B7",
+    "house": "Nurse Home",
+    "roomNumber": "N21",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHP9JYQN15IK",
+    "house": "Nurse Home",
+    "roomNumber": "N22",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHPQAHCUA09P",
+    "house": "Nurse Home",
+    "roomNumber": "N22",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHCIFLWDR3VW",
+    "house": "Nurse Home",
+    "roomNumber": "N22",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHMJDIMBM271",
+    "house": "Nurse Home",
+    "roomNumber": "N23",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHW1WUDCBL4C",
+    "house": "Nurse Home",
+    "roomNumber": "N23",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHE7PKWCYUKN",
+    "house": "Nurse Home",
+    "roomNumber": "N23",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHD1IVXAN25W",
+    "house": "Nurse Home",
+    "roomNumber": "N24",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHM72QLGDVC2",
+    "house": "Nurse Home",
+    "roomNumber": "N24",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHGUWJP0QI2C",
+    "house": "Nurse Home",
+    "roomNumber": "N24",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHLP81L51FLM",
+    "house": "Nurse Home",
+    "roomNumber": "N25",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHNAVYCS44PH",
+    "house": "Nurse Home",
+    "roomNumber": "N25",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHH62MYZ9VLU",
+    "house": "Nurse Home",
+    "roomNumber": "N25",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH8WPFQ2BHAI",
+    "house": "Nurse Home",
+    "roomNumber": "N26",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHIWI08L0HG9",
+    "house": "Nurse Home",
+    "roomNumber": "N26",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHNCBEKGV1BB",
+    "house": "Nurse Home",
+    "roomNumber": "N26",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHHG5ZMTGA46",
+    "house": "Nurse Home",
+    "roomNumber": "N27",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHAYN2D7KI3X",
+    "house": "Nurse Home",
+    "roomNumber": "N27",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH79955CF72G",
+    "house": "Nurse Home",
+    "roomNumber": "N27",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHNNV9IBWGT2",
+    "house": "Nurse Home",
+    "roomNumber": "N28",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHLB25485HCQ",
+    "house": "Nurse Home",
+    "roomNumber": "N28",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHXCS1XSRQLN",
+    "house": "Nurse Home",
+    "roomNumber": "N28",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHZZRJO7VBHH",
+    "house": "Nurse Home",
+    "roomNumber": "N29",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH5OL5U7NTED",
+    "house": "Nurse Home",
+    "roomNumber": "N29",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHQMVQWPQO2L",
+    "house": "Nurse Home",
+    "roomNumber": "N29",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHNGIXMC4SX2",
+    "house": "Nurse Home",
+    "roomNumber": "N30",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH7DCBHHLK3Y",
+    "house": "Nurse Home",
+    "roomNumber": "N30",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHJZ99106AK3",
+    "house": "Nurse Home",
+    "roomNumber": "N30",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH2OOUXQS1FO",
+    "house": "Nurse Home",
+    "roomNumber": "N31",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHI0RS210Q2L",
+    "house": "Nurse Home",
+    "roomNumber": "N31",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHG1ZHQUNUE7",
+    "house": "Nurse Home",
+    "roomNumber": "N31",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHA34MPYO2TL",
+    "house": "Nurse Home",
+    "roomNumber": "N32",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHA27F8LWVV5",
+    "house": "Nurse Home",
+    "roomNumber": "N32",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH9HOTGDUQ6D",
+    "house": "Nurse Home",
+    "roomNumber": "N32",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHDTBYRGC8KI",
+    "house": "Nurse Home",
+    "roomNumber": "N33",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHXCCSG4OFDT",
+    "house": "Nurse Home",
+    "roomNumber": "N33",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHRC85EHPZRV",
+    "house": "Nurse Home",
+    "roomNumber": "N33",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH7VSYJAFCO3",
+    "house": "Nurse Home",
+    "roomNumber": "N33",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHS65QU0K5QZ",
+    "house": "Nurse Home",
+    "roomNumber": "N33",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHZKW3GI60Q6",
+    "house": "Nurse Home",
+    "roomNumber": "N33",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHGUO8I5JWK6",
+    "house": "Nurse Home",
+    "roomNumber": "N34",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHZ0HR9T9CD1",
+    "house": "Nurse Home",
+    "roomNumber": "N34",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHLQJSQCZ0N0",
+    "house": "Nurse Home",
+    "roomNumber": "N34",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH4OAE7L0RCT",
+    "house": "Nurse Home",
+    "roomNumber": "N35",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHI8F34GADKT",
+    "house": "Nurse Home",
+    "roomNumber": "N35",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHOC1YFMHBYH",
+    "house": "Nurse Home",
+    "roomNumber": "N35",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHZ43XZ6OLBA",
+    "house": "Nurse Home",
+    "roomNumber": "N36",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH117NIDP9MG",
+    "house": "Nurse Home",
+    "roomNumber": "N36",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHYH523GGODL",
+    "house": "Nurse Home",
+    "roomNumber": "N36",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHUGHT7EHMGO",
+    "house": "Nurse Home",
+    "roomNumber": "N37",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHLOQC3XNCHK",
+    "house": "Nurse Home",
+    "roomNumber": "N37",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHV9DT94G8V9",
+    "house": "Nurse Home",
+    "roomNumber": "N37",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHZY9YLW5L4R",
+    "house": "Nurse Home",
+    "roomNumber": "N38",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHMVVNXIV9IW",
+    "house": "Nurse Home",
+    "roomNumber": "N38",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH6L01WCNKFH",
+    "house": "Nurse Home",
+    "roomNumber": "N38",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHB7V80LKX1S",
+    "house": "Nurse Home",
+    "roomNumber": "N39",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH9XKA4LIT6X",
+    "house": "Nurse Home",
+    "roomNumber": "N39",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHIYZVNLPA5C",
+    "house": "Nurse Home",
+    "roomNumber": "N39",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHGWFHDV37IC",
+    "house": "Nurse Home",
+    "roomNumber": "N40",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH0LZIGIKQWJ",
+    "house": "Nurse Home",
+    "roomNumber": "N40",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH2C9OGPS013",
+    "house": "Nurse Home",
+    "roomNumber": "N40",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH2AN417VF0J",
+    "house": "Nurse Home",
+    "roomNumber": "N41",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHQQNVCEQFGA",
+    "house": "Nurse Home",
+    "roomNumber": "N41",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHS0R778NRXV",
+    "house": "Nurse Home",
+    "roomNumber": "N41",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHOB7NUGPJ60",
+    "house": "Nurse Home",
+    "roomNumber": "N41",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHSRYZX70IB3",
+    "house": "Nurse Home",
+    "roomNumber": "N41",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHWYZXJQYJV8",
+    "house": "Nurse Home",
+    "roomNumber": "N41",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH4A1X7OV6SG",
+    "house": "Nurse Home",
+    "roomNumber": "N42",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHP3JK8XNLO5",
+    "house": "Nurse Home",
+    "roomNumber": "N42",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH0DW1MF07OL",
+    "house": "Nurse Home",
+    "roomNumber": "N42",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH93ACZSX0GN",
+    "house": "Nurse Home",
+    "roomNumber": "N43",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHZHG8Q3GCG1",
+    "house": "Nurse Home",
+    "roomNumber": "N43",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHJ6OWW5FKNJ",
+    "house": "Nurse Home",
+    "roomNumber": "N43",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHMVRYDC1AU9",
+    "house": "Nurse Home",
+    "roomNumber": "N44",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHDSAV917RMP",
+    "house": "Nurse Home",
+    "roomNumber": "N44",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHN6937XNCML",
+    "house": "Nurse Home",
+    "roomNumber": "N44",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHDQZ05EV5KZ",
+    "house": "Nurse Home",
+    "roomNumber": "N45",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH3NWXROG983",
+    "house": "Nurse Home",
+    "roomNumber": "N45",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHAMB3LPVOWC",
+    "house": "Nurse Home",
+    "roomNumber": "N45",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHP779460KHF",
+    "house": "Nurse Home",
+    "roomNumber": "N46",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHSU4SE2KYT5",
+    "house": "Nurse Home",
+    "roomNumber": "N46",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHGQEXIH1XDP",
+    "house": "Nurse Home",
+    "roomNumber": "N46",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHZF761HJR6E",
+    "house": "Nurse Home",
+    "roomNumber": "N47",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHET0DY571VX",
+    "house": "Nurse Home",
+    "roomNumber": "N47",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHNZ0NXU43IE",
+    "house": "Nurse Home",
+    "roomNumber": "N47",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHDD070EN48U",
+    "house": "Nurse Home",
+    "roomNumber": "N48",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHACT49LNY2S",
+    "house": "Nurse Home",
+    "roomNumber": "N48",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHVHOTQF74RQ",
+    "house": "Nurse Home",
+    "roomNumber": "N48",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHVFX2ZVL9E9",
+    "house": "Nurse Home",
+    "roomNumber": "N49",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHZR3RZN9L3H",
+    "house": "Nurse Home",
+    "roomNumber": "N49",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH03ZB5GRO9X",
+    "house": "Nurse Home",
+    "roomNumber": "N49",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH49TMY91OTK",
+    "house": "Nurse Home",
+    "roomNumber": "N50",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHZH4OE1U24Z",
+    "house": "Nurse Home",
+    "roomNumber": "N50",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHQFEZKFH00A",
+    "house": "Nurse Home",
+    "roomNumber": "N50",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH0UY9F8P47D",
+    "house": "Nurse Home",
+    "roomNumber": "N51",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH9GB9XV8WOB",
+    "house": "Nurse Home",
+    "roomNumber": "N51",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHIRY8XNY2X1",
+    "house": "Nurse Home",
+    "roomNumber": "N51",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH5XJXNECRYS",
+    "house": "Nurse Home",
+    "roomNumber": "N52",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHAUUJ02GRXP",
+    "house": "Nurse Home",
+    "roomNumber": "N52",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHUDC62G3AUT",
+    "house": "Nurse Home",
+    "roomNumber": "N52",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH3RSVZ2E186",
+    "house": "Nurse Home",
+    "roomNumber": "N53",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHGVGT2EEHFU",
+    "house": "Nurse Home",
+    "roomNumber": "N53",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH4B9SNTP8AK",
+    "house": "Nurse Home",
+    "roomNumber": "N53",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH8S2XQUZS9M",
+    "house": "Nurse Home",
+    "roomNumber": "N54",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHTHD3IGK38V",
+    "house": "Nurse Home",
+    "roomNumber": "N54",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHHMEWCJN6OC",
+    "house": "Nurse Home",
+    "roomNumber": "N54",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHJPZTC09ZGN",
+    "house": "Nurse Home",
+    "roomNumber": "N55",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHX3VPF9PAVC",
+    "house": "Nurse Home",
+    "roomNumber": "N55",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHEDTCXNMJ5I",
+    "house": "Nurse Home",
+    "roomNumber": "N55",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHAN8ND7G0L3",
+    "house": "Nurse Home",
+    "roomNumber": "N56",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHRTZ5TV6G8O",
+    "house": "Nurse Home",
+    "roomNumber": "N56",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHM08TV4REAS",
+    "house": "Nurse Home",
+    "roomNumber": "N56",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHFEN0B09ZIV",
+    "house": "Nurse Home",
+    "roomNumber": "N57",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHZG92SJP753",
+    "house": "Nurse Home",
+    "roomNumber": "N57",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHK48OLDC08F",
+    "house": "Nurse Home",
+    "roomNumber": "N57",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHC0TR58PS0R",
+    "house": "Nurse Home",
+    "roomNumber": "N58",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHS95ZOW60ZZ",
+    "house": "Nurse Home",
+    "roomNumber": "N58",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH0I0835TVV8",
+    "house": "Nurse Home",
+    "roomNumber": "N58",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHY5SIC4S8PN",
+    "house": "Nurse Home",
+    "roomNumber": "N59",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHNE6IT1EKKH",
+    "house": "Nurse Home",
+    "roomNumber": "N59",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH0UHK7X3BQW",
+    "house": "Nurse Home",
+    "roomNumber": "N59",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHRMWLMA6GMD",
+    "house": "Nurse Home",
+    "roomNumber": "N60",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHRDSFERFXIO",
+    "house": "Nurse Home",
+    "roomNumber": "N60",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHKPG3DP4FMP",
+    "house": "Nurse Home",
+    "roomNumber": "N60",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHM5HGBO06FH",
+    "house": "Nurse Home",
+    "roomNumber": "N61",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHRXJPT2ZL15",
+    "house": "Nurse Home",
+    "roomNumber": "N61",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHS74NDDAFS1",
+    "house": "Nurse Home",
+    "roomNumber": "N61",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHIYM90PKR1I",
+    "house": "Nurse Home",
+    "roomNumber": "N62",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHFSI159I3HZ",
+    "house": "Nurse Home",
+    "roomNumber": "N62",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH3ZSG9VWIEB",
+    "house": "Nurse Home",
+    "roomNumber": "N62",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH97PWDBOLWI",
+    "house": "Nurse Home",
+    "roomNumber": "N63",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHMRSXKJKMPL",
+    "house": "Nurse Home",
+    "roomNumber": "N63",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHBBB0HQ6DG8",
+    "house": "Nurse Home",
+    "roomNumber": "N63",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHNKDAT5L0N2",
+    "house": "Nurse Home",
+    "roomNumber": "N64",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHTNXHN5E0EV",
+    "house": "Nurse Home",
+    "roomNumber": "N64",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH6XGZ7CTM09",
+    "house": "Nurse Home",
+    "roomNumber": "N64",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHHZBGTJ5469",
+    "house": "Nurse Home",
+    "roomNumber": "N65",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH6QZ6CP7SAV",
+    "house": "Nurse Home",
+    "roomNumber": "N65",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHZEBU2Y0OY5",
+    "house": "Nurse Home",
+    "roomNumber": "N65",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH8F1N2OJGFH",
+    "house": "Nurse Home",
+    "roomNumber": "N66",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHZ52QZSKHZT",
+    "house": "Nurse Home",
+    "roomNumber": "N66",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHGBIBF57J2X",
+    "house": "Nurse Home",
+    "roomNumber": "N66",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHI3TAMVNCZT",
+    "house": "Nurse Home",
+    "roomNumber": "N67",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHZOWLC33H8G",
+    "house": "Nurse Home",
+    "roomNumber": "N67",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH8T922D0NX5",
+    "house": "Nurse Home",
+    "roomNumber": "N67",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHWT3HJU31FI",
+    "house": "Nurse Home",
+    "roomNumber": "N68",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH0N6DGG5GR0",
+    "house": "Nurse Home",
+    "roomNumber": "N68",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHXAFGOVCCI6",
+    "house": "Nurse Home",
+    "roomNumber": "N68",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH8DS03VNA31",
+    "house": "Nurse Home",
+    "roomNumber": "N69",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHXBIDFWA88D",
+    "house": "Nurse Home",
+    "roomNumber": "N69",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH0MZHRUPFLF",
+    "house": "Nurse Home",
+    "roomNumber": "N69",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHCYWE3DKS4F",
+    "house": "Nurse Home",
+    "roomNumber": "N70",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH6APFXI5N53",
+    "house": "Nurse Home",
+    "roomNumber": "N70",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHEGDD8MWE77",
+    "house": "Nurse Home",
+    "roomNumber": "N70",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH6VGTVYFYK3",
+    "house": "Nurse Home",
+    "roomNumber": "N71",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHMD6X73ZCA7",
+    "house": "Nurse Home",
+    "roomNumber": "N71",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHFXLOZ2RCU8",
+    "house": "Nurse Home",
+    "roomNumber": "N71",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHKD9GNLPYO2",
+    "house": "Nurse Home",
+    "roomNumber": "N72",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHM2XIPRTT3N",
+    "house": "Nurse Home",
+    "roomNumber": "N72",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHUPUY0ZIA9A",
+    "house": "Nurse Home",
+    "roomNumber": "N72",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHU87CM453KF",
+    "house": "Nurse Home",
+    "roomNumber": "N73",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH486I3CE8ZN",
+    "house": "Nurse Home",
+    "roomNumber": "N73",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHA8NZXC45BN",
+    "house": "Nurse Home",
+    "roomNumber": "N73",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHCCU3FG00ZK",
+    "house": "Nurse Home",
+    "roomNumber": "N74",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHOM2ZKF5B1S",
+    "house": "Nurse Home",
+    "roomNumber": "N74",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHA3Y5T37SZP",
+    "house": "Nurse Home",
+    "roomNumber": "N74",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHF9S9EHWHG0",
+    "house": "Nurse Home",
+    "roomNumber": "N75",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHU43QLX3F2X",
+    "house": "Nurse Home",
+    "roomNumber": "N75",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHHDCV4BKTCV",
+    "house": "Nurse Home",
+    "roomNumber": "N75",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH1LTWBJ9UU2",
+    "house": "Nurse Home",
+    "roomNumber": "N76",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHBL7AMKOH10",
+    "house": "Nurse Home",
+    "roomNumber": "N76",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH9ZDO0D3FVN",
+    "house": "Nurse Home",
+    "roomNumber": "N76",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHV4KFQ5DZ53",
+    "house": "Nurse Home",
+    "roomNumber": "N77",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHX1F8S0X7M2",
+    "house": "Nurse Home",
+    "roomNumber": "N77",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHMM4P61NHVC",
+    "house": "Nurse Home",
+    "roomNumber": "N77",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHFWR2F5T82D",
+    "house": "Nurse Home",
+    "roomNumber": "N78",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHDL7FKNDG1J",
+    "house": "Nurse Home",
+    "roomNumber": "N78",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHRJ5XFEUB4O",
+    "house": "Nurse Home",
+    "roomNumber": "N78",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH47EN48NYSJ",
+    "house": "Nurse Home",
+    "roomNumber": "N79",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH5YWX0I3A4K",
+    "house": "Nurse Home",
+    "roomNumber": "N79",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHFOCNQDQX6Q",
+    "house": "Nurse Home",
+    "roomNumber": "N79",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHD0771HLL9R",
+    "house": "Nurse Home",
+    "roomNumber": "N80",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHZRKBFQXLBV",
+    "house": "Nurse Home",
+    "roomNumber": "N80",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHN7NPRB58YJ",
+    "house": "Nurse Home",
+    "roomNumber": "N80",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHWDCOKZ5SYJ",
+    "house": "Nurse Home",
+    "roomNumber": "N81",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH3D6M1FMPRY",
+    "house": "Nurse Home",
+    "roomNumber": "N81",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHFZMYOA2VCY",
+    "house": "Nurse Home",
+    "roomNumber": "N81",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHWL9700LFQF",
+    "house": "Nurse Home",
+    "roomNumber": "N82",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH5E8OSAQ3EQ",
+    "house": "Nurse Home",
+    "roomNumber": "N82",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH8DH9PTFNM8",
+    "house": "Nurse Home",
+    "roomNumber": "N82",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH8UA3A6S5ZX",
+    "house": "Nurse Home",
+    "roomNumber": "N83",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHQOMTS1EGPG",
+    "house": "Nurse Home",
+    "roomNumber": "N83",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHVTN4YPKW74",
+    "house": "Nurse Home",
+    "roomNumber": "N83",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH93DXWOR17D",
+    "house": "Nurse Home",
+    "roomNumber": "N84",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHPUBKPIQNHQ",
+    "house": "Nurse Home",
+    "roomNumber": "N84",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHE86O3Z0ANI",
+    "house": "Nurse Home",
+    "roomNumber": "N84",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHK5J42OI6OA",
+    "house": "Nurse Home",
+    "roomNumber": "N85",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHFN33VM89I9",
+    "house": "Nurse Home",
+    "roomNumber": "N85",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHGX32UEW9G6",
+    "house": "Nurse Home",
+    "roomNumber": "N85",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHSPD2SW24WJ",
+    "house": "Nurse Home",
+    "roomNumber": "N86",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHT8HDPWVBZ7",
+    "house": "Nurse Home",
+    "roomNumber": "N86",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHCN0EQWMI6K",
+    "house": "Nurse Home",
+    "roomNumber": "N86",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHTI221XJ7WW",
+    "house": "Nurse Home",
+    "roomNumber": "N87",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHUDQVDK6DRN",
+    "house": "Nurse Home",
+    "roomNumber": "N87",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH4ORAC8CYNL",
+    "house": "Nurse Home",
+    "roomNumber": "N87",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH63GAGUVB99",
+    "house": "Nurse Home",
+    "roomNumber": "N88",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHRWTF07GBAS",
+    "house": "Nurse Home",
+    "roomNumber": "N88",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHF5EHLH07JR",
+    "house": "Nurse Home",
+    "roomNumber": "N88",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH8MTK0RSOGG",
+    "house": "Nurse Home",
+    "roomNumber": "N89",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHY5KOV1L28R",
+    "house": "Nurse Home",
+    "roomNumber": "N89",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH5P03WVPUNW",
+    "house": "Nurse Home",
+    "roomNumber": "N89",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHCGBSVK3X8M",
+    "house": "Nurse Home",
+    "roomNumber": "N90",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHBGL2MCXN2E",
+    "house": "Nurse Home",
+    "roomNumber": "N90",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHLALQ26UNVS",
+    "house": "Nurse Home",
+    "roomNumber": "N90",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHDKV54C6P1L",
+    "house": "Nurse Home",
+    "roomNumber": "N91",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHLH2R9PEGLN",
+    "house": "Nurse Home",
+    "roomNumber": "N91",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHUKX496K4O6",
+    "house": "Nurse Home",
+    "roomNumber": "N91",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH7BXCD20J1O",
+    "house": "Nurse Home",
+    "roomNumber": "N92",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHULWOZQ48EN",
+    "house": "Nurse Home",
+    "roomNumber": "N92",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHWBBADLYPGG",
+    "house": "Nurse Home",
+    "roomNumber": "N92",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH6N6975J2D8",
+    "house": "Nurse Home",
+    "roomNumber": "N93",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHCLW3JGEQE5",
+    "house": "Nurse Home",
+    "roomNumber": "N93",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH158OQESUX9",
+    "house": "Nurse Home",
+    "roomNumber": "N93",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHL0IJKCU5X0",
+    "house": "Nurse Home",
+    "roomNumber": "N94",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHHC8CAH3GDH",
+    "house": "Nurse Home",
+    "roomNumber": "N94",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHVS41LQFS6H",
+    "house": "Nurse Home",
+    "roomNumber": "N94",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHN95S2GKFL5",
+    "house": "Nurse Home",
+    "roomNumber": "N95",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHXF50I6GBXQ",
+    "house": "Nurse Home",
+    "roomNumber": "N95",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHJ7DPFSSBJD",
+    "house": "Nurse Home",
+    "roomNumber": "N95",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHX0PKOVTRPY",
+    "house": "Nurse Home",
+    "roomNumber": "N96",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHX8HBBJCDIW",
+    "house": "Nurse Home",
+    "roomNumber": "N96",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHZOD05JH2MK",
+    "house": "Nurse Home",
+    "roomNumber": "N96",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHV0DSZRK6IL",
+    "house": "Nurse Home",
+    "roomNumber": "N97",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHCG6FARMGJC",
+    "house": "Nurse Home",
+    "roomNumber": "N97",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHY4V8URID3U",
+    "house": "Nurse Home",
+    "roomNumber": "N97",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH94SGFDK0Q0",
+    "house": "Nurse Home",
+    "roomNumber": "N98",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH9JRNAMZ614",
+    "house": "Nurse Home",
+    "roomNumber": "N98",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH6VEY0A94XF",
+    "house": "Nurse Home",
+    "roomNumber": "N98",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHRI09M0G8W8",
+    "house": "Nurse Home",
+    "roomNumber": "N99",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH5Y6Q8SJY5O",
+    "house": "Nurse Home",
+    "roomNumber": "N99",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHP9LBSMWPQ8",
+    "house": "Nurse Home",
+    "roomNumber": "N99",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH2K8RYQF8WX",
+    "house": "Nurse Home",
+    "roomNumber": "N100",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHKK2ABKVBLP",
+    "house": "Nurse Home",
+    "roomNumber": "N100",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHXAJMK4X1FD",
+    "house": "Nurse Home",
+    "roomNumber": "N100",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHJ9HVCHRM3W",
+    "house": "Nurse Home",
+    "roomNumber": "N101",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHP8DJKLUYLU",
+    "house": "Nurse Home",
+    "roomNumber": "N101",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHYHETKDUWTN",
+    "house": "Nurse Home",
+    "roomNumber": "N101",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH5PEPL7ZQPP",
+    "house": "Nurse Home",
+    "roomNumber": "N102",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHOAU8P1WKIS",
+    "house": "Nurse Home",
+    "roomNumber": "N102",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHETUK1OOA35",
+    "house": "Nurse Home",
+    "roomNumber": "N102",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHQBB3XMDKRL",
+    "house": "Nurse Home",
+    "roomNumber": "N103",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHC0Y0BHF0RI",
+    "house": "Nurse Home",
+    "roomNumber": "N103",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHY4KL9ARYEA",
+    "house": "Nurse Home",
+    "roomNumber": "N103",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHVEDHR3PCEO",
+    "house": "Nurse Home",
+    "roomNumber": "N104",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH934T3Y4WPW",
+    "house": "Nurse Home",
+    "roomNumber": "N104",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHG3XG0TRKY8",
+    "house": "Nurse Home",
+    "roomNumber": "N104",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHRYOZDPPBQU",
+    "house": "Nurse Home",
+    "roomNumber": "N105",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHAKX6WB68Q0",
+    "house": "Nurse Home",
+    "roomNumber": "N105",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHJ9M4SMZOCX",
+    "house": "Nurse Home",
+    "roomNumber": "N105",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHMZMZ2K1KO6",
+    "house": "Nurse Home",
+    "roomNumber": "N106",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHXNQXU71SEL",
+    "house": "Nurse Home",
+    "roomNumber": "N106",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH8MWOB4FDD7",
+    "house": "Nurse Home",
+    "roomNumber": "N106",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHR1930I6G61",
+    "house": "Nurse Home",
+    "roomNumber": "N107",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHPCWE4C1V47",
+    "house": "Nurse Home",
+    "roomNumber": "N107",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHLZN9UHJPKH",
+    "house": "Nurse Home",
+    "roomNumber": "N107",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHF33GUWYH36",
+    "house": "Nurse Home",
+    "roomNumber": "N108",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHMOTCG06XR3",
+    "house": "Nurse Home",
+    "roomNumber": "N108",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHURMWUECPNC",
+    "house": "Nurse Home",
+    "roomNumber": "N108",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHC2KEIVLI77",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHJZC58CU47S",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHOCZDQ7JBMJ",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "desk",
+    "slot": 3,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHM1FT07X5IC",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH86Z1B98VWC",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHT8JBBSXPK4",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "chair",
+    "slot": 3,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH8AB13T4Y0T",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHB1ZPPEP69N",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHGPCIVI052U",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "bed",
+    "slot": 3,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH9AZ3CEGBMX",
+    "house": "Nurse Home",
+    "roomNumber": "FL2",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHIKVRECJTR0",
+    "house": "Nurse Home",
+    "roomNumber": "FL2",
+    "capacity": 2,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHM6HZ72KXSJ",
+    "house": "Nurse Home",
+    "roomNumber": "FL2",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHZSB6ZWKHE9",
+    "house": "Nurse Home",
+    "roomNumber": "FL2",
+    "capacity": 2,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHI0HN3F9ZXQ",
+    "house": "Nurse Home",
+    "roomNumber": "FL2",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHERBKN3DKVR",
+    "house": "Nurse Home",
+    "roomNumber": "FL2",
+    "capacity": 2,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH5NBHGPBKTM",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHAV6763V1M3",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "desk",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHPP00CDNZY4",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "desk",
+    "slot": 3,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH7QUUSFN07E",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "desk",
+    "slot": 4,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHA28DITMOWN",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHX23VEULJGQ",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "chair",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHPQ8R4HC7JV",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "chair",
+    "slot": 3,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHLCG1J5EWFW",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "chair",
+    "slot": 4,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHBEBY4UBZCZ",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHJJY4MZVMCP",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "bed",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHSILN3OX5FL",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "bed",
+    "slot": 3,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH2MOXQ9WFB7",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "bed",
+    "slot": 4,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH6AV3S2SUMH",
+    "house": "Nurse Home",
+    "roomNumber": "FL4",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH3B0N9CC7IS",
+    "house": "Nurse Home",
+    "roomNumber": "FL4",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHUTP04SBRSP",
+    "house": "Nurse Home",
+    "roomNumber": "FL4",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHJ4KII1NQ0E",
+    "house": "Nurse Home",
+    "roomNumber": "FL6A",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHI05NMS6XVQ",
+    "house": "Nurse Home",
+    "roomNumber": "FL6A",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHPU3ET1OVEJ",
+    "house": "Nurse Home",
+    "roomNumber": "FL6A",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHKLCP9UW165",
+    "house": "Nurse Home",
+    "roomNumber": "FL6B",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHAEJT70EBPY",
+    "house": "Nurse Home",
+    "roomNumber": "FL6B",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH9E576MOUZE",
+    "house": "Nurse Home",
+    "roomNumber": "FL6B",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNH66VW9B0MQO",
+    "house": "Nurse Home",
+    "roomNumber": "D1A",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHQ4KREG167D",
+    "house": "Nurse Home",
+    "roomNumber": "D1A",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNH6VNXNPSV8D",
+    "house": "Nurse Home",
+    "roomNumber": "D1A",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHKMU6U4PLLG",
+    "house": "Nurse Home",
+    "roomNumber": "D1B",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHF309HSUWDK",
+    "house": "Nurse Home",
+    "roomNumber": "D1B",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHEJP5K7917X",
+    "house": "Nurse Home",
+    "roomNumber": "D1B",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHFH41A68T2A",
+    "house": "Nurse Home",
+    "roomNumber": "D2A",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNH3AH7U0S3KD",
+    "house": "Nurse Home",
+    "roomNumber": "D2A",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHZ4PPJ590EM",
+    "house": "Nurse Home",
+    "roomNumber": "D2A",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHC20LSJWS1Z",
+    "house": "Nurse Home",
+    "roomNumber": "D2B",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHL7P72L4X5B",
+    "house": "Nurse Home",
+    "roomNumber": "D2B",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHWAEN7YJF30",
+    "house": "Nurse Home",
+    "roomNumber": "D2B",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "DNHKH5840ACUH",
+    "house": "Nurse Home",
+    "roomNumber": "D2C",
+    "capacity": 1,
+    "itemName": "desk",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "CNHGPJNVWRXGK",
+    "house": "Nurse Home",
+    "roomNumber": "D2C",
+    "capacity": 1,
+    "itemName": "chair",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "BNHIKR2OMRDE5",
+    "house": "Nurse Home",
+    "roomNumber": "D2C",
+    "capacity": 1,
+    "itemName": "bed",
+    "slot": 1,
+    "status": "normal"
+  }
+]
