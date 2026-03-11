@@ -166,6 +166,51 @@ async function seedRoomInventory() {
   }
 }
 
+/* ═══════════════════════════════════════════════════════════════════
+   seedItemInventory.js  —  seeds item_inventory from JSON file
+   ───────────────────────────────────────────────────────────────────
+   HOW TO ADD TO server.js:
+   1. fs and path are already required at the top — nothing extra needed
+   2. Place room_item_inventory.json in the same folder as server.js
+   3. Paste this function before module.exports
+   4. Add at the bottom alongside the other seeds:
+        seedItemInventory().catch(console.error);
+   ═══════════════════════════════════════════════════════════════════ */
+
+async function seedItemInventory() {
+  try {
+    const itemInventoryCollection = await getCollection("item_inventory");
+
+    const count = await itemInventoryCollection.countDocuments();
+    if (count > 0) {
+      console.log("ℹ️  item_inventory already populated. Skipping seed.");
+      return;
+    }
+
+    const raw = fs.readFileSync(
+      require("path").join(__dirname, "room_item_inventory.json"),
+      "utf8"
+    );
+    const items = JSON.parse(raw);
+
+    const now = new Date();
+    const docs = items.map((item) => ({
+      ...item,
+      createdAt: now,
+      updatedAt: now,
+    }));
+
+    const result = await itemInventoryCollection.insertMany(docs);
+    console.log(`✅ item_inventory seeded: ${result.insertedCount} items inserted.`);
+
+    await itemInventoryCollection.createIndex({ barcode: 1 }, { unique: true });
+    await itemInventoryCollection.createIndex({ house: 1, roomNumber: 1 });
+    console.log("✅ Indexes created on item_inventory.");
+  } catch (error) {
+    console.error("❌ Error seeding item_inventory:", error);
+  }
+}
+
 const generateToken = (userId) => {
   return jwt.sign({ sub: userId }, JWT_SECRET, { expiresIn: "1h" });
 };
@@ -2151,6 +2196,95 @@ app.get("/api/get-room-history/:roomNumber", async (req, res) => {
   } catch (error) {
     console.error(error);
     res.status(500).json({ message: "Failed to fetch room history" });
+  }
+});
+
+/* ═══════════════════════════════════════════════════════════════════
+   ScannerRoutes.js  —  add these routes to server.js
+   ═══════════════════════════════════════════════════════════════════ */
+
+// GET item by barcode
+app.get("/api/get-item-by-barcode/:barcode", async (req, res) => {
+  try {
+    const { barcode } = req.params;
+    const itemInventoryCollection = await getCollection("item_inventory");
+
+    const item = await itemInventoryCollection.findOne({
+      barcode: barcode.toUpperCase(),
+    });
+
+    if (!item) {
+      return res.status(404).json({ message: "Item not found" });
+    }
+
+    res.json(item);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Failed to fetch item" });
+  }
+});
+
+// PUT update item status + optional notes
+// Body: { barcode, status, notes, updatedBy }
+app.put("/api/update-item-status", async (req, res) => {
+  try {
+    const { barcode, status, notes, updatedBy } = req.body;
+
+    const validStatuses = ["normal", "damaged", "missing", "under_repair"];
+
+    if (!barcode || !status) {
+      return res.status(400).json({ message: "barcode and status are required" });
+    }
+
+    if (!validStatuses.includes(status)) {
+      return res.status(400).json({
+        message: `Invalid status. Must be one of: ${validStatuses.join(", ")}`,
+      });
+    }
+
+    const itemInventoryCollection = await getCollection("item_inventory");
+
+    const updateData = {
+      status,
+      updatedAt: new Date(),
+    };
+    if (notes !== undefined) updateData.notes = notes;
+    if (updatedBy)           updateData.lastUpdatedBy = updatedBy;
+
+    const result = await itemInventoryCollection.updateOne(
+      { barcode: barcode.toUpperCase() },
+      { $set: updateData }
+    );
+
+    if (result.matchedCount === 0) {
+      return res.status(404).json({ message: "Item not found" });
+    }
+
+    res.json({ success: true, message: "Item status updated" });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Failed to update item status" });
+  }
+});
+
+// GET all items for a room (used after scan to show full room inventory)
+app.get("/api/get-items-by-room/:house/:roomNumber", async (req, res) => {
+  try {
+    const { house, roomNumber } = req.params;
+    const itemInventoryCollection = await getCollection("item_inventory");
+
+    const items = await itemInventoryCollection
+      .find({
+        house: decodeURIComponent(house),
+        roomNumber: roomNumber.toUpperCase(),
+      })
+      .sort({ itemName: 1, slot: 1 })
+      .toArray();
+
+    res.json(items);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Failed to fetch room items" });
   }
 });
 
