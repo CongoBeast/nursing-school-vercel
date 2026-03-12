@@ -2717,5 +2717,6 @@ app.get("/api/home", (req, res) => {
 
 seedHousingCollection().catch(console.error);
 seedRoomInventory().catch(console.error);
+seedItemInventory().catch(console.error);
 
 module.exports = app;
