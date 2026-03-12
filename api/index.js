@@ -2204,7 +2204,7 @@ app.get("/api/get-room-history/:roomNumber", async (req, res) => {
    ═══════════════════════════════════════════════════════════════════ */
 
 // GET item by barcode
-app.get("/get-item-by-barcode/:barcode", async (req, res) => {
+app.get("/api/get-item-by-barcode/:barcode", async (req, res) => {
   try {
     const { barcode } = req.params;
     const itemInventoryCollection = await getCollection("item_inventory");
