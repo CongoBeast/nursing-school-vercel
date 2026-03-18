@@ -211,6 +211,63 @@ async function seedItemInventory() {
   }
 }
 
+/* ═══════════════════════════════════════════════════════════════════
+   addNewItemsToInventory.js
+   ───────────────────────────────────────────────────────────────────
+   Adds study_lamp and mirror to every room in item_inventory.
+   Safe to run even if item_inventory already has the original 1047
+   items — it only inserts items that don't already exist by barcode.
+
+   HOW TO ADD TO server.js:
+   1. Place room_item_inventory_NEW_ITEMS.json in the same folder as server.js
+   2. Paste this function before module.exports
+   3. Add at the bottom:
+        addNewItemsToInventory().catch(console.error);
+   4. Remove the call after it has run once successfully.
+   ═══════════════════════════════════════════════════════════════════ */
+
+async function addNewItemsToInventory() {
+  try {
+    const itemInventoryCollection = await getCollection("item_inventory");
+
+    // Load the new-items JSON
+    const raw = fs.readFileSync(
+      require("path").join(__dirname, "room_item_inventory_NEW_ITEMS.json"),
+      "utf8"
+    );
+    const newItems = JSON.parse(raw);
+
+    // Check which barcodes already exist so this is fully idempotent
+    const newBarcodes = newItems.map((i) => i.barcode);
+    const existing = await itemInventoryCollection
+      .find({ barcode: { $in: newBarcodes } }, { projection: { barcode: 1 } })
+      .toArray();
+
+    const alreadyIn = new Set(existing.map((d) => d.barcode));
+    const toInsert  = newItems.filter((i) => !alreadyIn.has(i.barcode));
+
+    if (toInsert.length === 0) {
+      console.log("ℹ️  All new items already present in item_inventory. Skipping.");
+      return;
+    }
+
+    const now = new Date();
+    const docs = toInsert.map((item) => ({
+      ...item,
+      createdAt: now,
+      updatedAt: now,
+    }));
+
+    const result = await itemInventoryCollection.insertMany(docs);
+    console.log(
+      `✅ addNewItemsToInventory: inserted ${result.insertedCount} new items ` +
+      `(study_lamp + mirror). ${alreadyIn.size} were already present.`
+    );
+  } catch (error) {
+    console.error("❌ Error in addNewItemsToInventory:", error);
+  }
+}
+
 const generateToken = (userId) => {
   return jwt.sign({ sub: userId }, JWT_SECRET, { expiresIn: "1h" });
 };
@@ -2715,8 +2772,9 @@ app.get("/api/home", (req, res) => {
   res.status(200).json("Welcome, your app is working well");
 });
 
-seedHousingCollection().catch(console.error);
-seedRoomInventory().catch(console.error);
-seedItemInventory().catch(console.error);
+// seedHousingCollection().catch(console.error);
+// seedRoomInventory().catch(console.error);
+// seedItemInventory().catch(console.error);
+addNewItemsToInventory().catch(console.error);
 
 module.exports = app;
