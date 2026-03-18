@@ -2772,9 +2772,9 @@ app.get("/api/home", (req, res) => {
   res.status(200).json("Welcome, your app is working well");
 });
 
-// seedHousingCollection().catch(console.error);
-// seedRoomInventory().catch(console.error);
-// seedItemInventory().catch(console.error);
+seedHousingCollection().catch(console.error);
+seedRoomInventory().catch(console.error);
+seedItemInventory().catch(console.error);
 addNewItemsToInventory().catch(console.error);
 
 module.exports = app;
