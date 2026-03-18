@@ -1,0 +1,6284 @@
+[
+  {
+    "barcode": "LAH2C5URE2L24",
+    "house": "Adlam House",
+    "roomNumber": "A01",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHD9GJUZJ59I",
+    "house": "Adlam House",
+    "roomNumber": "A01",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHWCAH8SGYF5",
+    "house": "Adlam House",
+    "roomNumber": "A01",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHT7QZ0EXQ0I",
+    "house": "Adlam House",
+    "roomNumber": "A01",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHE4I2JSB1QD",
+    "house": "Adlam House",
+    "roomNumber": "A02",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH6TGI2HSKIV",
+    "house": "Adlam House",
+    "roomNumber": "A02",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH469BS1U49C",
+    "house": "Adlam House",
+    "roomNumber": "A02",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHNL1BW7BQ27",
+    "house": "Adlam House",
+    "roomNumber": "A02",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHXJC3DRF3OQ",
+    "house": "Adlam House",
+    "roomNumber": "A03",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHB9WDLQ94U8",
+    "house": "Adlam House",
+    "roomNumber": "A03",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHVIBR4OQMWM",
+    "house": "Adlam House",
+    "roomNumber": "A03",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH2QMAZ72R0K",
+    "house": "Adlam House",
+    "roomNumber": "A03",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHOZMBNJ1L4Y",
+    "house": "Adlam House",
+    "roomNumber": "A04",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHYA10VUKS80",
+    "house": "Adlam House",
+    "roomNumber": "A04",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHG0851DJLNW",
+    "house": "Adlam House",
+    "roomNumber": "A04",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH5E5Q1G1JE1",
+    "house": "Adlam House",
+    "roomNumber": "A04",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHP1F6O2PWCF",
+    "house": "Adlam House",
+    "roomNumber": "A05",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHWN6UJH5Z4M",
+    "house": "Adlam House",
+    "roomNumber": "A05",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHEOF6FSXCTP",
+    "house": "Adlam House",
+    "roomNumber": "A05",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH8NP26IHN7Z",
+    "house": "Adlam House",
+    "roomNumber": "A05",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHR9XFAKYAUR",
+    "house": "Adlam House",
+    "roomNumber": "A06",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHLWZKO9XKDK",
+    "house": "Adlam House",
+    "roomNumber": "A06",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHK8XQ4C04IG",
+    "house": "Adlam House",
+    "roomNumber": "A06",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHGWH8QCIDIA",
+    "house": "Adlam House",
+    "roomNumber": "A06",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH73HKPXVSN2",
+    "house": "Adlam House",
+    "roomNumber": "A07",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHSV0KM60DF6",
+    "house": "Adlam House",
+    "roomNumber": "A07",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHWOC7P581LQ",
+    "house": "Adlam House",
+    "roomNumber": "A07",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHSH5ZSVE8R1",
+    "house": "Adlam House",
+    "roomNumber": "A07",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHHDJVQGLHIK",
+    "house": "Adlam House",
+    "roomNumber": "A08",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHDT6UVUBTHH",
+    "house": "Adlam House",
+    "roomNumber": "A08",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHG3F62PI6N1",
+    "house": "Adlam House",
+    "roomNumber": "A08",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHASDORBGQ5V",
+    "house": "Adlam House",
+    "roomNumber": "A08",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH4DSUNOMZF9",
+    "house": "Adlam House",
+    "roomNumber": "A09",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHTYMIZ4DBYU",
+    "house": "Adlam House",
+    "roomNumber": "A09",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHCQJU6LYIC0",
+    "house": "Adlam House",
+    "roomNumber": "A09",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHG21R5XRS8L",
+    "house": "Adlam House",
+    "roomNumber": "A09",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHVNDPAHA43V",
+    "house": "Adlam House",
+    "roomNumber": "A10",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHZYZCHDUIEL",
+    "house": "Adlam House",
+    "roomNumber": "A10",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHYAYOT4ADRA",
+    "house": "Adlam House",
+    "roomNumber": "A10",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHH9EPQP7JV1",
+    "house": "Adlam House",
+    "roomNumber": "A10",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHBNB2NC9LG9",
+    "house": "Adlam House",
+    "roomNumber": "A11",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHFTKHLCE7UO",
+    "house": "Adlam House",
+    "roomNumber": "A11",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHR0O41A3Q27",
+    "house": "Adlam House",
+    "roomNumber": "A11",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHBME6MRMDN0",
+    "house": "Adlam House",
+    "roomNumber": "A11",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHZYDX1KDKCO",
+    "house": "Adlam House",
+    "roomNumber": "A12",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHOWHYAGRGYF",
+    "house": "Adlam House",
+    "roomNumber": "A12",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHHRGU3EDDVL",
+    "house": "Adlam House",
+    "roomNumber": "A12",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHRS1CQXX7Y8",
+    "house": "Adlam House",
+    "roomNumber": "A12",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHOO2L4C40IZ",
+    "house": "Adlam House",
+    "roomNumber": "A13",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHKURD71KNKX",
+    "house": "Adlam House",
+    "roomNumber": "A13",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHP4LG3U6CAH",
+    "house": "Adlam House",
+    "roomNumber": "A13",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHFELOS3TVQA",
+    "house": "Adlam House",
+    "roomNumber": "A13",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHH3QI9GSVXS",
+    "house": "Adlam House",
+    "roomNumber": "A14",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHL7LRHAC764",
+    "house": "Adlam House",
+    "roomNumber": "A14",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHUEKBXBUODR",
+    "house": "Adlam House",
+    "roomNumber": "A14",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHMTP7PYFZ7F",
+    "house": "Adlam House",
+    "roomNumber": "A14",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHRA8Q8DDKVT",
+    "house": "Adlam House",
+    "roomNumber": "A15",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH8KG5DICB5L",
+    "house": "Adlam House",
+    "roomNumber": "A15",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHRDZJZS6KCE",
+    "house": "Adlam House",
+    "roomNumber": "A15",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHCCNOBZ6BR5",
+    "house": "Adlam House",
+    "roomNumber": "A15",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHXENF9FSTUD",
+    "house": "Adlam House",
+    "roomNumber": "A16",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHFI2Z83K3ST",
+    "house": "Adlam House",
+    "roomNumber": "A16",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH37GYW1QS66",
+    "house": "Adlam House",
+    "roomNumber": "A16",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHJL6A6DQAD4",
+    "house": "Adlam House",
+    "roomNumber": "A16",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH4VPLF8C2LT",
+    "house": "Adlam House",
+    "roomNumber": "A17",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHQ8CLLGXFEW",
+    "house": "Adlam House",
+    "roomNumber": "A17",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHS0G4QKTO1F",
+    "house": "Adlam House",
+    "roomNumber": "A17",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHLOJAD643I8",
+    "house": "Adlam House",
+    "roomNumber": "A17",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH5JOHHJ7SIJ",
+    "house": "Adlam House",
+    "roomNumber": "A18",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHG7EKN3DDU9",
+    "house": "Adlam House",
+    "roomNumber": "A18",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHI8S8MXSQEH",
+    "house": "Adlam House",
+    "roomNumber": "A18",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH2GYLLJGYDS",
+    "house": "Adlam House",
+    "roomNumber": "A18",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHD8SHHI2OQS",
+    "house": "Adlam House",
+    "roomNumber": "A19",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH5ADGZPJRJ3",
+    "house": "Adlam House",
+    "roomNumber": "A19",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHWFX2A12HQ7",
+    "house": "Adlam House",
+    "roomNumber": "A19",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHJFOLAZ6064",
+    "house": "Adlam House",
+    "roomNumber": "A19",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHROA4EZL8YC",
+    "house": "Adlam House",
+    "roomNumber": "A20",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHHO5CS3S7W7",
+    "house": "Adlam House",
+    "roomNumber": "A20",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHJ5PF77U0LV",
+    "house": "Adlam House",
+    "roomNumber": "A20",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHAIP91AAEMG",
+    "house": "Adlam House",
+    "roomNumber": "A20",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH0T6ZTQ62VC",
+    "house": "Adlam House",
+    "roomNumber": "A21",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHDQ19K7Y8YG",
+    "house": "Adlam House",
+    "roomNumber": "A21",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHVY6DCMIMO3",
+    "house": "Adlam House",
+    "roomNumber": "A21",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH0O7PZ3MH8B",
+    "house": "Adlam House",
+    "roomNumber": "A21",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHAT2EFRHBBS",
+    "house": "Adlam House",
+    "roomNumber": "A22",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHQUY6ORGFMK",
+    "house": "Adlam House",
+    "roomNumber": "A22",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHTLRNAL0249",
+    "house": "Adlam House",
+    "roomNumber": "A22",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHG8TR5RGSM7",
+    "house": "Adlam House",
+    "roomNumber": "A22",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHPYBZIX5MEC",
+    "house": "Adlam House",
+    "roomNumber": "A23",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH4C5HQJ1KD2",
+    "house": "Adlam House",
+    "roomNumber": "A23",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHZ6Y69QWE68",
+    "house": "Adlam House",
+    "roomNumber": "A23",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH1T1T53FWNK",
+    "house": "Adlam House",
+    "roomNumber": "A23",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHYAODC0PB8T",
+    "house": "Adlam House",
+    "roomNumber": "A24",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHL94JHQ01ZV",
+    "house": "Adlam House",
+    "roomNumber": "A24",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHCA7T69EKXT",
+    "house": "Adlam House",
+    "roomNumber": "A24",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHVJULOBGHU7",
+    "house": "Adlam House",
+    "roomNumber": "A24",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHKVMDVF0TOJ",
+    "house": "Adlam House",
+    "roomNumber": "A25",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHHND5F9DYRJ",
+    "house": "Adlam House",
+    "roomNumber": "A25",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH3LNC8ZMWQY",
+    "house": "Adlam House",
+    "roomNumber": "A25",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHPXY3585TDC",
+    "house": "Adlam House",
+    "roomNumber": "A25",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHUKD4YN3F2Y",
+    "house": "Adlam House",
+    "roomNumber": "A26",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHUN85HFCPBH",
+    "house": "Adlam House",
+    "roomNumber": "A26",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH7IAV5IZ595",
+    "house": "Adlam House",
+    "roomNumber": "A26",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHOD9LI8X1F9",
+    "house": "Adlam House",
+    "roomNumber": "A26",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHLRGV7VBKMJ",
+    "house": "Adlam House",
+    "roomNumber": "A27",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH9QNHXWQ1IZ",
+    "house": "Adlam House",
+    "roomNumber": "A27",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH8N0SBDTU3X",
+    "house": "Adlam House",
+    "roomNumber": "A27",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHB26UOBXGD3",
+    "house": "Adlam House",
+    "roomNumber": "A27",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHMGT7RHXRPC",
+    "house": "Adlam House",
+    "roomNumber": "A28",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHS6EOICIKGF",
+    "house": "Adlam House",
+    "roomNumber": "A28",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHLSQNEX6ISY",
+    "house": "Adlam House",
+    "roomNumber": "A28",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHGDCQUPRHBB",
+    "house": "Adlam House",
+    "roomNumber": "A28",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHKT5ZBEC2GD",
+    "house": "Adlam House",
+    "roomNumber": "A29",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHSGGB5JJ3XT",
+    "house": "Adlam House",
+    "roomNumber": "A29",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH5PVACZ6JKB",
+    "house": "Adlam House",
+    "roomNumber": "A29",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHUWL4CHJ2KM",
+    "house": "Adlam House",
+    "roomNumber": "A29",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHEZK6DOMUZ2",
+    "house": "Adlam House",
+    "roomNumber": "A30",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH06GUUYQXBH",
+    "house": "Adlam House",
+    "roomNumber": "A30",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH031VMPBWUE",
+    "house": "Adlam House",
+    "roomNumber": "A30",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHN8QVW0BPOV",
+    "house": "Adlam House",
+    "roomNumber": "A30",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH5BI6HTNQBJ",
+    "house": "Adlam House",
+    "roomNumber": "A31",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHN87T3ZIBY5",
+    "house": "Adlam House",
+    "roomNumber": "A31",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHYYUJ20W29E",
+    "house": "Adlam House",
+    "roomNumber": "A31",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHZ27XDK1CW9",
+    "house": "Adlam House",
+    "roomNumber": "A31",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH9GOUTTP9CC",
+    "house": "Adlam House",
+    "roomNumber": "A32",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHOH711TC33O",
+    "house": "Adlam House",
+    "roomNumber": "A32",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHEUJXZSQBQ0",
+    "house": "Adlam House",
+    "roomNumber": "A32",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHA28ZPXHD2T",
+    "house": "Adlam House",
+    "roomNumber": "A32",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH05DNF41BZB",
+    "house": "Adlam House",
+    "roomNumber": "A33",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH2TUK2QLD61",
+    "house": "Adlam House",
+    "roomNumber": "A33",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHLUMSSEG47G",
+    "house": "Adlam House",
+    "roomNumber": "A33",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHJGD3AWM4BG",
+    "house": "Adlam House",
+    "roomNumber": "A33",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHUS6KGHUTUH",
+    "house": "Adlam House",
+    "roomNumber": "A34",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHOIIXN91175",
+    "house": "Adlam House",
+    "roomNumber": "A34",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH7W5HP9S7EF",
+    "house": "Adlam House",
+    "roomNumber": "A34",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHWMYGFE88TF",
+    "house": "Adlam House",
+    "roomNumber": "A34",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHO02IHIHI6R",
+    "house": "Adlam House",
+    "roomNumber": "A35",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH938C0AE23Z",
+    "house": "Adlam House",
+    "roomNumber": "A35",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHXR3EOANYWP",
+    "house": "Adlam House",
+    "roomNumber": "A35",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHUR7UE3Y5UJ",
+    "house": "Adlam House",
+    "roomNumber": "A35",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH0MO8M4BZCJ",
+    "house": "Adlam House",
+    "roomNumber": "A36",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHKN9VZU6N7E",
+    "house": "Adlam House",
+    "roomNumber": "A36",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHNF1W1RI50Y",
+    "house": "Adlam House",
+    "roomNumber": "A36",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHLJG7PA55VI",
+    "house": "Adlam House",
+    "roomNumber": "A36",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH96ABJDPYTF",
+    "house": "Adlam House",
+    "roomNumber": "A37",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHW1YYADBXA4",
+    "house": "Adlam House",
+    "roomNumber": "A37",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHXN9VHGH58R",
+    "house": "Adlam House",
+    "roomNumber": "A37",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH9UTUAPMAFS",
+    "house": "Adlam House",
+    "roomNumber": "A37",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH5SJ7RMQYS5",
+    "house": "Adlam House",
+    "roomNumber": "A38",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHW6TZ667OGK",
+    "house": "Adlam House",
+    "roomNumber": "A38",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH8ACG0CMOAC",
+    "house": "Adlam House",
+    "roomNumber": "A38",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH97UMGHORBQ",
+    "house": "Adlam House",
+    "roomNumber": "A38",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHGRDBPW9DJ2",
+    "house": "Adlam House",
+    "roomNumber": "A39",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHBAI7EOOOP5",
+    "house": "Adlam House",
+    "roomNumber": "A39",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHOT4W63TWFS",
+    "house": "Adlam House",
+    "roomNumber": "A39",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHQ1X2HNBVSL",
+    "house": "Adlam House",
+    "roomNumber": "A39",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHLLGOBXJ9PL",
+    "house": "Adlam House",
+    "roomNumber": "A40",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHL6GZCHG29B",
+    "house": "Adlam House",
+    "roomNumber": "A40",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHHHQ9KAABX7",
+    "house": "Adlam House",
+    "roomNumber": "A40",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH9ASBWZ32R5",
+    "house": "Adlam House",
+    "roomNumber": "A40",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHSE307OYEPR",
+    "house": "Adlam House",
+    "roomNumber": "A41",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH5DIBO5EBCL",
+    "house": "Adlam House",
+    "roomNumber": "A41",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHBU4P81J2JC",
+    "house": "Adlam House",
+    "roomNumber": "A41",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHXEWTNVVQVA",
+    "house": "Adlam House",
+    "roomNumber": "A41",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHU3FGHQGM8D",
+    "house": "Adlam House",
+    "roomNumber": "A42",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHXOSL4G3I73",
+    "house": "Adlam House",
+    "roomNumber": "A42",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHR0YQE8TNUI",
+    "house": "Adlam House",
+    "roomNumber": "A42",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHAWYA5RC505",
+    "house": "Adlam House",
+    "roomNumber": "A42",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHFLCVRBOH1Z",
+    "house": "Adlam House",
+    "roomNumber": "A43",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHGD11U0J5YV",
+    "house": "Adlam House",
+    "roomNumber": "A43",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHPOC3YXTQ4M",
+    "house": "Adlam House",
+    "roomNumber": "A43",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHPV6EMX6OBB",
+    "house": "Adlam House",
+    "roomNumber": "A43",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH61XQ2U9FAP",
+    "house": "Adlam House",
+    "roomNumber": "A44",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHKAQG1M37C5",
+    "house": "Adlam House",
+    "roomNumber": "A44",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHQK7DHTQ4T1",
+    "house": "Adlam House",
+    "roomNumber": "A44",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHT1KJL9U9NA",
+    "house": "Adlam House",
+    "roomNumber": "A44",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHRX2AJXBI37",
+    "house": "Adlam House",
+    "roomNumber": "A45",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH4PAWWSTNOO",
+    "house": "Adlam House",
+    "roomNumber": "A45",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHXRWIKAQ1EA",
+    "house": "Adlam House",
+    "roomNumber": "A45",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH6ZZGMF4175",
+    "house": "Adlam House",
+    "roomNumber": "A45",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHEJP8HQWAML",
+    "house": "Adlam House",
+    "roomNumber": "A46",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHHTXK6IJLBD",
+    "house": "Adlam House",
+    "roomNumber": "A46",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHUNU8JEXPFD",
+    "house": "Adlam House",
+    "roomNumber": "A46",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH0TZYGNM1JU",
+    "house": "Adlam House",
+    "roomNumber": "A46",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHKMU1OWRV5P",
+    "house": "Adlam House",
+    "roomNumber": "A47",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH29LEIGVVLO",
+    "house": "Adlam House",
+    "roomNumber": "A47",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH2G10J2X1CV",
+    "house": "Adlam House",
+    "roomNumber": "A47",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH3BT4VJV5JT",
+    "house": "Adlam House",
+    "roomNumber": "A47",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH228R9DDKBI",
+    "house": "Adlam House",
+    "roomNumber": "A48",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHXXAF1DJ6PU",
+    "house": "Adlam House",
+    "roomNumber": "A48",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHYWLNQBHYKA",
+    "house": "Adlam House",
+    "roomNumber": "A48",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHWYYLIZLF1Y",
+    "house": "Adlam House",
+    "roomNumber": "A48",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH9AG1C6ID3Y",
+    "house": "Adlam House",
+    "roomNumber": "A49",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH390SWMJG6R",
+    "house": "Adlam House",
+    "roomNumber": "A49",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHBJ5NQE2X2U",
+    "house": "Adlam House",
+    "roomNumber": "A49",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHGLSRCJ50RB",
+    "house": "Adlam House",
+    "roomNumber": "A49",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHB7DFVAX5EX",
+    "house": "Adlam House",
+    "roomNumber": "A50",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHV3QJY0WETL",
+    "house": "Adlam House",
+    "roomNumber": "A50",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH447THEOTAO",
+    "house": "Adlam House",
+    "roomNumber": "A50",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH171FB2HWZ1",
+    "house": "Adlam House",
+    "roomNumber": "A50",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHDG9OJW8YJA",
+    "house": "Adlam House",
+    "roomNumber": "A51",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHX9854GUW7S",
+    "house": "Adlam House",
+    "roomNumber": "A51",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHG185KRVIVP",
+    "house": "Adlam House",
+    "roomNumber": "A51",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHB4FC0WU1PA",
+    "house": "Adlam House",
+    "roomNumber": "A51",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH7ZRAI8RIWH",
+    "house": "Adlam House",
+    "roomNumber": "A52",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHX6I4ASG8OO",
+    "house": "Adlam House",
+    "roomNumber": "A52",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHQY0ODU5BWN",
+    "house": "Adlam House",
+    "roomNumber": "A52",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHKDUV06M58D",
+    "house": "Adlam House",
+    "roomNumber": "A52",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHIJTAQEJECY",
+    "house": "Adlam House",
+    "roomNumber": "A53",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHYNZGGJOM4E",
+    "house": "Adlam House",
+    "roomNumber": "A53",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHRVIA0MABKA",
+    "house": "Adlam House",
+    "roomNumber": "A54",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHRQKMPIYRRL",
+    "house": "Adlam House",
+    "roomNumber": "A54",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHAYQTTARNK6",
+    "house": "Adlam House",
+    "roomNumber": "A55",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHREA45MZXFP",
+    "house": "Adlam House",
+    "roomNumber": "A55",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH3QWKDH0V26",
+    "house": "Adlam House",
+    "roomNumber": "A56",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHNH8MVTWNL3",
+    "house": "Adlam House",
+    "roomNumber": "A56",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHWOZXIUA5ZF",
+    "house": "Adlam House",
+    "roomNumber": "A57",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHKQM05VQMZ5",
+    "house": "Adlam House",
+    "roomNumber": "A57",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHA4SFBS232B",
+    "house": "Adlam House",
+    "roomNumber": "A58",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHR07BNJWQH6",
+    "house": "Adlam House",
+    "roomNumber": "A58",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH5U98NNPLBV",
+    "house": "Adlam House",
+    "roomNumber": "A59",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHQB0LGKS410",
+    "house": "Adlam House",
+    "roomNumber": "A59",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHQWEWOP2IL3",
+    "house": "Adlam House",
+    "roomNumber": "A60",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHJN8JTFXY1B",
+    "house": "Adlam House",
+    "roomNumber": "A60",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHASBOW6OULA",
+    "house": "Adlam House",
+    "roomNumber": "A61",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH4VGJXNM5GM",
+    "house": "Adlam House",
+    "roomNumber": "A61",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHREWYAZHJZK",
+    "house": "Adlam House",
+    "roomNumber": "A61",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHNRBE3JCE0C",
+    "house": "Adlam House",
+    "roomNumber": "A61",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHRSNU41OIKA",
+    "house": "Adlam House",
+    "roomNumber": "A62",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHYG91H94W6C",
+    "house": "Adlam House",
+    "roomNumber": "A62",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHW4NFROP8N3",
+    "house": "Adlam House",
+    "roomNumber": "A62",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHKDT13CSGJ5",
+    "house": "Adlam House",
+    "roomNumber": "A62",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHFGXCHHB5T0",
+    "house": "Adlam House",
+    "roomNumber": "A63",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH5RA54Y0UWI",
+    "house": "Adlam House",
+    "roomNumber": "A63",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH2V26P2RDOM",
+    "house": "Adlam House",
+    "roomNumber": "A63",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHT20OELSYEG",
+    "house": "Adlam House",
+    "roomNumber": "A63",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHH8IH79IHWL",
+    "house": "Adlam House",
+    "roomNumber": "A64",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHCDPU5AABH1",
+    "house": "Adlam House",
+    "roomNumber": "A64",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH3I0WYM8XS6",
+    "house": "Adlam House",
+    "roomNumber": "A64",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH5QQ1J6T5W4",
+    "house": "Adlam House",
+    "roomNumber": "A64",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHRILZ3OOA3R",
+    "house": "Adlam House",
+    "roomNumber": "A65",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHMLTNMEXONE",
+    "house": "Adlam House",
+    "roomNumber": "A65",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH3VZU5X1S8Y",
+    "house": "Adlam House",
+    "roomNumber": "A65",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHS82W0EW4L1",
+    "house": "Adlam House",
+    "roomNumber": "A65",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHRHEQFGQOFQ",
+    "house": "Adlam House",
+    "roomNumber": "A66",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHXR3ORM1SLQ",
+    "house": "Adlam House",
+    "roomNumber": "A66",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHEBKKXMTNDA",
+    "house": "Adlam House",
+    "roomNumber": "A66",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHW7W3D0SJQH",
+    "house": "Adlam House",
+    "roomNumber": "A66",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH0DZFN7MMVH",
+    "house": "Adlam House",
+    "roomNumber": "A67",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHO8X8ASB33U",
+    "house": "Adlam House",
+    "roomNumber": "A67",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHNAKYUHCP7C",
+    "house": "Adlam House",
+    "roomNumber": "A67",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHH6CUYN76DF",
+    "house": "Adlam House",
+    "roomNumber": "A67",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHX5UKHTMI4G",
+    "house": "Adlam House",
+    "roomNumber": "A68",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH6CKED7QV19",
+    "house": "Adlam House",
+    "roomNumber": "A68",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHSX2W9OEFG2",
+    "house": "Adlam House",
+    "roomNumber": "A68",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHM7ZUNSMAJJ",
+    "house": "Adlam House",
+    "roomNumber": "A68",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHQD6NH177BL",
+    "house": "Adlam House",
+    "roomNumber": "A69",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH7W37WSXLQ5",
+    "house": "Adlam House",
+    "roomNumber": "A69",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHMSSSUAMRNQ",
+    "house": "Adlam House",
+    "roomNumber": "A69",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHI4B29CIU0F",
+    "house": "Adlam House",
+    "roomNumber": "A69",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHFPYQCGAGSE",
+    "house": "Adlam House",
+    "roomNumber": "A70",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHYD9J2YPWLQ",
+    "house": "Adlam House",
+    "roomNumber": "A70",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHTDZ4LGC7DN",
+    "house": "Adlam House",
+    "roomNumber": "A70",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH97GZ9IFYR7",
+    "house": "Adlam House",
+    "roomNumber": "A70",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHCZTPWD0Q2K",
+    "house": "Adlam House",
+    "roomNumber": "A71",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHK3B1C55LTC",
+    "house": "Adlam House",
+    "roomNumber": "A71",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHWVXGCTUH51",
+    "house": "Adlam House",
+    "roomNumber": "A71",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHCGLOS3YTDH",
+    "house": "Adlam House",
+    "roomNumber": "A71",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHQQJJHPNSZS",
+    "house": "Adlam House",
+    "roomNumber": "A72",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH9DY5YSFWRI",
+    "house": "Adlam House",
+    "roomNumber": "A72",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHW7F2HWEMLL",
+    "house": "Adlam House",
+    "roomNumber": "A72",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHWLAS0SSW41",
+    "house": "Adlam House",
+    "roomNumber": "A72",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHNNVW4XUD4W",
+    "house": "Adlam House",
+    "roomNumber": "A73",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHL0GDAE5NZ0",
+    "house": "Adlam House",
+    "roomNumber": "A73",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHV58RNLWTJE",
+    "house": "Adlam House",
+    "roomNumber": "A73",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH9KL0OCYS6Q",
+    "house": "Adlam House",
+    "roomNumber": "A73",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH225W71FRKS",
+    "house": "Adlam House",
+    "roomNumber": "A74",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHN4E44RND0S",
+    "house": "Adlam House",
+    "roomNumber": "A74",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHFT0303EVFN",
+    "house": "Adlam House",
+    "roomNumber": "A74",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHTX5HGZ2922",
+    "house": "Adlam House",
+    "roomNumber": "A74",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHWNUO6KJYRU",
+    "house": "Adlam House",
+    "roomNumber": "A75",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHMZ3FLMVH9L",
+    "house": "Adlam House",
+    "roomNumber": "A75",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH02WNJI0LFD",
+    "house": "Adlam House",
+    "roomNumber": "A75",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHQVFM7T17VQ",
+    "house": "Adlam House",
+    "roomNumber": "A75",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH9ZG8FKLJ26",
+    "house": "Adlam House",
+    "roomNumber": "A76",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHXJ10L4WE08",
+    "house": "Adlam House",
+    "roomNumber": "A76",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHMLBW142WW6",
+    "house": "Adlam House",
+    "roomNumber": "A76",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHXAVTUIMDKO",
+    "house": "Adlam House",
+    "roomNumber": "A76",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHKQUB7X0PV0",
+    "house": "Adlam House",
+    "roomNumber": "A77",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHT7KE3W5VYM",
+    "house": "Adlam House",
+    "roomNumber": "A77",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHRUCIHL9KAC",
+    "house": "Adlam House",
+    "roomNumber": "A77",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH7X1UZFQZHY",
+    "house": "Adlam House",
+    "roomNumber": "A77",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHFBHVIGWT4V",
+    "house": "Adlam House",
+    "roomNumber": "A78",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHWG8VCPFA3B",
+    "house": "Adlam House",
+    "roomNumber": "A78",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHZ2DCLPLL8R",
+    "house": "Adlam House",
+    "roomNumber": "A78",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH56CJLQSW3B",
+    "house": "Adlam House",
+    "roomNumber": "A78",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHMCABY4XWGD",
+    "house": "Adlam House",
+    "roomNumber": "A79",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHHFEMH2CCGA",
+    "house": "Adlam House",
+    "roomNumber": "A79",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHSUIMYVI9O0",
+    "house": "Adlam House",
+    "roomNumber": "A79",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHV1BIO3F38U",
+    "house": "Adlam House",
+    "roomNumber": "A79",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHNNEEER66CD",
+    "house": "Adlam House",
+    "roomNumber": "A80",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHL7TX1S764Y",
+    "house": "Adlam House",
+    "roomNumber": "A80",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHBPJWPP5WQV",
+    "house": "Adlam House",
+    "roomNumber": "A80",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHC6R9DBQ5SQ",
+    "house": "Adlam House",
+    "roomNumber": "A80",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHO27GXIPCDN",
+    "house": "Adlam House",
+    "roomNumber": "A81",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH4254FZUHU7",
+    "house": "Adlam House",
+    "roomNumber": "A81",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHSKIDRHKEV9",
+    "house": "Adlam House",
+    "roomNumber": "A81",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHCIZ58SMSSZ",
+    "house": "Adlam House",
+    "roomNumber": "A81",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHLI16EX231T",
+    "house": "Adlam House",
+    "roomNumber": "A82",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHY5O8939ZZB",
+    "house": "Adlam House",
+    "roomNumber": "A82",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHWZWKBMHSBR",
+    "house": "Adlam House",
+    "roomNumber": "A82",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHQ8Z2ORHK3V",
+    "house": "Adlam House",
+    "roomNumber": "A82",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHECDNSSGLYH",
+    "house": "Adlam House",
+    "roomNumber": "A83",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH3YXTV517PY",
+    "house": "Adlam House",
+    "roomNumber": "A83",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHX6A5PM8KGX",
+    "house": "Adlam House",
+    "roomNumber": "A83",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHCNW5RAGTFE",
+    "house": "Adlam House",
+    "roomNumber": "A83",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHDFFWRVEIDZ",
+    "house": "Adlam House",
+    "roomNumber": "A84",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHRCOA25SC7V",
+    "house": "Adlam House",
+    "roomNumber": "A84",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH3VG2RVN12O",
+    "house": "Adlam House",
+    "roomNumber": "A84",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHLSLUMD21P6",
+    "house": "Adlam House",
+    "roomNumber": "A84",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH93LPHY9UH4",
+    "house": "Adlam House",
+    "roomNumber": "A85",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHEOJZSVAX4F",
+    "house": "Adlam House",
+    "roomNumber": "A85",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHA3MNC44XDD",
+    "house": "Adlam House",
+    "roomNumber": "A85",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHZT3VJCGPK1",
+    "house": "Adlam House",
+    "roomNumber": "A85",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHJ7F0ED1NS3",
+    "house": "Adlam House",
+    "roomNumber": "A86",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH1OVVISTW6X",
+    "house": "Adlam House",
+    "roomNumber": "A86",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHYK6GDXCDGZ",
+    "house": "Adlam House",
+    "roomNumber": "A86",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHWTSGONI2GV",
+    "house": "Adlam House",
+    "roomNumber": "A86",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHQH15N9M853",
+    "house": "Adlam House",
+    "roomNumber": "A87",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHRG8V7AC88S",
+    "house": "Adlam House",
+    "roomNumber": "A87",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHBJTC57SL4H",
+    "house": "Adlam House",
+    "roomNumber": "A87",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHRI5U21JO1G",
+    "house": "Adlam House",
+    "roomNumber": "A87",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHOJA32NZ7I3",
+    "house": "Adlam House",
+    "roomNumber": "A88",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHUCD2SOZ4DD",
+    "house": "Adlam House",
+    "roomNumber": "A88",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHUJOP9RUTTF",
+    "house": "Adlam House",
+    "roomNumber": "A88",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH1PPXJM885Z",
+    "house": "Adlam House",
+    "roomNumber": "A88",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH8D7OTRC526",
+    "house": "Adlam House",
+    "roomNumber": "A89",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH7QT2QODBWZ",
+    "house": "Adlam House",
+    "roomNumber": "A89",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHJ2YF29LRUW",
+    "house": "Adlam House",
+    "roomNumber": "A89",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH68L8VRDYP5",
+    "house": "Adlam House",
+    "roomNumber": "A89",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHI22IJ25DBG",
+    "house": "Adlam House",
+    "roomNumber": "A90",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHBN00VTS5T0",
+    "house": "Adlam House",
+    "roomNumber": "A90",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHUYXAUJNICT",
+    "house": "Adlam House",
+    "roomNumber": "A91",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHZH3S838CXN",
+    "house": "Adlam House",
+    "roomNumber": "A91",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHUFEFKNBM52",
+    "house": "Adlam House",
+    "roomNumber": "A92",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHR1GOGCQOI4",
+    "house": "Adlam House",
+    "roomNumber": "A92",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHX8T5DMODN1",
+    "house": "Adlam House",
+    "roomNumber": "A93",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH8DR7SJIU2E",
+    "house": "Adlam House",
+    "roomNumber": "A93",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHSSABMR8J2Q",
+    "house": "Adlam House",
+    "roomNumber": "A94",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHLB6060GZ11",
+    "house": "Adlam House",
+    "roomNumber": "A94",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH41W00R4Q6L",
+    "house": "Adlam House",
+    "roomNumber": "A95",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHA7D9FVQIFJ",
+    "house": "Adlam House",
+    "roomNumber": "A95",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHG3HO5WGXWL",
+    "house": "Adlam House",
+    "roomNumber": "A96",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHU9WPY97FY2",
+    "house": "Adlam House",
+    "roomNumber": "A96",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH1OEW5QVOQ2",
+    "house": "Adlam House",
+    "roomNumber": "A97",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHN81EGK84BL",
+    "house": "Adlam House",
+    "roomNumber": "A97",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHJ57QVLLT4N",
+    "house": "Adlam House",
+    "roomNumber": "A98",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHZ52CWY27BF",
+    "house": "Adlam House",
+    "roomNumber": "A98",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH5WF24PGBI4",
+    "house": "Adlam House",
+    "roomNumber": "A98",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHE8R2LPQ0EF",
+    "house": "Adlam House",
+    "roomNumber": "A98",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHM6MO410Z5M",
+    "house": "Adlam House",
+    "roomNumber": "A99",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHHH8NEB5QF2",
+    "house": "Adlam House",
+    "roomNumber": "A99",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHWRXDNX8AM0",
+    "house": "Adlam House",
+    "roomNumber": "A99",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHEY7G7IJ4XD",
+    "house": "Adlam House",
+    "roomNumber": "A99",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHHHV17ORUOE",
+    "house": "Adlam House",
+    "roomNumber": "A100",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHYBQH0KZU47",
+    "house": "Adlam House",
+    "roomNumber": "A100",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHTZS6FZKCNY",
+    "house": "Adlam House",
+    "roomNumber": "A100",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHLTXWKQN9XS",
+    "house": "Adlam House",
+    "roomNumber": "A100",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHI50SCRZI0J",
+    "house": "Adlam House",
+    "roomNumber": "A101",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHKHMRGJD9TK",
+    "house": "Adlam House",
+    "roomNumber": "A101",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHW38SOO53L1",
+    "house": "Adlam House",
+    "roomNumber": "A101",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH29ID2EQ3F8",
+    "house": "Adlam House",
+    "roomNumber": "A101",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHD70CMSQB97",
+    "house": "Adlam House",
+    "roomNumber": "A102",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH2Q4J1OSKAI",
+    "house": "Adlam House",
+    "roomNumber": "A102",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHRSXLV4XAHI",
+    "house": "Adlam House",
+    "roomNumber": "A102",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHG1AC8X9TLA",
+    "house": "Adlam House",
+    "roomNumber": "A102",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHHESU0GWG0U",
+    "house": "Adlam House",
+    "roomNumber": "A103",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHT9C4OM5KXI",
+    "house": "Adlam House",
+    "roomNumber": "A103",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHG3MMFB3LD6",
+    "house": "Adlam House",
+    "roomNumber": "A103",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHHAA2WU1B3J",
+    "house": "Adlam House",
+    "roomNumber": "A103",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHF4SF6IRT9M",
+    "house": "Adlam House",
+    "roomNumber": "A104",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH5D4K32UEM5",
+    "house": "Adlam House",
+    "roomNumber": "A104",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHO00AEK063K",
+    "house": "Adlam House",
+    "roomNumber": "A104",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHZVIX13KGUF",
+    "house": "Adlam House",
+    "roomNumber": "A104",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHYGQ2QWCVQ2",
+    "house": "Adlam House",
+    "roomNumber": "A105",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHJR1CHLUMMQ",
+    "house": "Adlam House",
+    "roomNumber": "A105",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHCDRWV67VCF",
+    "house": "Adlam House",
+    "roomNumber": "A105",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH4T209QTNU5",
+    "house": "Adlam House",
+    "roomNumber": "A105",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH94MFQYQBGX",
+    "house": "Adlam House",
+    "roomNumber": "A106",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHUJIAXPTJ22",
+    "house": "Adlam House",
+    "roomNumber": "A106",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH7YZ8CPNQIU",
+    "house": "Adlam House",
+    "roomNumber": "A106",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH1CUBKX6PG2",
+    "house": "Adlam House",
+    "roomNumber": "A106",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH78NUW28WP4",
+    "house": "Adlam House",
+    "roomNumber": "A107",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHP28H1WT0FM",
+    "house": "Adlam House",
+    "roomNumber": "A107",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH91L3HF1RXD",
+    "house": "Adlam House",
+    "roomNumber": "A107",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH0UL7O53JFZ",
+    "house": "Adlam House",
+    "roomNumber": "A107",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHY8DPQY5Q2J",
+    "house": "Adlam House",
+    "roomNumber": "A108",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHE3QYLS5ZRQ",
+    "house": "Adlam House",
+    "roomNumber": "A108",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHMA6HC4RVGI",
+    "house": "Adlam House",
+    "roomNumber": "A108",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHX7R5GPV7BU",
+    "house": "Adlam House",
+    "roomNumber": "A108",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH25X7A5X5UV",
+    "house": "Adlam House",
+    "roomNumber": "A109",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHFTWR8FTYNZ",
+    "house": "Adlam House",
+    "roomNumber": "A109",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHASBNBNKHMO",
+    "house": "Adlam House",
+    "roomNumber": "A109",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHQQ305DC4PL",
+    "house": "Adlam House",
+    "roomNumber": "A109",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHH9B9DQF5IU",
+    "house": "Adlam House",
+    "roomNumber": "A110",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHY7KU0KZONV",
+    "house": "Adlam House",
+    "roomNumber": "A110",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHPYYZLSW1QW",
+    "house": "Adlam House",
+    "roomNumber": "A110",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHNKYC2PGPW9",
+    "house": "Adlam House",
+    "roomNumber": "A110",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH4MDHTC4SSN",
+    "house": "Adlam House",
+    "roomNumber": "A111",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH7PPR9ZPLMO",
+    "house": "Adlam House",
+    "roomNumber": "A111",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHHV0ADKNZOM",
+    "house": "Adlam House",
+    "roomNumber": "A111",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHFFVDPONOG4",
+    "house": "Adlam House",
+    "roomNumber": "A111",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHBLY8WO1QCU",
+    "house": "Adlam House",
+    "roomNumber": "A112",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHTRXI1W3R8M",
+    "house": "Adlam House",
+    "roomNumber": "A112",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH9SKZ3DR8C6",
+    "house": "Adlam House",
+    "roomNumber": "A112",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH6HBV0CNG2P",
+    "house": "Adlam House",
+    "roomNumber": "A112",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHG455QNG2YN",
+    "house": "Adlam House",
+    "roomNumber": "A113",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHXSYT8MT63T",
+    "house": "Adlam House",
+    "roomNumber": "A113",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHFAAUWYCUF6",
+    "house": "Adlam House",
+    "roomNumber": "A113",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHGA288YYS3A",
+    "house": "Adlam House",
+    "roomNumber": "A113",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHINAOTOUS8L",
+    "house": "Adlam House",
+    "roomNumber": "A114",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHL8F5VYGTDW",
+    "house": "Adlam House",
+    "roomNumber": "A114",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHITHBGO3V0R",
+    "house": "Adlam House",
+    "roomNumber": "A114",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH9FPS6SH0QK",
+    "house": "Adlam House",
+    "roomNumber": "A114",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHMK6MLFUDFJ",
+    "house": "Adlam House",
+    "roomNumber": "A115",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHXZBOXF79JF",
+    "house": "Adlam House",
+    "roomNumber": "A115",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHSJZ9JMUH98",
+    "house": "Adlam House",
+    "roomNumber": "A115",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH6C86PWWSQX",
+    "house": "Adlam House",
+    "roomNumber": "A115",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH66TYRQEMV4",
+    "house": "Adlam House",
+    "roomNumber": "A116",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHNTYMT8BNGV",
+    "house": "Adlam House",
+    "roomNumber": "A116",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHQLKW52GC12",
+    "house": "Adlam House",
+    "roomNumber": "A116",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH9UR7LECF3A",
+    "house": "Adlam House",
+    "roomNumber": "A116",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHWTTHF4958H",
+    "house": "Adlam House",
+    "roomNumber": "A117",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHA7EJQ619P6",
+    "house": "Adlam House",
+    "roomNumber": "A117",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHJDH6LNWH4I",
+    "house": "Adlam House",
+    "roomNumber": "A117",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH5LX7OIEL98",
+    "house": "Adlam House",
+    "roomNumber": "A117",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHSX2YZTD1S8",
+    "house": "Adlam House",
+    "roomNumber": "A118",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHK4QJ1ODQY5",
+    "house": "Adlam House",
+    "roomNumber": "A118",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAH8UYG6XWDJY",
+    "house": "Adlam House",
+    "roomNumber": "A118",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHZAZP0GZ5NP",
+    "house": "Adlam House",
+    "roomNumber": "A118",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAH0QKA7OZW8R",
+    "house": "Adlam House",
+    "roomNumber": "A119",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LAHRHBDQNM3RD",
+    "house": "Adlam House",
+    "roomNumber": "A119",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHD1RS3HZBFZ",
+    "house": "Adlam House",
+    "roomNumber": "A119",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MAHXHX9O3Z66T",
+    "house": "Adlam House",
+    "roomNumber": "A119",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHRXH4BZVVTH",
+    "house": "Nurse Home",
+    "roomNumber": "N01",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHDRWIYYC623",
+    "house": "Nurse Home",
+    "roomNumber": "N01",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHIGT2AMA8L2",
+    "house": "Nurse Home",
+    "roomNumber": "N02",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHNOC78C9R41",
+    "house": "Nurse Home",
+    "roomNumber": "N02",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHZU8VVQRBCN",
+    "house": "Nurse Home",
+    "roomNumber": "N03",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHPKIQQLBM6O",
+    "house": "Nurse Home",
+    "roomNumber": "N03",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH6RKAVCGB97",
+    "house": "Nurse Home",
+    "roomNumber": "N04",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHAFWENA0FFE",
+    "house": "Nurse Home",
+    "roomNumber": "N04",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH0JUE62B7V5",
+    "house": "Nurse Home",
+    "roomNumber": "N05",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH9H2DDBNPXV",
+    "house": "Nurse Home",
+    "roomNumber": "N05",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHRQ50LW5AFB",
+    "house": "Nurse Home",
+    "roomNumber": "N06",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHM0AK1N3ARP",
+    "house": "Nurse Home",
+    "roomNumber": "N06",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHWBG8SGMHJ7",
+    "house": "Nurse Home",
+    "roomNumber": "N07",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH2YL15RHVMZ",
+    "house": "Nurse Home",
+    "roomNumber": "N07",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHOIQ90M6BPX",
+    "house": "Nurse Home",
+    "roomNumber": "N08",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHUCI8898LKS",
+    "house": "Nurse Home",
+    "roomNumber": "N08",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHXBF70MPW35",
+    "house": "Nurse Home",
+    "roomNumber": "N09",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHYKPVOJBXJR",
+    "house": "Nurse Home",
+    "roomNumber": "N09",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHIV5VN024KS",
+    "house": "Nurse Home",
+    "roomNumber": "N10",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHBKNBGJV3WB",
+    "house": "Nurse Home",
+    "roomNumber": "N10",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH61TAU1WYGI",
+    "house": "Nurse Home",
+    "roomNumber": "N11",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHPPIHYKK4L8",
+    "house": "Nurse Home",
+    "roomNumber": "N11",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHS2E3CF8NP5",
+    "house": "Nurse Home",
+    "roomNumber": "N12",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHT3C3F8T65P",
+    "house": "Nurse Home",
+    "roomNumber": "N12",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH5E3L845Z4B",
+    "house": "Nurse Home",
+    "roomNumber": "N13",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHZ5WMPSOS9E",
+    "house": "Nurse Home",
+    "roomNumber": "N13",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHNLXIGCV4H7",
+    "house": "Nurse Home",
+    "roomNumber": "N14",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHT9JB7NG3J0",
+    "house": "Nurse Home",
+    "roomNumber": "N14",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHSONF0JUH5B",
+    "house": "Nurse Home",
+    "roomNumber": "N15",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH6CW6OFJC9D",
+    "house": "Nurse Home",
+    "roomNumber": "N15",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHT6F9MUDS0W",
+    "house": "Nurse Home",
+    "roomNumber": "N16",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHE5ZP7U5CL6",
+    "house": "Nurse Home",
+    "roomNumber": "N16",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH2FT2YFA4OF",
+    "house": "Nurse Home",
+    "roomNumber": "N17",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHQOLLJZDM2I",
+    "house": "Nurse Home",
+    "roomNumber": "N17",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH2IE15C78FO",
+    "house": "Nurse Home",
+    "roomNumber": "N18",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHPYGL0308RR",
+    "house": "Nurse Home",
+    "roomNumber": "N18",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHUVBFF0WD2L",
+    "house": "Nurse Home",
+    "roomNumber": "N19",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH4324QSTHG9",
+    "house": "Nurse Home",
+    "roomNumber": "N19",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHHBIJ6VJIX9",
+    "house": "Nurse Home",
+    "roomNumber": "N20",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHP8ON6RZYID",
+    "house": "Nurse Home",
+    "roomNumber": "N20",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHHW1ZCRMHQN",
+    "house": "Nurse Home",
+    "roomNumber": "N21",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHBP9OT4T6BG",
+    "house": "Nurse Home",
+    "roomNumber": "N21",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH90CRSV4IG3",
+    "house": "Nurse Home",
+    "roomNumber": "N22",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHCN8805XKTN",
+    "house": "Nurse Home",
+    "roomNumber": "N22",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHFDMDD1KR5Q",
+    "house": "Nurse Home",
+    "roomNumber": "N23",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHLPGTRTQFBU",
+    "house": "Nurse Home",
+    "roomNumber": "N23",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHVCDVUVOXTY",
+    "house": "Nurse Home",
+    "roomNumber": "N24",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHMQRJ3Q4N56",
+    "house": "Nurse Home",
+    "roomNumber": "N24",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHPIWTIZQKZX",
+    "house": "Nurse Home",
+    "roomNumber": "N25",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHEG5ZYC165D",
+    "house": "Nurse Home",
+    "roomNumber": "N25",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH2VCC2FA214",
+    "house": "Nurse Home",
+    "roomNumber": "N26",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHJEVNJIQCCC",
+    "house": "Nurse Home",
+    "roomNumber": "N26",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHB4OBM2LNSI",
+    "house": "Nurse Home",
+    "roomNumber": "N27",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH2SE6A3G246",
+    "house": "Nurse Home",
+    "roomNumber": "N27",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH792TEFJEHP",
+    "house": "Nurse Home",
+    "roomNumber": "N28",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH873I8SV402",
+    "house": "Nurse Home",
+    "roomNumber": "N28",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHF3O1SRAQMG",
+    "house": "Nurse Home",
+    "roomNumber": "N29",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHQYBY7FFB5D",
+    "house": "Nurse Home",
+    "roomNumber": "N29",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHCRBV7S9X44",
+    "house": "Nurse Home",
+    "roomNumber": "N30",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHEQZX03W414",
+    "house": "Nurse Home",
+    "roomNumber": "N30",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHSYSF3HYLMI",
+    "house": "Nurse Home",
+    "roomNumber": "N31",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHNU6UF1RCYV",
+    "house": "Nurse Home",
+    "roomNumber": "N31",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHLN09WC3EAJ",
+    "house": "Nurse Home",
+    "roomNumber": "N32",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH02BH4R470G",
+    "house": "Nurse Home",
+    "roomNumber": "N32",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHD503DU0LD2",
+    "house": "Nurse Home",
+    "roomNumber": "N33",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHHUMR74RR8R",
+    "house": "Nurse Home",
+    "roomNumber": "N33",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH0FK5W56YJ0",
+    "house": "Nurse Home",
+    "roomNumber": "N33",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHPAVRRVLRFA",
+    "house": "Nurse Home",
+    "roomNumber": "N33",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHCOMLKSFMU1",
+    "house": "Nurse Home",
+    "roomNumber": "N34",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHMXMEOQ27AS",
+    "house": "Nurse Home",
+    "roomNumber": "N34",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHKJSQ446E8L",
+    "house": "Nurse Home",
+    "roomNumber": "N35",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHTL29MPIDD9",
+    "house": "Nurse Home",
+    "roomNumber": "N35",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHELW4YAJGKX",
+    "house": "Nurse Home",
+    "roomNumber": "N36",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHQUKFRW7DRX",
+    "house": "Nurse Home",
+    "roomNumber": "N36",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHMZEYI2LR4F",
+    "house": "Nurse Home",
+    "roomNumber": "N37",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHYCXLU71E7L",
+    "house": "Nurse Home",
+    "roomNumber": "N37",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHX1NNV00J4L",
+    "house": "Nurse Home",
+    "roomNumber": "N38",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHV7GTCNP8MR",
+    "house": "Nurse Home",
+    "roomNumber": "N38",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHNM0OI6YG5D",
+    "house": "Nurse Home",
+    "roomNumber": "N39",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHU7TKI15727",
+    "house": "Nurse Home",
+    "roomNumber": "N39",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHF0LTE564OK",
+    "house": "Nurse Home",
+    "roomNumber": "N40",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHW0Y4BLK04O",
+    "house": "Nurse Home",
+    "roomNumber": "N40",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHSBGL98G7SH",
+    "house": "Nurse Home",
+    "roomNumber": "N41",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH3GX2OQP9EY",
+    "house": "Nurse Home",
+    "roomNumber": "N41",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHI75XLR7F5R",
+    "house": "Nurse Home",
+    "roomNumber": "N41",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHNFEOAMAW99",
+    "house": "Nurse Home",
+    "roomNumber": "N41",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH4PDCWZQMGT",
+    "house": "Nurse Home",
+    "roomNumber": "N42",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH6Q2CFXMO72",
+    "house": "Nurse Home",
+    "roomNumber": "N42",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHPG4MCYRBX6",
+    "house": "Nurse Home",
+    "roomNumber": "N43",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHH3GCWICH4A",
+    "house": "Nurse Home",
+    "roomNumber": "N43",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH2KCRTTU5Z5",
+    "house": "Nurse Home",
+    "roomNumber": "N44",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH5P38B5AA6L",
+    "house": "Nurse Home",
+    "roomNumber": "N44",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHW5TTDG721J",
+    "house": "Nurse Home",
+    "roomNumber": "N45",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHALVP9O18HX",
+    "house": "Nurse Home",
+    "roomNumber": "N45",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHOXOD5WXEQ1",
+    "house": "Nurse Home",
+    "roomNumber": "N46",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHLGTMG4SNHS",
+    "house": "Nurse Home",
+    "roomNumber": "N46",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHBPZZJ9WTK2",
+    "house": "Nurse Home",
+    "roomNumber": "N47",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHV7TP5LG7VE",
+    "house": "Nurse Home",
+    "roomNumber": "N47",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH7KSBRMFXTT",
+    "house": "Nurse Home",
+    "roomNumber": "N48",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHZGOTD2T2F1",
+    "house": "Nurse Home",
+    "roomNumber": "N48",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHMY4M1NZ22T",
+    "house": "Nurse Home",
+    "roomNumber": "N49",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHMNSUPHLAEC",
+    "house": "Nurse Home",
+    "roomNumber": "N49",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHJTZ71Z47T9",
+    "house": "Nurse Home",
+    "roomNumber": "N50",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH0CA42CAEFT",
+    "house": "Nurse Home",
+    "roomNumber": "N50",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHSFQ80ETSTR",
+    "house": "Nurse Home",
+    "roomNumber": "N51",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHBMVJKX3200",
+    "house": "Nurse Home",
+    "roomNumber": "N51",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHTRETSQD7CH",
+    "house": "Nurse Home",
+    "roomNumber": "N52",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHE6U3Y4DRKI",
+    "house": "Nurse Home",
+    "roomNumber": "N52",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHO7CK1USV5A",
+    "house": "Nurse Home",
+    "roomNumber": "N53",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHTGFAEW0HEX",
+    "house": "Nurse Home",
+    "roomNumber": "N53",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH48AX7LI8G1",
+    "house": "Nurse Home",
+    "roomNumber": "N54",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHE8GG0RID39",
+    "house": "Nurse Home",
+    "roomNumber": "N54",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHA9SWE2SP5H",
+    "house": "Nurse Home",
+    "roomNumber": "N55",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHK7UXXJVFT8",
+    "house": "Nurse Home",
+    "roomNumber": "N55",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH2LRZJVZ0L7",
+    "house": "Nurse Home",
+    "roomNumber": "N56",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH0XIOTWVSO9",
+    "house": "Nurse Home",
+    "roomNumber": "N56",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHZU8A0TYWD1",
+    "house": "Nurse Home",
+    "roomNumber": "N57",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH0GJGB27PT9",
+    "house": "Nurse Home",
+    "roomNumber": "N57",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHFKTWLLYIQA",
+    "house": "Nurse Home",
+    "roomNumber": "N58",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH0J6P5N8S6U",
+    "house": "Nurse Home",
+    "roomNumber": "N58",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHFJX6OUOBSR",
+    "house": "Nurse Home",
+    "roomNumber": "N59",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHXDPSRT0GM3",
+    "house": "Nurse Home",
+    "roomNumber": "N59",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHEPRSQW5FBC",
+    "house": "Nurse Home",
+    "roomNumber": "N60",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHWJZMNRW4TL",
+    "house": "Nurse Home",
+    "roomNumber": "N60",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHIY5XGT4G55",
+    "house": "Nurse Home",
+    "roomNumber": "N61",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH4Y1VEHWWP9",
+    "house": "Nurse Home",
+    "roomNumber": "N61",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH5DLRQ5HSI9",
+    "house": "Nurse Home",
+    "roomNumber": "N62",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH8LYN8YV3W0",
+    "house": "Nurse Home",
+    "roomNumber": "N62",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHESMXNZ9XQK",
+    "house": "Nurse Home",
+    "roomNumber": "N63",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHYVCY0B5WSK",
+    "house": "Nurse Home",
+    "roomNumber": "N63",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHLLC43O9WO3",
+    "house": "Nurse Home",
+    "roomNumber": "N64",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH47QFODOV25",
+    "house": "Nurse Home",
+    "roomNumber": "N64",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHAD4JJA5F6E",
+    "house": "Nurse Home",
+    "roomNumber": "N65",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHKLCGM5THF2",
+    "house": "Nurse Home",
+    "roomNumber": "N65",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHFH3XVCG6BU",
+    "house": "Nurse Home",
+    "roomNumber": "N66",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHQZR17Z8V9S",
+    "house": "Nurse Home",
+    "roomNumber": "N66",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHLIZGWFG242",
+    "house": "Nurse Home",
+    "roomNumber": "N67",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHFFBUOJ02IC",
+    "house": "Nurse Home",
+    "roomNumber": "N67",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHYXJG2SKMQ1",
+    "house": "Nurse Home",
+    "roomNumber": "N68",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH811J7D5ZMX",
+    "house": "Nurse Home",
+    "roomNumber": "N68",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHSEV9SBCQRH",
+    "house": "Nurse Home",
+    "roomNumber": "N69",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH9LKH8GTEBT",
+    "house": "Nurse Home",
+    "roomNumber": "N69",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHCE42V6LUG7",
+    "house": "Nurse Home",
+    "roomNumber": "N70",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHVI1IARDVDD",
+    "house": "Nurse Home",
+    "roomNumber": "N70",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHU3T9QD6WE1",
+    "house": "Nurse Home",
+    "roomNumber": "N71",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHOIP5A2RWVR",
+    "house": "Nurse Home",
+    "roomNumber": "N71",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHNB6KFAZUVN",
+    "house": "Nurse Home",
+    "roomNumber": "N72",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHL5X2VWQO5W",
+    "house": "Nurse Home",
+    "roomNumber": "N72",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHURA3CD35XZ",
+    "house": "Nurse Home",
+    "roomNumber": "N73",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHJFT9XJ8TKH",
+    "house": "Nurse Home",
+    "roomNumber": "N73",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHC3ELJ60DJT",
+    "house": "Nurse Home",
+    "roomNumber": "N74",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHJJFFJAJMAZ",
+    "house": "Nurse Home",
+    "roomNumber": "N74",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHEY7SJYBV5V",
+    "house": "Nurse Home",
+    "roomNumber": "N75",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH9DU0ESUR8T",
+    "house": "Nurse Home",
+    "roomNumber": "N75",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHA41K5JC7R4",
+    "house": "Nurse Home",
+    "roomNumber": "N76",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHWLI46TZLAF",
+    "house": "Nurse Home",
+    "roomNumber": "N76",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHBQEIAO55UR",
+    "house": "Nurse Home",
+    "roomNumber": "N77",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH2Z2781RH99",
+    "house": "Nurse Home",
+    "roomNumber": "N77",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH82MR1NV100",
+    "house": "Nurse Home",
+    "roomNumber": "N78",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH3F4DH3F131",
+    "house": "Nurse Home",
+    "roomNumber": "N78",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHTBA1LPFQDB",
+    "house": "Nurse Home",
+    "roomNumber": "N79",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHRHLL7RLHU1",
+    "house": "Nurse Home",
+    "roomNumber": "N79",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHOCNR7LBOQ2",
+    "house": "Nurse Home",
+    "roomNumber": "N80",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH4KK3ZBY9U0",
+    "house": "Nurse Home",
+    "roomNumber": "N80",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHOG4R2KJOLM",
+    "house": "Nurse Home",
+    "roomNumber": "N81",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHE22TYOLRDP",
+    "house": "Nurse Home",
+    "roomNumber": "N81",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHQNW59WL8H5",
+    "house": "Nurse Home",
+    "roomNumber": "N82",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHFGDLHCBXDD",
+    "house": "Nurse Home",
+    "roomNumber": "N82",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH8DCJQUJCYO",
+    "house": "Nurse Home",
+    "roomNumber": "N83",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHS028BCRKNV",
+    "house": "Nurse Home",
+    "roomNumber": "N83",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHSSGOBFGKMY",
+    "house": "Nurse Home",
+    "roomNumber": "N84",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHZI31X0G01G",
+    "house": "Nurse Home",
+    "roomNumber": "N84",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHUDAM2LAL4L",
+    "house": "Nurse Home",
+    "roomNumber": "N85",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHK6VOP9XLRW",
+    "house": "Nurse Home",
+    "roomNumber": "N85",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHMSPBGXPQXI",
+    "house": "Nurse Home",
+    "roomNumber": "N86",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHB8LHWIVUCF",
+    "house": "Nurse Home",
+    "roomNumber": "N86",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH5OGOSKZI1Q",
+    "house": "Nurse Home",
+    "roomNumber": "N87",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHS5HVUKJ7I1",
+    "house": "Nurse Home",
+    "roomNumber": "N87",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHWTVSR4SBG3",
+    "house": "Nurse Home",
+    "roomNumber": "N88",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHLUULNMZ34O",
+    "house": "Nurse Home",
+    "roomNumber": "N88",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHRBOFADYAUY",
+    "house": "Nurse Home",
+    "roomNumber": "N89",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHCB10T9BUUK",
+    "house": "Nurse Home",
+    "roomNumber": "N89",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHWVBJDC2LB0",
+    "house": "Nurse Home",
+    "roomNumber": "N90",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHQBF8A44Z1W",
+    "house": "Nurse Home",
+    "roomNumber": "N90",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHRX6K5SI4L4",
+    "house": "Nurse Home",
+    "roomNumber": "N91",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHIRSFWLLQIC",
+    "house": "Nurse Home",
+    "roomNumber": "N91",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH98JOV547P1",
+    "house": "Nurse Home",
+    "roomNumber": "N92",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH74KGEKHMYM",
+    "house": "Nurse Home",
+    "roomNumber": "N92",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHXFWIPQOP95",
+    "house": "Nurse Home",
+    "roomNumber": "N93",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHSNQLJDAUIZ",
+    "house": "Nurse Home",
+    "roomNumber": "N93",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH4VGU6JO4T7",
+    "house": "Nurse Home",
+    "roomNumber": "N94",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHF5NU0AJ1LM",
+    "house": "Nurse Home",
+    "roomNumber": "N94",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH80532FG77J",
+    "house": "Nurse Home",
+    "roomNumber": "N95",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHU9TYUKMCKA",
+    "house": "Nurse Home",
+    "roomNumber": "N95",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHZVCGZC3H8U",
+    "house": "Nurse Home",
+    "roomNumber": "N96",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHFX7MBETS1P",
+    "house": "Nurse Home",
+    "roomNumber": "N96",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHFCQSX97SWY",
+    "house": "Nurse Home",
+    "roomNumber": "N97",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHFILZ37JP4A",
+    "house": "Nurse Home",
+    "roomNumber": "N97",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHDJ6MM4PTYA",
+    "house": "Nurse Home",
+    "roomNumber": "N98",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHL0XSYK7VO5",
+    "house": "Nurse Home",
+    "roomNumber": "N98",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHE9A7M1FWDP",
+    "house": "Nurse Home",
+    "roomNumber": "N99",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHS9CO0HDR84",
+    "house": "Nurse Home",
+    "roomNumber": "N99",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH3TAIWL7HOB",
+    "house": "Nurse Home",
+    "roomNumber": "N100",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH2B0K5HFK7O",
+    "house": "Nurse Home",
+    "roomNumber": "N100",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH040GK4LOHD",
+    "house": "Nurse Home",
+    "roomNumber": "N101",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHVSQB9S11GT",
+    "house": "Nurse Home",
+    "roomNumber": "N101",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHD3TE9KM5HA",
+    "house": "Nurse Home",
+    "roomNumber": "N102",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHHRDU2OX2VR",
+    "house": "Nurse Home",
+    "roomNumber": "N102",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHS2WAHCTI8S",
+    "house": "Nurse Home",
+    "roomNumber": "N103",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHLLN9PJA0XK",
+    "house": "Nurse Home",
+    "roomNumber": "N103",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHVSI6FC2G5X",
+    "house": "Nurse Home",
+    "roomNumber": "N104",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHX36I9WM13K",
+    "house": "Nurse Home",
+    "roomNumber": "N104",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH1Z63DS7DPB",
+    "house": "Nurse Home",
+    "roomNumber": "N105",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHTAEVZU5GB0",
+    "house": "Nurse Home",
+    "roomNumber": "N105",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHM3188TZQTC",
+    "house": "Nurse Home",
+    "roomNumber": "N106",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHJVFAI2VHF2",
+    "house": "Nurse Home",
+    "roomNumber": "N106",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHK4FA33TK42",
+    "house": "Nurse Home",
+    "roomNumber": "N107",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHKMEQLR53HM",
+    "house": "Nurse Home",
+    "roomNumber": "N107",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH6CZZ0A1XEL",
+    "house": "Nurse Home",
+    "roomNumber": "N108",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHL03Z40YQCT",
+    "house": "Nurse Home",
+    "roomNumber": "N108",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHAVJJNZAJG2",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH0YFBL2RMRO",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHXR9TS814OS",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "study_lamp",
+    "slot": 3,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH01RDFOZI99",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH4X2XTJC27O",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHMD0MGMGF8I",
+    "house": "Nurse Home",
+    "roomNumber": "FL1",
+    "capacity": 3,
+    "itemName": "mirror",
+    "slot": 3,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH21N9MJ5B72",
+    "house": "Nurse Home",
+    "roomNumber": "FL2",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHE6SY46CCJC",
+    "house": "Nurse Home",
+    "roomNumber": "FL2",
+    "capacity": 2,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHYMA1YZ2YEV",
+    "house": "Nurse Home",
+    "roomNumber": "FL2",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHQODRK76RAT",
+    "house": "Nurse Home",
+    "roomNumber": "FL2",
+    "capacity": 2,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH4R99V3KHSX",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHMFTRH53ESR",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "study_lamp",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHDB8JO8FJUB",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "study_lamp",
+    "slot": 3,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH6ITC3XOB8Y",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "study_lamp",
+    "slot": 4,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHYGKWBBJ2YD",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH9QWN7YB6N9",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "mirror",
+    "slot": 2,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH16BOB5K3GU",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "mirror",
+    "slot": 3,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHUF7UBZW8F6",
+    "house": "Nurse Home",
+    "roomNumber": "FL3",
+    "capacity": 4,
+    "itemName": "mirror",
+    "slot": 4,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHUOIIIGBFBT",
+    "house": "Nurse Home",
+    "roomNumber": "FL4",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHCQKZDHWX9T",
+    "house": "Nurse Home",
+    "roomNumber": "FL4",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNH1VOQZBBCCM",
+    "house": "Nurse Home",
+    "roomNumber": "FL6A",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHUHR5F51ILJ",
+    "house": "Nurse Home",
+    "roomNumber": "FL6A",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHDRHSBRNC5T",
+    "house": "Nurse Home",
+    "roomNumber": "FL6B",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH13BLOVSBGX",
+    "house": "Nurse Home",
+    "roomNumber": "FL6B",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHJC6FT9UJPK",
+    "house": "Nurse Home",
+    "roomNumber": "D1A",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH5AL3AZQ1N0",
+    "house": "Nurse Home",
+    "roomNumber": "D1A",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHE7V7FXLZ12",
+    "house": "Nurse Home",
+    "roomNumber": "D1B",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHXG3POPMD3I",
+    "house": "Nurse Home",
+    "roomNumber": "D1B",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHC3LRBE5LGL",
+    "house": "Nurse Home",
+    "roomNumber": "D2A",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHFS8ZFFFGSI",
+    "house": "Nurse Home",
+    "roomNumber": "D2A",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHVII4LFJI63",
+    "house": "Nurse Home",
+    "roomNumber": "D2B",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNH6B9ZHC8XBJ",
+    "house": "Nurse Home",
+    "roomNumber": "D2B",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "LNHO0UJIPYNZA",
+    "house": "Nurse Home",
+    "roomNumber": "D2C",
+    "capacity": 1,
+    "itemName": "study_lamp",
+    "slot": 1,
+    "status": "normal"
+  },
+  {
+    "barcode": "MNHVA8OX9DYVS",
+    "house": "Nurse Home",
+    "roomNumber": "D2C",
+    "capacity": 1,
+    "itemName": "mirror",
+    "slot": 1,
+    "status": "normal"
+  }
+]
