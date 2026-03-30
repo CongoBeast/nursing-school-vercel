@@ -3013,6 +3013,7 @@ app.get("/api/check-super-user/:id", async (req, res) => {
 });
 
 app.get("/api/home", (req, res) => {
+  seedRoomCapacitiesAndStatusDetailed().catch(console.error);
   res.status(200).json("Welcome, your app is working well");
 });
 
