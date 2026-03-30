@@ -268,6 +268,250 @@ async function addNewItemsToInventory() {
   }
 }
 
+async function seedRoomCapacitiesAndStatus() {
+  try {
+    const housingCollection = await getCollection("housing");
+    
+    // Define room capacities and special statuses
+    const roomConfigurations = {
+      "Adlam House": {
+        // Default capacity for Adlam House (all double rooms by default)
+        defaultCapacity: 2,
+        // Exceptions: single rooms
+        singleRooms: [
+          "A53", "A54", "A55", "A56", "A57", "A58", "A59", "A60",
+          "A90", "A91", "A92", "A93", "A94", "A95", "A96", "A97"
+        ],
+        // Unfit rooms with reasons
+        unfitRooms: [
+          // Add any unfit rooms in Adlam House here if needed
+          // Example: { roomNumber: "A15", reason: "Water damage" }
+        ]
+      },
+      "Nurse Home": {
+        // Default capacity for Nurse Home (all single rooms by default)
+        defaultCapacity: 1,
+        // Double rooms exceptions
+        doubleRooms: ["N33", "N41"],
+        // Special flat configurations
+        flats: [
+          { roomNumber: "FL1", capacity: 3, type: "flat" },
+          { roomNumber: "FL2", capacity: 2, type: "flat" },
+          { roomNumber: "FL3", capacity: 4, type: "flat" },
+          { roomNumber: "FL4", capacity: 1, type: "flat" },
+          { roomNumber: "FL6A", capacity: 1, type: "flat" },
+          { roomNumber: "FL6B", capacity: 1, type: "flat" }
+        ],
+        // Dorm rooms (single occupancy)
+        dormRooms: ["D1A", "D1B", "D2A", "D2B", "D2C"],
+        // Unfit rooms with reasons
+        unfitRooms: [
+          { roomNumber: "N64", reason: "No electricity" },
+          // Add other unfit rooms here
+          // { roomNumber: "N12", reason: "Plumbing issues" }
+        ]
+      }
+    };
+
+    // Process each house
+    for (const [house, config] of Object.entries(roomConfigurations)) {
+      // Get all rooms for this house
+      const rooms = await housingCollection.find({ house }).toArray();
+      
+      for (const room of rooms) {
+        const roomNumber = room.roomNumber;
+        let capacity = config.defaultCapacity;
+        let isFitForOccupation = true;
+        let unfitnessReason = null;
+        let roomType = "standard";
+        
+        // Check if room is a flat
+        const flatConfig = config.flats?.find(f => f.roomNumber === roomNumber);
+        if (flatConfig) {
+          capacity = flatConfig.capacity;
+          roomType = "flat";
+        }
+        // Check if room is a dorm room
+        else if (config.dormRooms?.includes(roomNumber)) {
+          capacity = 1;
+          roomType = "dorm";
+        }
+        // Check if room is a double room exception
+        else if (config.doubleRooms?.includes(roomNumber)) {
+          capacity = 2;
+          roomType = "double";
+        }
+        // Check if room is a single room exception (only for Adlam)
+        else if (config.singleRooms?.includes(roomNumber)) {
+          capacity = 1;
+          roomType = "single";
+        }
+        
+        // Check if room is unfit for occupation
+        const unfitConfig = config.unfitRooms?.find(u => u.roomNumber === roomNumber);
+        if (unfitConfig) {
+          isFitForOccupation = false;
+          unfitnessReason = unfitConfig.reason;
+        }
+        
+        // Update the room document with capacity and fit status
+        await housingCollection.updateOne(
+          { _id: room._id },
+          { 
+            $set: { 
+              capacity: capacity,
+              roomType: roomType,
+              isFitForOccupation: isFitForOccupation,
+              unfitnessReason: unfitnessReason,
+              lastUpdated: new Date()
+            }
+          }
+        );
+        
+        console.log(`Updated ${house} - ${roomNumber}: capacity=${capacity}, type=${roomType}, fit=${isFitForOccupation}${unfitnessReason ? ` (${unfitnessReason})` : ''}`);
+      }
+    }
+    
+    console.log("✅ Room capacities and statuses seeded successfully");
+    
+    // Additional validation: Log summary statistics
+    const totalRooms = await housingCollection.countDocuments();
+    const roomsWithCapacity = await housingCollection.countDocuments({ capacity: { $exists: true } });
+    const unfitRooms = await housingCollection.countDocuments({ isFitForOccupation: false });
+    
+    console.log(`📊 Summary:`);
+    console.log(`   Total rooms: ${totalRooms}`);
+    console.log(`   Rooms updated with capacity: ${roomsWithCapacity}`);
+    console.log(`   Unfit rooms: ${unfitRooms}`);
+    
+  } catch (error) {
+    console.error("❌ Error seeding room capacities:", error);
+  }
+}
+
+// Add this function to seed room capacities
+async function seedRoomCapacitiesAndStatusDetailed() {
+  try {
+    const housingCollection = await getCollection("housing");
+    
+    // Get all rooms grouped by house
+    const adlamRooms = await housingCollection.find({ house: "Adlam House" }).toArray();
+    const nurseRooms = await housingCollection.find({ house: "Nurse Home" }).toArray();
+    
+    // Process Adlam House
+    for (const room of adlamRooms) {
+      const roomNumber = room.roomNumber;
+      let capacity = 2; // Default double room
+      let roomType = "double";
+      let isFitForOccupation = true;
+      let unfitnessReason = null;
+      
+      // Single rooms in Adlam House (53-60 and 90-97)
+      const roomNumValue = parseInt(roomNumber.substring(1));
+      if ((roomNumValue >= 53 && roomNumValue <= 60) || 
+          (roomNumValue >= 90 && roomNumValue <= 97)) {
+        capacity = 1;
+        roomType = "single";
+      }
+      
+      // Check for any unfit rooms in Adlam (you can add specific ones here)
+      // Example: if (roomNumber === "A15") {
+      //   isFitForOccupation = false;
+      //   unfitnessReason = "Water damage";
+      // }
+      
+      await housingCollection.updateOne(
+        { _id: room._id },
+        {
+          $set: {
+            capacity: capacity,
+            roomType: roomType,
+            isFitForOccupation: isFitForOccupation,
+            unfitnessReason: unfitnessReason,
+            lastUpdated: new Date()
+          }
+        }
+      );
+      
+      console.log(`Updated Adlam House - ${roomNumber}: capacity=${capacity}, type=${roomType}, fit=${isFitForOccupation}`);
+    }
+    
+    // Process Nurse Home
+    for (const room of nurseRooms) {
+      const roomNumber = room.roomNumber;
+      let capacity = 1; // Default single room
+      let roomType = "single";
+      let isFitForOccupation = true;
+      let unfitnessReason = null;
+      
+      // Check for flats
+      if (roomNumber.startsWith("FL")) {
+        switch(roomNumber) {
+          case "FL1": capacity = 3; roomType = "flat"; break;
+          case "FL2": capacity = 2; roomType = "flat"; break;
+          case "FL3": capacity = 4; roomType = "flat"; break;
+          case "FL4": capacity = 1; roomType = "flat"; break;
+          case "FL6A": capacity = 1; roomType = "flat"; break;
+          case "FL6B": capacity = 1; roomType = "flat"; break;
+        }
+      }
+      // Check for dorm rooms
+      else if (roomNumber.startsWith("D")) {
+        capacity = 1;
+        roomType = "dorm";
+      }
+      // Check for double rooms exceptions
+      else if (roomNumber === "N33" || roomNumber === "N41") {
+        capacity = 2;
+        roomType = "double";
+      }
+      
+      // Check for unfit rooms
+      if (roomNumber === "N64") {
+        isFitForOccupation = false;
+        unfitnessReason = "No electricity";
+      }
+      
+      await housingCollection.updateOne(
+        { _id: room._id },
+        {
+          $set: {
+            capacity: capacity,
+            roomType: roomType,
+            isFitForOccupation: isFitForOccupation,
+            unfitnessReason: unfitnessReason,
+            lastUpdated: new Date()
+          }
+        }
+      );
+      
+      console.log(`Updated Nurse Home - ${roomNumber}: capacity=${capacity}, type=${roomType}, fit=${isFitForOccupation}${unfitnessReason ? ` (${unfitnessReason})` : ''}`);
+    }
+    
+    console.log("✅ Room capacities and statuses seeded successfully");
+    
+    // Log summary
+    const totalRooms = await housingCollection.countDocuments();
+    const unfitRooms = await housingCollection.countDocuments({ isFitForOccupation: false });
+    const flats = await housingCollection.countDocuments({ roomType: "flat" });
+    const dormRooms = await housingCollection.countDocuments({ roomType: "dorm" });
+    const singleRooms = await housingCollection.countDocuments({ roomType: "single" });
+    const doubleRooms = await housingCollection.countDocuments({ roomType: "double" });
+    
+    console.log(`\n📊 Summary:`);
+    console.log(`   Total rooms: ${totalRooms}`);
+    console.log(`   Flats: ${flats}`);
+    console.log(`   Dorm rooms: ${dormRooms}`);
+    console.log(`   Single rooms: ${singleRooms}`);
+    console.log(`   Double rooms: ${doubleRooms}`);
+    console.log(`   Unfit rooms: ${unfitRooms}`);
+    
+  } catch (error) {
+    console.error("❌ Error seeding room capacities:", error);
+  }
+}
+
+
 const generateToken = (userId) => {
   return jwt.sign({ sub: userId }, JWT_SECRET, { expiresIn: "1h" });
 };
@@ -2775,6 +3019,7 @@ app.get("/api/home", (req, res) => {
 seedHousingCollection().catch(console.error);
 seedRoomInventory().catch(console.error);
 seedItemInventory().catch(console.error);
+seedRoomCapacitiesAndStatusDetailed().catch(console.error);
 // addNewItemsToInventory().catch(console.error);
 
 module.exports = app;
