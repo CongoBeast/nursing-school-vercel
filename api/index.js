@@ -1143,7 +1143,7 @@ app.get("/api/get-room-occupancy", async (req, res) => {
       house: room.house,
       roomNumber: room.roomNumber,
       status: room.status,
-      capacity: roomCapacity || 2,
+      capacity: room.capacity || 2,
       occupancy: room.residents.length,
       residents: room.residents.map(
         (residentId) =>
