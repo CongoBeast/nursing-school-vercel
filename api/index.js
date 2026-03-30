@@ -1143,8 +1143,11 @@ app.get("/api/get-room-occupancy", async (req, res) => {
       house: room.house,
       roomNumber: room.roomNumber,
       status: room.status,
-      capacity: room.capacity || 2,
+      capacity: room.capacity || 1, // Default to 1 if capacity not set
       occupancy: room.residents.length,
+      isFitForOccupation: room.isFitForOccupation !== false, // Default to true
+      unfitnessReason: room.unfitnessReason || null,
+      roomType: room.roomType || "standard",
       residents: room.residents.map(
         (residentId) =>
           studentMap[residentId] || {
@@ -1159,20 +1162,45 @@ app.get("/api/get-room-occupancy", async (req, res) => {
     );
     const nurseRooms = roomsWithDetails.filter((r) => r.house === "Nurse Home");
 
+    // Calculate statistics using actual capacities
+    const adlamOccupied = adlamRooms.filter((r) => r.occupancy > 0).length;
+    const adlamAvailable = adlamRooms.filter((r) => r.occupancy === 0 && r.isFitForOccupation).length;
+    const adlamFull = adlamRooms.filter((r) => r.occupancy >= r.capacity).length; // Uses actual capacity
+    const adlamUnfit = adlamRooms.filter((r) => !r.isFitForOccupation).length;
+
+    const nurseOccupied = nurseRooms.filter((r) => r.occupancy > 0).length;
+    const nurseAvailable = nurseRooms.filter((r) => r.occupancy === 0 && r.isFitForOccupation).length;
+    const nurseFull = nurseRooms.filter((r) => r.occupancy >= r.capacity).length; // Uses actual capacity
+    const nurseUnfit = nurseRooms.filter((r) => !r.isFitForOccupation).length;
+
+    // Calculate total capacity and occupancy
+    const adlamTotalCapacity = adlamRooms.reduce((sum, room) => sum + (room.isFitForOccupation ? room.capacity : 0), 0);
+    const adlamTotalOccupancy = adlamRooms.reduce((sum, room) => sum + room.occupancy, 0);
+    const nurseTotalCapacity = nurseRooms.reduce((sum, room) => sum + (room.isFitForOccupation ? room.capacity : 0), 0);
+    const nurseTotalOccupancy = nurseRooms.reduce((sum, room) => sum + room.occupancy, 0);
+
     res.json({
       adlamHouse: {
-        totalRooms: 119,
+        totalRooms: adlamRooms.length, // Dynamic count instead of hardcoded 119
+        totalCapacity: adlamTotalCapacity,
+        totalOccupancy: adlamTotalOccupancy,
+        occupancyRate: adlamTotalCapacity > 0 ? ((adlamTotalOccupancy / adlamTotalCapacity) * 100).toFixed(1) : 0,
         rooms: adlamRooms,
-        occupied: adlamRooms.filter((r) => r.occupancy > 0).length,
-        available: adlamRooms.filter((r) => r.occupancy === 0).length,
-        full: adlamRooms.filter((r) => r.occupancy >= 2).length,
+        occupied: adlamOccupied,
+        available: adlamAvailable,
+        full: adlamFull,
+        unfit: adlamUnfit,
       },
       nurseHome: {
-        totalRooms: 122,
+        totalRooms: nurseRooms.length, // Dynamic count instead of hardcoded 122
+        totalCapacity: nurseTotalCapacity,
+        totalOccupancy: nurseTotalOccupancy,
+        occupancyRate: nurseTotalCapacity > 0 ? ((nurseTotalOccupancy / nurseTotalCapacity) * 100).toFixed(1) : 0,
         rooms: nurseRooms,
-        occupied: nurseRooms.filter((r) => r.occupancy > 0).length,
-        available: nurseRooms.filter((r) => r.occupancy === 0).length,
-        full: nurseRooms.filter((r) => r.occupancy >= 2).length,
+        occupied: nurseOccupied,
+        available: nurseAvailable,
+        full: nurseFull,
+        unfit: nurseUnfit,
       },
     });
   } catch (error) {
