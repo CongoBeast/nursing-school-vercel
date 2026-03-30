@@ -268,69 +268,69 @@ async function addNewItemsToInventory() {
   }
 }
 
-async function seedHousingCollection() {
-  try {
-    const housingCollection = await getCollection("housing");
-    const count = await housingCollection.countDocuments();
-    if (count > 0) {
-      console.log("ℹ️ Housing collection already exists. Skipping seed.");
-      return;
-    }
+// async function seedHousingCollection() {
+//   try {
+//     const housingCollection = await getCollection("housing");
+//     const count = await housingCollection.countDocuments();
+//     if (count > 0) {
+//       console.log("Housing collection already exists. Skipping seed.");
+//       return;
+//     }
 
-    const rooms = [];
+//     const rooms = [];
     
-    // Adlam House — 119 rooms (A01 to A119)
-    for (let i = 1; i <= 119; i++) {
-      rooms.push({
-        house: "Adlam House",
-        roomNumber: `A${i.toString().padStart(2, "0")}`,
-        residents: [],
-        fault_reports: [],
-        status: "available",
-      });
-    }
+//     // Adlam House — 119 rooms (A01 to A119)
+//     for (let i = 1; i <= 119; i++) {
+//       rooms.push({
+//         house: "Adlam House",
+//         roomNumber: `A${i.toString().padStart(2, "0")}`,
+//         residents: [],
+//         fault_reports: [],
+//         status: "available",
+//       });
+//     }
     
-    // Nurse Home — 122 rooms (N01 to N122)
-    for (let i = 1; i <= 122; i++) {
-      rooms.push({
-        house: "Nurse Home",
-        roomNumber: `N${i.toString().padStart(2, "0")}`,
-        residents: [],
-        fault_reports: [],
-        status: "available",
-      });
-    }
+//     // Nurse Home — 122 rooms (N01 to N122)
+//     for (let i = 1; i <= 122; i++) {
+//       rooms.push({
+//         house: "Nurse Home",
+//         roomNumber: `N${i.toString().padStart(2, "0")}`,
+//         residents: [],
+//         fault_reports: [],
+//         status: "available",
+//       });
+//     }
     
-    // Add special flats in Nurse Home
-    const flats = ["FL1", "FL2", "FL3", "FL4", "FL6A", "FL6B"];
-    flats.forEach(flatNumber => {
-      rooms.push({
-        house: "Nurse Home",
-        roomNumber: flatNumber,
-        residents: [],
-        fault_reports: [],
-        status: "available",
-      });
-    });
+//     // Add special flats in Nurse Home
+//     const flats = ["FL1", "FL2", "FL3", "FL4", "FL6A", "FL6B"];
+//     flats.forEach(flatNumber => {
+//       rooms.push({
+//         house: "Nurse Home",
+//         roomNumber: flatNumber,
+//         residents: [],
+//         fault_reports: [],
+//         status: "available",
+//       });
+//     });
     
-    // Add dorm rooms in Nurse Home
-    const dormRooms = ["D1A", "D1B", "D2A", "D2B", "D2C"];
-    dormRooms.forEach(dormNumber => {
-      rooms.push({
-        house: "Nurse Home",
-        roomNumber: dormNumber,
-        residents: [],
-        fault_reports: [],
-        status: "available",
-      });
-    });
+//     // Add dorm rooms in Nurse Home
+//     const dormRooms = ["D1A", "D1B", "D2A", "D2B", "D2C"];
+//     dormRooms.forEach(dormNumber => {
+//       rooms.push({
+//         house: "Nurse Home",
+//         roomNumber: dormNumber,
+//         residents: [],
+//         fault_reports: [],
+//         status: "available",
+//       });
+//     });
     
-    await housingCollection.insertMany(rooms);
-    console.log(`✅ Housing seeded: ${rooms.length} total rooms`);
-  } catch (error) {
-    console.error("Error seeding housing collection:", error);
-  }
-}
+//     await housingCollection.insertMany(rooms);
+//     console.log(` Housing seeded: ${rooms.length} total rooms`);
+//   } catch (error) {
+//     console.error("Error seeding housing collection:", error);
+//   }
+// }
 
 // Your seeding function - I'll keep the detailed version
 async function seedRoomCapacitiesAndStatusDetailed() {
@@ -2947,7 +2947,7 @@ app.get("/api/home", (req, res) => {
 // seedHousingCollection().catch(console.error);
 // seedRoomInventory().catch(console.error);
 // seedItemInventory().catch(console.error);
-seedRoomCapacitiesAndStatusDetailed().catch(console.error);
+// seedRoomCapacitiesAndStatusDetailed().catch(console.error);
 // addNewItemsToInventory().catch(console.error);
 
 module.exports = app;
