@@ -482,13 +482,34 @@ app.post("/api/register", async (req, res) => {
       return res.status(400).json({ message: "Passwords do not match" });
     }
 
-    const existingUser = await usersCollection.findOne({
-      $or: [{ username }, { email }],
-    });
+    // const existingUser = await usersCollection.findOne({
+    //   $or: [{ username }, { email }],
+    // });
 
-    if (existingUser) {
-      return res.status(400).json({ message: "User already exists" });
-    }
+    // if (existingUser) {
+    //   return res.status(400).json({ message: "User already exists" });
+    // }
+     const existingUser = await usersCollection.findOne({
+    $or: [
+      { username: username.trim().toLowerCase() },
+      { email: email.trim().toLowerCase() },
+      ...(userType === 'student' && studentId ? [{ studentId }] : []),
+      ...(userType === 'staff'   && staffId   ? [{ staffId }]   : []),
+    ]
+  });
+  if (existingUser) {
+    if (existingUser.username === username.trim().toLowerCase())
+      return res.status(409).json({ message: 'Username is already taken.' });
+    if (existingUser.email === email.trim().toLowerCase())
+      return res.status(409).json({ message: 'An account with this email already exists.' });
+    if (existingUser.studentId === studentId)
+      return res.status(409).json({ message: 'This student ID is already registered.' });
+    if (existingUser.staffId === staffId)
+      return res.status(409).json({ message: 'This staff ID is already registered.' });
+    return res.status(409).json({ message: 'Account already exists.' });
+  }
+
+    
 
     const hashedPassword = await encryptPassword(password);
 
