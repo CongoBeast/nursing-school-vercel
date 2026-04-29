@@ -3031,6 +3031,6 @@ app.get("/api/home", (req, res) => {
 // seedItemInventory().catch(console.error);
 // seedRoomCapacitiesAndStatusDetailed().catch(console.error);
 // addNewItemsToInventory().catch(console.error);
-fixRoomStatuses().catch(console.error);
+// fixRoomStatuses().catch(console.error);
 
 module.exports = app;
