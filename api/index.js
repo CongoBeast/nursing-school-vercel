@@ -71,6 +71,37 @@ async function getCollection(name) {
   return db.collection(name);
 }
 
+async function fixRoomStatuses() {
+  try {
+    const housingCollection =  await getCollection("housing");
+    const rooms = await housingCollection.find({}).toArray();
+
+    let fixed = 0;
+    let alreadyCorrect = 0;
+
+    for (const room of rooms) {
+      const occupancy = room.residents?.length || 0;
+      const capacity = room.capacity || 1;
+      const correctStatus = occupancy >= capacity ? "occupied" : "available";
+
+      if (room.status !== correctStatus) {
+        await housingCollection.updateOne(
+          { _id: room._id },
+          { $set: { status: correctStatus, lastUpdated: new Date() } }
+        );
+        console.log(`🔧 Fixed ${room.house} - ${room.roomNumber}: "${room.status}" → "${correctStatus}" (${occupancy}/${capacity})`);
+        fixed++;
+      } else {
+        alreadyCorrect++;
+      }
+    }
+
+    console.log(`\n✅ Done. Fixed: ${fixed} | Already correct: ${alreadyCorrect} | Total: ${rooms.length}`);
+  } catch (error) {
+    console.error("❌ Error fixing room statuses:", error);
+  }
+}
+
 async function seedHousingCollection() {
   try {
     const housingCollection = await getCollection("housing");
@@ -3000,5 +3031,6 @@ app.get("/api/home", (req, res) => {
 // seedItemInventory().catch(console.error);
 // seedRoomCapacitiesAndStatusDetailed().catch(console.error);
 // addNewItemsToInventory().catch(console.error);
+fixRoomStatuses().catch(console.error);
 
 module.exports = app;
