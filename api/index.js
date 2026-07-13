@@ -1031,10 +1031,12 @@ app.post("/api/move-student-housing", async (req, res) => {
       return res.status(404).json({ message: "New room not found" });
     }
 
-    if (newRoomData.residents && newRoomData.residents.length >= 2) {
+    const roomCapacity = newRoomData.capacity || 2; // fallback to 1 if not set
+    if (newRoomData.residents && newRoomData.residents.length >= roomCapacity) {
       return res.status(400).json({
-        message: "New room is full",
+        message: `New room is full (capacity: ${roomCapacity})`,
         currentResidents: newRoomData.residents.length,
+        capacity: roomCapacity
       });
     }
 
